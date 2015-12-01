@@ -18,6 +18,7 @@
 #include <stdlib.h>
 
 const long long max_size = 2000;         // max length of strings
+const long long max_doc_size = 256;      // max count of words in doc
 const long long N = 40;                  // number of closest words that will be shown
 const long long max_w = 50;              // max length of vocabulary entries
 long long words, size;
@@ -48,6 +49,8 @@ void str_to_vec(char st1[], float *vec, long long *bi) {
     }
   }
   cn++;
+  
+  for (a = 0; a < max_doc_size; a++) bi[a] = 0;
   for (a = 0; a < cn; a++) {
     for (b = 0; b < words; b++) if (!strcmp(&vocab[b * max_w], st[a])) break;
     if (b == words) b = -1;
@@ -91,11 +94,11 @@ const char* getfield(char* line, int num) {
   
   int i = 0;
   while( token != NULL ) {
-    printf( "%i: %s\n", i++, token);
-    token = strtok(NULL, s);
     if (i == num) {
       return token;
     }
+    token = strtok(NULL, s);
+    i++;
   }
   
   return NULL;
@@ -105,8 +108,8 @@ const char* getfield(char* line, int num) {
 int main(int argc, char **argv) {
   FILE *f;
   char *bestw[N];
-  float dist, len, bestd[N], vec[max_size], ans1[max_size], ans2[max_size], ans3[max_size], ans4[max_size];
-  long long a, b, c, d, cn, bi[256], a1bi[256], a2bi[256], a3bi[256], a4bi[256];
+  float dist, len, bestd[N], vec[max_size], ans[max_size];
+  long long a, b, c, d, cn, bi[max_doc_size], abi[max_doc_size];
 
   f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin", "rb");
   if (f == NULL) {
@@ -166,21 +169,26 @@ int main(int argc, char **argv) {
   stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.tsv", "r");
   char line[10000];
   
+  fgets(line, 10000, stream);
   while (fgets(line, 10000, stream)) {
+    
     char* tmp = strdup(line);
-    printf("Field 3 would be %s\n", getfield(tmp, 1));
-    
+    char* field = getfield(tmp, 1);
+//    printf("Question: %s\n", field);
+    str_to_vec(field, vec, bi);
+
     tmp = strdup(line);
-    printf("Field 3 would be %s\n", getfield(tmp, 2));
+    field = getfield(tmp, 0);
+    printf("\n%s", field);
     
-    tmp = strdup(line);
-    printf("Field 3 would be %s\n", getfield(tmp, 3));
-    
-    tmp = strdup(line);
-    printf("Field 3 would be %s\n", getfield(tmp, 4));
-    
-    tmp = strdup(line);
-    printf("Field 3 would be %s\n", getfield(tmp, 5));
+    for (int i = 2; i <= 5; i++) {
+      tmp = strdup(line);
+      field = getfield(tmp, i);
+      str_to_vec(field, ans, abi);
+      
+      dist = distance(vec, ans);
+      printf(", %f", dist);
+    }
 
     free(tmp);
   }
