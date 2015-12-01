@@ -70,12 +70,9 @@ void str_to_vec(char st1[], float *vec, long long *bi) {
 
 int main(int argc, char **argv) {
   FILE *f;
-  char st1[max_size];
   char *bestw[N];
-  char file_name[max_size], st[100][max_size];
   float dist, len, bestd[N], vec[max_size];
   long long a, b, c, d, cn, bi[100];
-  char ch;
 
   f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin", "rb");
   if (f == NULL) {
