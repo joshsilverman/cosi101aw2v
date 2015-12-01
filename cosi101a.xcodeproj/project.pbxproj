@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9EA981AC1C0D093C007B77FA /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 9EA981AB1C0D093C007B77FA /* main.c */; };
+		9EA981D41C0D0A1A007B77FA /* distance.c in Sources */ = {isa = PBXBuildFile; fileRef = 9EA981D31C0D0A1A007B77FA /* distance.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		9EA981A81C0D093C007B77FA /* cosi101a */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cosi101a; sourceTree = BUILT_PRODUCTS_DIR; };
-		9EA981AB1C0D093C007B77FA /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		9EA981D31C0D0A1A007B77FA /* distance.c */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.c.c; path = distance.c; sourceTree = "<group>"; tabWidth = 2; };
+		9EA981D51C0D0A7F007B77FA /* vectors.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = vectors.bin; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,8 @@
 		9EA981AA1C0D093C007B77FA /* cosi101a */ = {
 			isa = PBXGroup;
 			children = (
-				9EA981AB1C0D093C007B77FA /* main.c */,
+				9EA981D51C0D0A7F007B77FA /* vectors.bin */,
+				9EA981D31C0D0A1A007B77FA /* distance.c */,
 			);
 			path = cosi101a;
 			sourceTree = "<group>";
@@ -118,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EA981AC1C0D093C007B77FA /* main.c in Sources */,
+				9EA981D41C0D0A1A007B77FA /* distance.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,6 +237,7 @@
 				9EA981B11C0D093C007B77FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
