@@ -25,11 +25,13 @@ float *M;
 char *vocab;
 
 void str_to_vec(char st1[], float *vec, long long *bi);
+float distance(float *vec1, float *vec2);
 
 void str_to_vec(char st1[], float *vec, long long *bi) {
   long long a, b, c, cn;
-  char st[100][max_size];
-  printf("string: %s", st1);
+  char st[256][max_size];
+  float len;
+//  printf("string: %s\n", st1);
   cn = 0;
   b = 0;
   c = 0;
@@ -50,29 +52,61 @@ void str_to_vec(char st1[], float *vec, long long *bi) {
     for (b = 0; b < words; b++) if (!strcmp(&vocab[b * max_w], st[a])) break;
     if (b == words) b = -1;
     bi[a] = b;
-    printf("\nWord: %s  Position in vocabulary: %lld\n", st[a], bi[a]);
+//    printf("\nWord: %s  Position in vocabulary: %lld\n", st[a], bi[a]);
     if (b == -1) {
-      printf("Out of dictionary word!\n");
+//      printf("Out of dictionary word!\n");
       break;
     }
   }
   
-  if (b == -1) return;
-  printf("\n                                              Word       Cosine distance\n------------------------------------------------------------------------\n");
+//  if (b == -1) return;
+//  printf("\n                                              Word       Cosine distance\n------------------------------------------------------------------------\n");
   for (a = 0; a < size; a++) vec[a] = 0;
   for (b = 0; b < cn; b++) {
     if (bi[b] == -1) return;
     for (a = 0; a < size; a++) vec[a] += M[a + bi[b] * size];
   }
   
+  len = 0;
+  for (a = 0; a < size; a++) len += vec[a] * vec[a];
+  len = sqrt(len);
+  for (a = 0; a < size; a++) vec[a] /= len;
+  
   return;
 }
+
+float distance(float *vec1, float *vec2) {
+  float dist;
+  
+  dist = 0;
+  for (int a = 0; a < size; a++) dist += vec1[a] * vec2[a];
+  
+  return dist;
+}
+
+const char* getfield(char* line, int num) {
+  const char* token;
+  char s[2] = ",";
+  token = strtok(line, s);
+  
+  int i = 0;
+  while( token != NULL ) {
+    printf( "%i: %s\n", i++, token);
+    token = strtok(NULL, s);
+    if (i == num) {
+      return token;
+    }
+  }
+  
+  return NULL;
+}
+
 
 int main(int argc, char **argv) {
   FILE *f;
   char *bestw[N];
-  float dist, len, bestd[N], vec[max_size];
-  long long a, b, c, d, cn, bi[100];
+  float dist, len, bestd[N], vec[max_size], ans1[max_size], ans2[max_size], ans3[max_size], ans4[max_size];
+  long long a, b, c, d, cn, bi[256], a1bi[256], a2bi[256], a3bi[256], a4bi[256];
 
   f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin", "rb");
   if (f == NULL) {
@@ -106,32 +140,48 @@ int main(int argc, char **argv) {
   for (a = 0; a < N; a++) bestd[a] = 0;
   for (a = 0; a < N; a++) bestw[a][0] = 0;
 
-  str_to_vec("eye ear", vec, bi);
-  
-  len = 0;
-  for (a = 0; a < size; a++) len += vec[a] * vec[a];
-  len = sqrt(len);
-  for (a = 0; a < size; a++) vec[a] /= len;
-  for (a = 0; a < N; a++) bestd[a] = -1;
-  for (a = 0; a < N; a++) bestw[a][0] = 0;
-  for (c = 0; c < words; c++) {
-    a = 0;
-    for (b = 0; b < cn; b++) if (bi[b] == c) a = 1;
-    if (a == 1) continue;
-    dist = 0;
-    for (a = 0; a < size; a++) dist += vec[a] * M[a + c * size];
-    for (a = 0; a < N; a++) {
-      if (dist > bestd[a]) {
-        for (d = N - 1; d > a; d--) {
-          bestd[d] = bestd[d - 1];
-          strcpy(bestw[d], bestw[d - 1]);
-        }
-        bestd[a] = dist;
-        strcpy(bestw[a], &vocab[c * max_w]);
-        break;
-      }
-    }
+  for (int i = 0; i < argc; ++i) {
+    printf("argv[%d]: %s\n", i, argv[i]);
   }
-  for (a = 0; a < N; a++) printf("%50s\t\t%f\n", bestw[a], bestd[a]);
-  return 0;
+  
+//  str_to_vec(argv[2], vec, bi);
+//  
+//  str_to_vec(argv[3], ans1, a1bi);
+//  dist = distance(vec, ans1);
+//  printf("%f", dist);
+//  
+//  str_to_vec(argv[4], ans2, a2bi);
+//  dist = distance(vec, ans2);
+//  printf(", %f", dist);
+//
+//  str_to_vec(argv[5], ans3, a3bi);
+//  dist = distance(vec, ans3);
+//  printf(", %f", dist);
+//  
+//  str_to_vec(argv[6], ans4, a4bi);
+//  dist = distance(vec, ans4);
+//  printf(", %f", dist);
+  
+  FILE* stream;
+  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.tsv", "r");
+  char line[10000];
+  
+  while (fgets(line, 10000, stream)) {
+    char* tmp = strdup(line);
+    printf("Field 3 would be %s\n", getfield(tmp, 1));
+    
+    tmp = strdup(line);
+    printf("Field 3 would be %s\n", getfield(tmp, 2));
+    
+    tmp = strdup(line);
+    printf("Field 3 would be %s\n", getfield(tmp, 3));
+    
+    tmp = strdup(line);
+    printf("Field 3 would be %s\n", getfield(tmp, 4));
+    
+    tmp = strdup(line);
+    printf("Field 3 would be %s\n", getfield(tmp, 5));
+
+    free(tmp);
+  }
 }
