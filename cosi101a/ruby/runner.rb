@@ -3,8 +3,8 @@ require 'pry'
 
 ans_r = ["A", "B", "C", "D"]
 
-CSV.open("../data/submission.csv", "wb") do |csv|
-  cmd = "./../distance"
+CSV.open("data/submission.csv", "wb") do |csv|
+  cmd = "./distance"
   puts "cmd: #{cmd}"
   ret = `#{cmd}`
   

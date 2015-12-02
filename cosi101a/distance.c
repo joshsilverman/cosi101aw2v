@@ -113,7 +113,7 @@ int main(int argc, char **argv) {
   long long a, b, c, cn, bi[max_doc_size], abi[max_doc_size];
   int first_ans_i;
 
-  f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin", "rb");
+  f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin.big", "rb");
   if (f == NULL) {
     printf("Input file not found\n");
     return -1;
@@ -150,7 +150,7 @@ int main(int argc, char **argv) {
   }
   
   FILE* stream;
-//  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.tsv", "r");
+//  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.csv", "r");
 //  first_ans_i = 2;
   
   stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/training_set.csv", "r");
