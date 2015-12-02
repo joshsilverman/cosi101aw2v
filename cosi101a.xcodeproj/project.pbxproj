@@ -26,6 +26,7 @@
 		9EA981A81C0D093C007B77FA /* cosi101a */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cosi101a; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EA981D31C0D0A1A007B77FA /* distance.c */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 2; lastKnownFileType = sourcecode.c.c; path = distance.c; sourceTree = "<group>"; tabWidth = 2; };
 		9EA981D51C0D0A7F007B77FA /* vectors.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = vectors.bin; sourceTree = "<group>"; };
+		9EA981DD1C0E3C46007B77FA /* data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = data; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			children = (
 				9EA981D51C0D0A7F007B77FA /* vectors.bin */,
 				9EA981D31C0D0A1A007B77FA /* distance.c */,
+				9EA981DD1C0E3C46007B77FA /* data */,
 			);
 			path = cosi101a;
 			sourceTree = "<group>";
