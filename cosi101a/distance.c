@@ -153,7 +153,7 @@ int main(int argc, char **argv) {
 //  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.tsv", "r");
 //  first_ans_i = 2;
   
-  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/training_set.tsv", "r");
+  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/training_set.csv", "r");
   first_ans_i = 3;
   
   char line[max_question_len];

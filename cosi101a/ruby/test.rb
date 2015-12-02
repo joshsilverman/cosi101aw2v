@@ -2,11 +2,12 @@ require 'csv'
 require 'pry'
 
 ans_r = ["a", "b", "c", "d"]
-cmd = "./../distance"
+cmd = "./distance"
 ret = `#{cmd}`
 predictions = {}
 
 qs_raw = ret.split("\n")[2..-1]
+# binding.pry
 qs_raw.each do |q|
   q_raw = q.split(', ')
   id = q_raw.shift.to_i
@@ -16,7 +17,7 @@ qs_raw.each do |q|
 end
 
 truth_set = {}
-CSV.foreach("../data/training_set.tsv") do |row|
+CSV.foreach("data/training_set.csv") do |row|
   id = row[0].to_i
   truth_set[id] = row[2] if id > 0
   # binding.pry
@@ -26,7 +27,7 @@ correct_h = {}
 correct_count = 0.0
 total = 0.0
 truth_set.each do |id, correct_letter|
-  correct_bool = correct_letter == predictions[id]
+  correct_bool = correct_letter.downcase == predictions[id].downcase
   correct_h[id] = correct_bool
 
   total += 1
