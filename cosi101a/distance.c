@@ -28,7 +28,55 @@ char *vocab;
 
 void str_to_vec(char st1[], float *vec, long long *bi);
 float distance(float *vec1, float *vec2);
+void str_to_words_vec(char st1[], long long *bi) {
+	long long a, b, c, cn;
+	char st[256][max_size];
+	float len;
+	//  printf("string: %s\n", st1);
+	cn = 0;
+	b = 0;
+	c = 0;
+	while (1) {
+		st[cn][b] = st1[c];
+		b++;
+		c++;
+		st[cn][b] = 0;
+		if (st1[c] == 0) break;
+		if (st1[c] == ' ') {
+			cn++;
+			b = 0;
+			c++;
+		}
+	}
+	cn++;
 
+	for (a = 0; a < max_doc_size; a++) bi[a] = 0;
+	for (a = 0; a < cn; a++) {
+		for (b = 0; b < words; b++) if (!strcmp(&vocab[b * max_w], st[a])) break;
+		if (b == words) b==-1;
+		bi[a] = b;
+		//    printf("\nWord: %s  Position in vocabulary: %lld\n", st[a], bi[a]);
+		if (b == -1) {
+			//      printf("Out of dictionary word!\n");
+			break;
+		}
+	}
+
+	//  if (b == -1) return;
+	//  printf("\n                                              Word       Cosine distance\n------------------------------------------------------------------------\n");
+	//for (a = 0; a < size; a++) vec[a] = 0;
+//	for (b = 0; b < cn; b++) {
+	//	if (bi[b] == -1) return;
+	//	for (a = 0; a < size; a++) vec[a] += M[a + bi[b] * size];
+	//}
+
+	//len = 0;
+	//for (a = 0; a < size; a++) len += vec[a] * vec[a];
+	//len = sqrt(len);
+	//for (a = 0; a < size; a++) vec[a] /= len;
+
+	return;
+}
 void str_to_vec(char st1[], float *vec, long long *bi) {
   long long a, b, c, cn;
   char st[256][max_size];
@@ -115,6 +163,8 @@ const char* getfield(char* line, int num) {
   return NULL;
 }
 
+
+
 int main(int argc, char **argv) {
   FILE *f;
   char *bestw[N];
@@ -176,22 +226,48 @@ int main(int argc, char **argv) {
     }
     
     char* tmp = strdup(line);
-    char* field = getfield(tmp, 1);
+    char* field = getfield(tmp, 1);//question
 //    printf("\nQuestion: %s\n", field);
-    str_to_vec(field, vec, bi);
+    str_to_words_vec(field, bi);
 
     tmp = strdup(line);
     field = getfield(tmp, 0);
-    printf("\n%s", field);
-    
+	//float temp = 0;
+	//int num = 0;
+    printf("\n%s", field);//question number
+	int q = 0;
+	int p = 0;
     for (int i = first_ans_i; i <= first_ans_i + 3; i++) {
       tmp = strdup(line);
-      field = getfield(tmp, i);
-//      printf("%i: %s,", i, field);
-      
-      str_to_vec(field, ans, abi);
-      
-      dist = distance(vec, ans);
+      field = getfield(tmp, i);//answers
+//      printf("%i: %s,", i, field);      
+      str_to_words_vec(field, abi);
+	  q = 0;	  
+	  dist = 0;
+	  len = 0;
+	 //  temp = 0;
+	  // num = 0;
+	  /*
+	   len = 0;
+  for (a = 0; a < size; a++) len += vec[a] * vec[a];
+  len = sqrt(len);
+  for (a = 0; a < size; a++) vec[a] /= len;*/
+	  while (bi[q] != -1)
+	  {
+		  p = 0;
+		  q++;
+		  for (int a = 0; a < size; a++) vec[a] = M[a + bi[q] * size];
+		  while (abi[p] != -1)
+		  {
+			  
+			  for (int a = 0; a < size; a++) ans[a] = M[a + abi[p] * size];
+			  dist+= distance(vec, ans);
+			  
+		  }
+		  len += p;
+		 
+	  }
+	  dist /= len;
       printf(", %f", dist);
     }
 
