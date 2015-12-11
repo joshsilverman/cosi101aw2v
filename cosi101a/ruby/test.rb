@@ -17,7 +17,7 @@ qs_raw.each do |q|
 end
 
 truth_set = {}
-CSV.foreach("data/training_set.csv") do |row|
+CSV.foreach("data/training_set_tfidf.csv") do |row|
   id = row[0].to_i
   truth_set[id] = row[2] if id > 0
   # binding.pry

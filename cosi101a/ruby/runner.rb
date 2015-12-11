@@ -7,6 +7,7 @@ CSV.open("data/submission.csv", "wb") do |csv|
   cmd = "./distance"
   puts "cmd: #{cmd}"
   ret = `#{cmd}`
+  puts ret
   
   csv << ['id', 'correctAnswer']
   qs_raw = ret.split("\n")[2..-1]
