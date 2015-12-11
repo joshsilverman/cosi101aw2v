@@ -79,13 +79,23 @@ void str_to_vec(char st1[], float *vec, long long *bi) {
   return;
 }
 
-float distance(float *vec1, float *vec2) {
-  float dist;
-  
-  dist = 0;
-  for (int a = 0; a < size; a++) dist += vec1[a] * vec2[a];
-  
-  return dist;
+//float distance(float *vec1, float *vec2) {
+//  float dist;
+//  
+//  dist = 0;
+//  for (int a = 0; a < size; a++) dist += vec1[a] * vec2[a];
+//  
+//  return dist;
+//}
+
+float distance(float *A, float *B) {
+  double dot = 0.0, denom_a = 0.0, denom_b = 0.0 ;
+  for(unsigned int i = 0u; i < size; ++i) {
+    dot += A[i] * B[i] ;
+    denom_a += A[i] * A[i] ;
+    denom_b += B[i] * B[i] ;
+  }
+  return dot / (sqrt(denom_a) * sqrt(denom_b)) ;
 }
 
 const char* getfield(char* line, int num) {
@@ -104,7 +114,6 @@ const char* getfield(char* line, int num) {
   
   return NULL;
 }
-
 
 int main(int argc, char **argv) {
   FILE *f;
