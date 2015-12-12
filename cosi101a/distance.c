@@ -1,4 +1,4 @@
-//  Copyright 2013 Google Inc. All Rights Reserved.
+﻿//  Copyright 2013 Google Inc. All Rights Reserved.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
 //  you may not use this file except in compliance with the License.
@@ -18,6 +18,7 @@
 #include <math.h>
 #include <stdlib.h>
 
+
 #define max_size  2000         // max length of strings
 #define max_doc_size  256      // max count of words in doc
 #define N  40                 // number of closest words that will be shown
@@ -26,6 +27,119 @@
 long long words, size;
 float *M;
 char *vocab;
+
+/*Heap*/
+#define LCHILD(x) 2 * x + 1
+#define RCHILD(x) 2 * x + 2
+#define PARENT(x) (x-1) / 2
+typedef struct HeapNode {
+	float data;
+	int vertIndx;
+} HeapNode;
+struct Heap {
+	int nextRB;
+	struct HeapNode* list;
+};
+struct Heap* heap;
+
+void heapInit()
+{
+	heap = (struct Heap*) malloc(sizeof(struct Heap));
+	heap->list = (struct HeapNode*) malloc(10000 * sizeof(struct HeapNode));
+	heap->nextRB = 0;
+}
+
+void heapExchange(int i, int j)
+{
+	struct HeapNode temp = heap->list[i];
+	heap->list[i] = heap->list[j];
+	heap->list[j] = temp;
+}
+/*
+procedure PERCUP(i):
+while i>0 and H[i]<H[PARENT(i)] do begin
+exchange H[i] with H[PARENT(i)]
+i := PARENT(i)
+end
+end
+*/
+void heapPercup(int i)
+{
+
+	while (i > 0 && heap->list[i].data > heap->list[PARENT(i)].data)
+	{
+		heapExchange(i, PARENT(i));
+		i = PARENT(i);
+	}
+}
+/*
+procedure INSERT(d):
+if nextRB ≥ n then ERROR — heap is full
+else begin
+H[nextRB] := d
+PERCUP(nextRB)
+nextRB := nextRB+1
+end
+end
+*/
+void heapInsert(float d)
+{
+	heap->list[heap->nextRB].data = d;
+	heapPercup(heap->nextRB);
+	heap->nextRB = heap->nextRB + 1;
+}
+/*
+procedure PERCDOWN(i)
+while i is not a leaf and H[i] is greater than one of its children do begin
+Determine the child j of i such that H[j] is the smallest.
+Exchange H[i] with H[j].
+i := j
+end
+end
+*/
+void heapPercdown(int i)
+{
+
+	while (i<(heap->nextRB) / 2)
+	{
+		if (heap->nextRB <= RCHILD(i) || heap->list[LCHILD(i)].data >= heap->list[RCHILD(i)].data)
+		{
+			if (heap->list[i].data >= heap->list[LCHILD(i)].data)
+				break;
+			heapExchange(i, LCHILD(i));
+			i = LCHILD(i);
+		}
+		else
+		{
+			if (heap->list[i].data >= heap->list[RCHILD(i)].data)
+				break;
+			heapExchange(i, RCHILD(i));
+			i = RCHILD(i);
+		}
+	}
+}
+
+/*
+function DELETEMIN:
+if nextRB ≤ 0 then ERROR — heap is empty
+else begin
+nextRB := nextRB–1
+exchange H[0] and H[nextRB]
+PERCDOWN(0)
+return H[nextRB]
+end
+end
+*/
+HeapNode* heapDeleteMax()
+{
+	//if (heap->nextRB <= 0)
+	//return NULL;
+	heap->nextRB = heap->nextRB - 1;
+	heapExchange(0, heap->nextRB);
+	heapPercdown(0);
+	return &heap->list[heap->nextRB];
+}
+
 
 void str_to_vec(char st1[], float *vec, long long *bi);
 float distance(float *vec1, float *vec2);
@@ -173,13 +287,13 @@ const char* getfield(char* line, int num) {
 
 
 int main(int argc, char **argv) {
-  FILE *f;
+	FILE *f;
   char *bestw[N];
   float temp, dist, len, bestd[N], vec[max_size], ans[max_size];
   long long a, b, c, cn, bi[max_doc_size], abi[max_doc_size];
   int first_ans_i;
 
-  f = fopen("E:\\GitDir\\Similarity\\cosi101a\\vectors.bin.big", "rb");
+  f = fopen("E:\\GitDir\\Similarity2\\cosi101a\\vectors.bin.big", "rb");
   if (f == NULL) {
     printf("Input file not found\n");
     return -1;
@@ -219,8 +333,8 @@ int main(int argc, char **argv) {
 //  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.csv", "r");
 //  first_ans_i = 2;
   
-  stream = fopen("E:\\GitDir\\Similarity\\cosi101a\\data\\validation_set.csv", "r");
-  first_ans_i = 2;
+  stream = fopen("E:\\GitDir\\Similarity2\\cosi101a\\data\\training_set.csv", "r");
+  first_ans_i = 3;
   
   char line[max_question_len];
   
@@ -244,6 +358,7 @@ int main(int argc, char **argv) {
     printf("\n%s", field);//question number
 	int q = 0;
 	int p = 0;
+	heapInit();
     for (int i = first_ans_i; i <= first_ans_i + 3; i++) {
       tmp = strdup(line);
       field = getfield(tmp, i);//answers
@@ -268,17 +383,23 @@ int main(int argc, char **argv) {
 			  
 			  for (int a = 0; a < size; a++) ans[a] = M[a + abi[p] * size];
 			  
-			  temp= distance(vec, ans);
-			  if (temp > 0.2)
-			  {
-				  dist += temp;
-				  len++;
-			  }
+			  heapInsert(distance(vec, ans));
+			 // if (temp > 0.2)
+			//  {
+				 // dist += temp;
+				  //len++;
+			//  }
 			  p++;
 		  }
 		  //len += p;
 		  p = 0;
 		  q++;
+	  }
+	  len = 0;
+	  while (heap->nextRB>0 && len<250)
+	  {
+		  len++;
+		  dist += heapDeleteMax()->data;
 	  }
 	  dist /= len;
       printf(", %f", dist);
