@@ -11,17 +11,18 @@
 //  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
-
+#define _CRT_NONSTDC_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
 
-const long long max_size = 2000;         // max length of strings
-const long long max_doc_size = 256;      // max count of words in doc
-const long long N = 40;                  // number of closest words that will be shown
-const long long max_w = 50;              // max length of vocabulary entries
-const long long max_question_len = 10000;
+#define max_size  2000         // max length of strings
+#define max_doc_size  256      // max count of words in doc
+#define N  40                 // number of closest words that will be shown
+#define max_w  50              // max length of vocabulary entries
+#define max_question_len 10000
 long long words, size;
 float *M;
 char *vocab;
@@ -29,13 +30,15 @@ char *vocab;
 void str_to_vec(char st1[], float *vec, long long *bi);
 float distance(float *vec1, float *vec2);
 void str_to_words_vec(char st1[], long long *bi) {
-	long long a, b, c, cn;
+	long long a, b, c,d, cn;
 	char st[256][max_size];
 	float len;
 	//  printf("string: %s\n", st1);
 	cn = 0;
 	b = 0;
 	c = 0;
+	while (st1[c] == ' ')
+		c++;
 	while (1) {
 		st[cn][b] = st1[c];
 		b++;
@@ -49,19 +52,23 @@ void str_to_words_vec(char st1[], long long *bi) {
 		}
 	}
 	cn++;
-
+	d = 0;
 	for (a = 0; a < max_doc_size; a++) bi[a] = 0;
 	for (a = 0; a < cn; a++) {
-		for (b = 0; b < words; b++) if (!strcmp(&vocab[b * max_w], st[a])) break;
-		if (b == words) b==-1;
-		bi[a] = b;
+		for (b = 0; b < words; b++) 
+			if (!strcmp(&vocab[b * max_w], st[a])) break;
+		if (b == words)
+		continue;
+		
+		bi[d] = b;
+		d++;
 		//    printf("\nWord: %s  Position in vocabulary: %lld\n", st[a], bi[a]);
-		if (b == -1) {
+		//if (b == -1) {
 			//      printf("Out of dictionary word!\n");
-			break;
-		}
+			//break;
+		//}
 	}
-
+	bi[d] = -1;
 	//  if (b == -1) return;
 	//  printf("\n                                              Word       Cosine distance\n------------------------------------------------------------------------\n");
 	//for (a = 0; a < size; a++) vec[a] = 0;
@@ -168,11 +175,11 @@ const char* getfield(char* line, int num) {
 int main(int argc, char **argv) {
   FILE *f;
   char *bestw[N];
-  float dist, len, bestd[N], vec[max_size], ans[max_size];
+  float temp, dist, len, bestd[N], vec[max_size], ans[max_size];
   long long a, b, c, cn, bi[max_doc_size], abi[max_doc_size];
   int first_ans_i;
 
-  f = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/vectors.bin.big", "rb");
+  f = fopen("E:\\GitDir\\Similarity\\cosi101a\\vectors.bin.big", "rb");
   if (f == NULL) {
     printf("Input file not found\n");
     return -1;
@@ -212,8 +219,10 @@ int main(int argc, char **argv) {
   stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set_tfidf.csv", "r");
   first_ans_i = 2;
   
-  // stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/training_set_tfidf.csv", "r");
-  // first_ans_i = 3;
+  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/training_set_tfidf.csv", "r");
+  first_ans_i = 3;
+  // stream = fopen("E:\\GitDir\\Similarity\\cosi101a\\data\\validation_set.csv", "r");
+  // first_ans_i = 2;
   
   char line[max_question_len];
   
@@ -254,18 +263,24 @@ int main(int argc, char **argv) {
   for (a = 0; a < size; a++) vec[a] /= len;*/
 	  while (bi[q] != -1)
 	  {
-		  p = 0;
-		  q++;
+		
 		  for (int a = 0; a < size; a++) vec[a] = M[a + bi[q] * size];
 		  while (abi[p] != -1)
 		  {
 			  
 			  for (int a = 0; a < size; a++) ans[a] = M[a + abi[p] * size];
-			  dist+= distance(vec, ans);
 			  
+			  temp= distance(vec, ans);
+			  if (temp > 0.2)
+			  {
+				  dist += temp;
+				  len++;
+			  }
+			  p++;
 		  }
-		  len += p;
-		 
+		  //len += p;
+		  p = 0;
+		  q++;
 	  }
 	  dist /= len;
       printf(", %f", dist);
