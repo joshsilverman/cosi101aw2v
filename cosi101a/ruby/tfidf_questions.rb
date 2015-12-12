@@ -27,9 +27,8 @@ sets.each do |filename, indices|
   end
 
   # corpus = corpus[0..100]
-  binding.pry
-  model = TfIdfSimilarity::TfIdfModel.new(corpus)
-  binding.pry
+  # model = TfIdfSimilarity::TfIdfModel.new(corpus)
+  model = TfIdfSimilarity::BM25Model.new(corpus)
 
   CSV.open("#{filename}_tfidf.csv", "wb") do |csv|    
     CSV.foreach("#{filename}.csv") do |row|
@@ -45,13 +44,14 @@ sets.each do |filename, indices|
         end
 
         terms = []
-        max_score = tfidf_by_term.values.max
-        average_score = tfidf_by_term.reduce(:+) / tfidf_by_term.size.to_f
-        threshold = [average_score, max_score].min
-        # begin
-        # rescue
-        #   binding.pry
-        # end
+        # max = tfidf_by_term.values.max
+        min = tfidf_by_term.values.min
+        range = max - min
+        # threshold = range / 4.0 + min
+
+        # average = tfidf_by_term.reduce(:+) / tfidf_by_term.size.to_f
+        threshold = [6.5, max].min
+
         tfidf_by_term.each do |term, score|
           if score >= threshold 
             terms << term
