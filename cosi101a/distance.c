@@ -219,7 +219,7 @@ int main(int argc, char **argv) {
 //  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.csv", "r");
 //  first_ans_i = 2;
   
-  stream = fopen("E:\\GitDir\\Similarity\\cosi101a\\data\\validation_set.csv", "r");
+  stream = fopen("E:\\GitDir\\Similarity\\cosi101a\\data\\training_set.csv", "r");
   first_ans_i = 2;
   
   char line[max_question_len];
@@ -269,7 +269,7 @@ int main(int argc, char **argv) {
 			  for (int a = 0; a < size; a++) ans[a] = M[a + abi[p] * size];
 			  
 			  temp= distance(vec, ans);
-			  if (temp > 0.2)
+			  if (temp > 0.1)
 			  {
 				  dist += temp;
 				  len++;
