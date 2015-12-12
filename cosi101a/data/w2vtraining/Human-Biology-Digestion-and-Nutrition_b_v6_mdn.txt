@@ -1,0 +1,3053 @@
+To access a customizable version of this book, as well as other interactive content, visit www.ck12.org
+
+
+
+CK-12 Foundation is a non-profit organization with a mission to reduce the cost of textbook materials for the K-12 market both in the U.S. and worldwide. Using an open-content, web-based collaborative model termed the FlexBook®. CK-12 intends to pioneer the generation and distribution of high-quality educational content that will serve both as core text as well as provide an adaptive environment for learning, powered through the FlexBook Platform®.
+
+Copyright © 2014 CK-12 Foundation, www.ck12.org
+
+The names "CK-12" and "CK12" and associated logos and the terms "FlexBook®" and "FlexBook Platform®" (collectively "CK-12 Marks") are trademarks and service marks of CK-12 Foundation and are protected by federal, state, and international laws.
+
+Any form of reproduction of this book in any format or medium, in whole or in sections must include the referral attribution link http://www.ck12.org/saythanks (placed in a visible location) in addition to the following terms.
+
+Except as otherwise noted, all CK-12 Content (including CK-12 Curriculum Material) is made available to Users in accordance with the Creative Commons Attribution-Non-Commercial 3.0 Unported (CC BY-NC 3.0) License (http://creativecommons.org/licenses/by-nc/3.0/), as amended and updated by Creative Commons from time to time (the "CC License"), which is incorporated herein by this reference.
+
+Complete terms can be found at http://www.ck12.org/terms.
+
+
+
+
+
+	 Authors
+
+The Program in Human Biology, Stanford University
+
+
+
+
+
+Say Thanks to Authors
+
+Click http://ck12.org/saythanks
+
+(No Sign in required)
+
+
+
+
+
+Introduction to Digestion and Nutrition - Student Edition (Human Biology)
+
+
+
+
+
+Human Biology
+
+
+Originally developed by the Program in Human Biology at Stanford University and EVERYDAY LEARNING ®
+
+Donated to CK-12 Foundation under the Creative Commons Attribution-NonCommercial (CC BY-NC) license. This license allows others to use, distribute, and create derivative works based on that content.
+
+
+
+
+
+Introduction to Digestion and Nutrition
+
+
+Contents
+
+
+Why Do We Eat?
+
+Food Is Fuel
+
+Mouth to Stomach in One Swallow
+
+A Journey through the Intestine
+
+Food for life
+
+Staying Healthy
+
+Food Nutrient Chart
+
+Glossary
+
+
+
+
+
+Authors
+
+
+H. Craig Heller, Principal Investigator
+
+Mary L. Kiely, Project Director
+
+
+
+
+
+Text Authors
+
+
+H. Craig Heller, James V. Lawry
+
+
+
+
+
+Activity Authors
+
+
+James V. Lawry, Stan Ogren, Marjorie Gray, Geraldine Horsma
+
+
+
+
+
+Project Editor
+
+
+Dennis McKee
+
+
+
+
+
+Photo Credits
+
+
+1 (top center): Bernd Wittich/Visuals Unlimited
+
+2 (bottom center): Robert E. Daemmrich/Tony Stone Images
+
+14 (top center): Phil Degginger/Tony Stone Images
+
+24 (top center): AP/Wide World Photos
+
+34 (top center): Cabisco/Visuals Unlimited
+
+47 (top center): “The Field Museum” #A76851, Chicago, Illinois
+
+48 (top center): W.A. Banaszewski/Visuals Unlimited
+
+48 (middle left): Corbis-Bettmann
+
+48 (bottom left): James Mayo/Chicago Tribune
+
+56 (top center): Terry Donnelly/West Stock
+
+
+
+
+
+Data Sources
+
+
+Food Nutrient chart: Morrill, Judi, Sheri Bakun, and Suzanne Murphy. Are You Eating Right? San Jose: Department of Nutrition and Food Science, San Jose State University, 1992. Whitney, Eleanor Noss, and Sharon Rady Rolfes. Understanding Nutrition, 7th ed. St. Paul: West Information Publishing Group, 1996.
+
+FAO information: Food and Agriculture Organization (FAO), Food Security and Nutrition. Prepared for the 1996 World Food Summit.
+
+
+
+
+
+Originally Published by Everyday Learning Corporation
+
+
+Everyday Learning Development Staff
+
+
+Editorial
+
+
+Steve Mico, Leslie Morrison, Susan Zeitner
+
+
+
+
+
+Production/Design
+
+
+Fran Brown, Annette Davis, Jess Schaal, Norma Underwood
+
+
+
+ISBN 1-57039-683-3
+
+Stanford University's Middle Grades Life Science Curriculum Project was supported by grants from the National Science Foundation, Carnegie Corporation of New York, and The David and Lucile Packard Foundation. The content of the Human Biology curriculum is the sole responsibility of Stanford University's Middle Grades Life Science Curriculum Project and does not necessarily reflect the views or opinions of the National Science Foundation, Carnegie Corporation of New York, or The David and Lucile Packard Foundation.
+
+
+
+
+
+Why Do We Eat? - Student Edition (Human Biology)
+
+
+
+
+
+Why Do We Eat?
+
+
+
+
+Does what I eat really matter?
+
+What did you have for breakfast today? Does it matter? Food is essential to life because it provides the energy to run body functions and the building blocks to grow and repair body tissue. Your body is made of billions of cells. What you eat matters because the cells in your body need certain things that you can provide only by eating. Nutrition refers to the composition of food and how the various components of foods affect the body. In this section you will investigate valuable information about what is in the foods you eat. Throughout the rest of the unit, you will explore how your body uses the food you eat and how you can keep your digestive system healthy.
+
+"I never associated what I ate with how I felt. If I saw something I wanted to eat and my head said yes, I ate it. I got fat. It wasn't until I started listening to my body that I realized there was a link between what went in my mouth and how I functioned that day."
+
+-High School Dieter
+
+Most food, as you see it on the table, is of little use to your cells. Obviously, you can't simply graft a steak onto your leg to build a stronger leg muscle. Food must be broken down into many separate, simple molecules that can flow into your bloodstream and from there move into your cells where they are used for fuel or for building new molecules. The body's process of breaking down food into smaller particles is called digestion. This unit introduces you to how the digestive system functions.
+
+This unit also presents some information on the cultural and social elements of eating such as why we eat what we eat and why different people in different places eat different foods. You will also learn about some of the psychological aspects of eating, dieting, and eating disorders.
+
+
+
+
+
+What are your most favorite things to eat? Write them down. Then write a paragraph or two about whether or not you think your preferred diet is healthy. After you finish this unit, review your list and what you wrote to see if your views have changed.
+
+
+
+
+
+At the end of this unit you will learn some general strategies for staying healthy. Although good nutrition is very important to your health, many other factors that relate to digestion and nutrition also affect your health. For example, stress, exercise, and sleep can all affect your appetite and your health in various ways.
+
+Keep in mind as you read the unit and do the activities that your growing body has special needs. Just as if you were building a house, you need energy and specific materials to build your body. Both come from the food you eat. It is hard to understand that what you eat today may affect your health later in life, but it is true. Eating habits, such as eating lots of fat, may lead to high blood pressure and clogged arteries later in life.
+
+
+
+
+
+Choices Are Everywhere What are the choices you have to make in a day (all choices, not just choices about food)? Work with a partner to generate a list. Share the list with your class, and come up with a comprehensive list of choices.
+
+
+
+There are many choices when it comes to food. You constantly receive messages from parents, friends, television, radio, magazines, and teachers about what to eat. How do you know what is right? Each person's body is unique. Some people may need more energy or more of one mineral or vitamin than other people do. Also, a person's needs change with age and with levels of activity. But the basics remain the same. You need to eat a balanced diet that includes foods from six basic nutrient groups.
+
+By the end of the unit, you will be able to answer these questions.
+
+Why does a balanced diet help you feel your best?
+
+How does good food help you fight off illness and resist infections?
+
+How does good nutrition affect growth and development?
+
+How does what you eat affect how you look?
+
+How does good food affect your ability to concentrate and think straight?
+
+Why does what you eat affect how well and how long you can exercise?
+
+
+
+Regular exercise is an important part of staying healthy.
+
+
+
+
+
+Activity 1-1: Are You What You Eat?
+
+
+Introduction Are you what you eat? As you begin your study of nutrition, you can keep a food diary on the data sheets provided. With this information you will be able to analyze your diet.
+
+Materials
+
+Resource 1: Food Diary
+
+Resource 2: Food Nutrient Chart (Also, see page 60.)
+
+Diet Data Sheet
+
+Activity Report
+
+Measuring cups and spoons, glasses with 4 ounces and 8 ounces of liquid
+
+Food labels
+
+Fast Food information sheets
+
+Food Models
+
+
+
+Procedure
+
+Step 1 Use the Food Diary (Resource 1) to record your diet for two consecutive days. Include the name of the food, the amount eaten, and the nutrient information listed on the Food Nutrient Chart.
+
+Step 2 Complete the “totals” section of the Data Sheet for each day. Then complete the Activity Report.
+
+
+
+
+
+Your food and energy needs and the six nutrient groups
+
+
+What Do You Think?
+
+Why is it that you see lots of ads for fast food and junk food, but very few ads for vegetables and fruits?
+
+
+
+
+
+Let's start the unit with a discussion of the six basic nutrient groups what they are and what they do for you.
+
+
+
+
+
+Write an Advertisement What makes candy bar ads appealing? Why do you choose certain junk foods over others? Design an ad campaign to convince someone to eat a fruit or vegetable. Use the power of persuasion in your advertisement to appeal to the reader.
+
+
+
+
+
+What is a nutrient? Food molecules that supply energy, building blocks for other molecules, and reserves for future use are called nutrients. You need six basic types of nutrients in your diet. The six nutrient groups are carbohydrates, protein, fats, vitamins, minerals, and water.
+
+Nutrients are not the same as calories. Calories refer to the amount of energy in a unit (typically one gram) of food, no matter what the food or nutrient source might be. Just getting the right number of calories each day does not necessarily mean that you have all of the nutrients you need to stay healthy. For example, if you need 2,200 calories a day, getting those calories from candy and French fries will leave you less well nourished than if you get those calories from salad, bread, and a piece of chicken. You will learn more about calories in the next section.
+
+
+
+Figure 1.1 The six essential types of nutrients are carbohydrates, protein, fats, vitamins, minerals, and water.
+
+Did You Know?
+
+Carbohydrates represent only 2% of your body weight. Your body uses carbohydrates primarily to provide energy. However, the reverse is true in plants. Energy from the sun is used to make the carbohydrates that form most of the plant's structure and its energy reserves. Whether the plant is a red wood tree or a carrot, it is mostly carbohydrates.
+
+
+
+
+
+Carbohydrates
+
+Carbohydrates are food nutrients that provide energy and building blocks. The simplest carbohydrate molecules are sugars. One very important sugar is glucose, which is the common form of fuel circulating in our blood and used by our cells for energy. The atoms in the glucose molecule can be rearranged slightly to produce another important sugar called fructose. It is mostly fructose that makes fruits and honey sweet. Other sugars in our diets are molecules that result from combining glucose and fructose molecules together. A molecule of sucrose, which is common table sugar, consists of a molecule of glucose and a molecule of fructose bonded together. Two molecules of glucose bonded together make maltose, which is found in germinating seeds. Another small sugar molecule is galactose. Combining a galactose molecule and a glucose molecule produces a sugar called lactose, which is found in milk.
+
+When many sugar molecules are connected together, they make big molecules called complex carbohydrates or starches.
+
+Most of the bodies of plants, as well as the pages of this book, are made up of a complex carbohydrate called cellulose. Cellulose is made up of long chains of glucose molecules.
+
+Starches are important sources of energy. Potatoes, rice, and wheat are three good examples of starch in our diet. Starches and sugars provide the body with energy, but also with building blocks that our cells can use to make other molecules.
+
+
+
+
+
+Word Origin of Carbohydrate Research the origin of the word carbohydrate. Also, find out what the word carbohydrate means. Then write the basic chemical structure.
+
+
+
+
+
+Carbohydrates we eat must be broken down into simple sugar molecules before the cells lining the digestive tract can absorb them and before they can be circulated in the blood. However, the enzymes we produce in our digestive tracts cannot digest some carbohydrates in our diet. For example, we cannot digest cellulose. Indigestible carbohydrate is called fiber. It is an important part of our diet even though it does not supply energy or building blocks. Fiber keeps things moving in the digestive system. You will explore how fiber works later.
+
+
+
+Figure 1.2 Examples of sources for simple sugars include such foods as fruit, honey, and refined sugar.
+
+
+
+Figure 1.3 Examples of sources for complex carbohydrates include such foods as pasta, bread, and potatoes.
+
+
+
+Figure 1.4 The pie graph shows the recommended percentages of daily calories you should obtain from the nutrient groups carbohydrates, fats, and protein. Note that you should obtain 55% of your daily calories from the food group carbohydrates.
+
+Complex carbohydrates in our diet can also bring with them other important nutrients such as vitamins and minerals.
+
+The American Heart Association recommends that you should get about 55% of your calories from carbohydrates. This does not mean, however, that you should get 55% of your calories from simple sugars in candy and junk food! Unlike foods composed of complex carbohydrates, foods rich in simple sugars usually don't contain fiber and important nutrients such as minerals and vitamins. Therefore, most of your carbohydrate intake should be complex carbohydrates rather than simple sugars. Perhaps you have heard that carbohydrates make you fat. Carbohydrates are actually fat-free, but they do provide calories. Carbohydrates contain less than the calories per gram that fat contains. When you take in more calories than you need, the excess is stored as fat no matter where the calories came from.
+
+
+
+
+
+Why do coaches tell their athletes to eat a big pasta dinner the night before a competition and simple sugars a few hours before the competition? Why don't the athletes eat pasta right before the competition and a candy bar the night before?
+
+
+
+
+
+Did You Know?
+
+Without sufficient fiber, the muscles in your intestine have to squeeze too hard. This can result in saclike bulges of the intestinal wall, causing a condition known as diverticulosis. What would you call the condition when the wall becomes-inflamed? (Hint: What do you call the condition of having an inflamed appendix?)
+
+
+
+
+
+Fiber is a carbohydrate that travels through the digestive tract but is not digested or absorbed. Fiber supplies no energy. It occurs in roots, stems, leaves, nuts, and seed coverings of vegetables, fruits, and whole grains. Fiber provides bulk for muscles of the digestive tract to squeeze against. This squeezing helps speed the passage of food through the food tube. Fiber also acts like a sponge by holding onto unhealthy substances in food to prevent them from being absorbed into the body. One example of an unhealthy substance is cholesterol. Fiber reduces the absorption of cholesterol into the bloodstream and lowers the chances of getting colon cancer.
+
+Protein
+
+Protein in your food provides an important kind of building block-called amino acids that your body needs to make its own proteins. You eat protein and digest it into amino acids. Your blood and cells absorb these amino acids from your digestive system. In your cells, the amino acids you get from meat, milk, eggs, beans, and fish link together to form thousands of different proteins that become part of you. Some of the proteins you make form the structure of your body, others become antibodies to fight off infection, and still others control and regulate cell activities.
+
+Did You Know?
+
+Proteins have a much more complicated structure than either carbohydrates or fats. Hydrogen, carbon, oxygen, and nitrogen make up the building blocks of protein, called amino acids. The amino acids join together to form the backbone of the protein molecule. Each protein molecule has a specific shape that allows it to fulfill its special jobs in the body. Twelve to eighteen percent of your body is made up of protein. Proteins do a variety of jobs in your body: They regulate body functions, build muscles and bones, make muscles contract, help fight illness, transport substances in your blood, and transmit information between cells.
+
+
+
+
+
+Figure 1.5 The recommended percentage of daily calories from the food group protein is 15%.
+
+Protein is one of the six essential types of nutrients that provide the raw materials for producing new cells. You need more protein when your body is growing rapidly, especially during infancy and adolescence. If you do not get enough protein at these critical times, your growth can be slowed. In addition, if you do not have enough amino acids (protein building blocks) available for building new cells during these critical times, some of the missed growth cannot be made up later. At your age you are most likely either in a growth spurt or you will be having one soon, so making correct nutritional choices is especially important.
+
+
+
+
+
+Vegans are people who don't eat any animal products, including meats, eggs, or dairy products. How can these people still get the protein their cells need to grow if each kind of plant they eat doesn't contain complete proteins?
+
+
+
+
+
+Did You Know?
+
+People in some cultures eat little meat, by choice or because it is not available. They eat a mixture of plant proteins that together provide the right combination of essential amino acids. Some examples of vegetarian combinations that supply all essential amino acids are:
+
+refried beans and tortillas,
+
+
+
+pea soup and rye bread,
+
+
+
+beans and pasta,
+
+
+
+beans and rice,
+
+
+
+baked beans and brown bread, and
+
+
+
+peanut butter on whole wheat bread.
+
+
+
+
+
+Adding even a small amount of animal protein can supply missing amino acids, such as
+
+pasta and cheese, and
+
+
+
+vegetable stir-fry and small pieces of chicken.
+
+
+
+
+
+Your cells can make most of the twenty amino acids. Your body is able to use other amino acids to make these amino acids, but there are nine that it cannot make. The nine amino acids your body cannot make are called essential amino acids. These essential amino acids must be obtained from the foods you eat. It is important to know that your body does not store excess amino acids like it stores excess carbohydrate or fat. Therefore, you have to get all of the amino acids you need each day in your diet.
+
+Proteins that contain all nine essential amino acids are termed complete proteins. Meat, fish, and milk products contain complete proteins. Other foods contain some, but not all, of the essential amino acids. Such foods contain incomplete proteins. Foods containing the incomplete proteins are grains, nuts, beans, and some other plants. If you regularly eat meat, poultry, fish, eggs, and milk products, you probably get enough complete protein. If you don't get enough protein, you can become sick and weak. If you eat more protein than you need, the extra calories can be stored as fat.
+
+
+
+Figure 1.6 Examples of sources of protein include beans, chicken, peanut butter (on bread), chicken, and steak.
+
+Fats
+
+Fats, also known as lipids, play essential roles in your body. The body can make most of the fats it needs from other nutrients, so you don't have to have much fat in your diet. All cells need fat for building cell membranes. Fats also are found in high concentrations in brain and nerve cells. Certain vitamins (A, D, E, and K) are fat-soluble, which means that your body stores excess amounts of these vitamins in your body fat. Therefore, these vitamins are more abundant in foods that contain fats. Fats are the major energy store for the body. You get more energy from a gram of fat than from a gram of carbohydrates. Far has about 9 calories per gram. Carbohydrates and protein have about 4 calories per gram. However, if you store too much fat in your body, it can have a negative effect on your body. You gain weight, and your heart, muscles, and joints must work harder to move the extra weight.
+
+Did You Know?
+
+You can gain weight from eating too much of any food, not just fatty foods. You store fat if you consume more calories than you burn. One pound of body fat contains 4,000 calories.
+
+
+
+
+
+There are saturated fats and unsaturated fats. You have probably heard about them in the news. Saturated and unsaturated fats have different chemical characteristics. Saturated fats are solid at room temperature. They come from meat, lard, butter, coconut oil, and palm oil. These fats should be very limited in your diet. Unsaturated fats are liquid at room temperature. They are products of plants such as olives, peanuts, corn, soybeans, and safflowers. Unsaturated fats also occur in fish. Unsaturated fats are better for you than saturated fats but should still be limited in your diet.
+
+Did You Know?
+
+The body makes different kinds of fats by attaching long molecules called fatty acids to small glycerol molecules. Each glycerol molecule can carry three fatty acids. That is why fats are also called triglycerides. The body can make different fatty acids, but there is one that must come from the diet. It is linoleic acid. Linoleic acid is common in plants.
+
+
+
+
+
+Figure 1.7 Examples of saturated fats include palm oil, ham, butter, and lard. Examples of unsaturated fats include olive and corn oil, avocado, nuts, and fish.
+
+
+
+
+
+One brand of granola has a label on the container stating, in big letters, “NO TROPICAL OILS.” Why do you think this has been pointed out?
+
+
+
+
+
+Did You Know?
+
+There are some easy ways to reduce the fat in your diet:
+
+Eat smaller amounts of red meat.
+
+
+
+Eat more fish and chicken than red meat.
+
+
+
+Cut the fat off meat, and remove the skin from chicken.
+
+
+
+Don't eat the grease from meat.
+
+
+
+Drink skim or low-fat milk.
+
+
+
+Eat low-fat cheese.
+
+
+
+Avoid fried foods like chips and French fries.
+
+
+
+Choose low-fat or fat-free ice cream or frozen yogurt.
+
+
+
+
+
+People who eat foods high in saturated fat run a greater risk of having high cholesterol levels in their blood and of developing heart disease. Cholesterol is a waxy, fatlike substance that is made by the body and is needed for making vitamin D, hormones, and cell membranes. You also can get cholesterol from the foods you eat. Meat, eggs, and animal fats are high in cholesterol. If you eat a lot of cholesterol, you are likely to have high levels in your blood. It is also possible to have a high level of cholesterol in your blood if you have a family history of high cholesterol, even though you don't eat foods high in cholesterol.
+
+Foods containing cholesterol are usually high in other fats, too, leading to excess fat and cholesterol in the body. Limiting the cholesterol and saturated fats in your diet is wise. High levels of cholesterol can contribute to atherosclerosis, or hardening of the arteries, and other forms of heart disease. Heart disease is a leading cause of death in the United States, even for those people who are under 65 years of age.
+
+
+
+
+
+Considering the list of possible ways to reduce fat in your diet, which three things would be the easiest for you to try as part of your own diet? Which three things would be the hardest for you to try? Why? Do you think it is important for you as an adolescent to monitor the fat in your diet? Why or why not?
+
+
+
+
+
+About 34% of the calories in an average American diet comes from fat. The American Heart Association recommends that 30% or less of your daily calories come from fat and under 10% of that from saturated fat.
+
+
+
+Figure 1.8 The recommended percentages of daily calories from the food group fats is 10% saturated fats and 20% unsaturated fats.
+
+Did You Know?
+
+Fat buildup in the arteries tends to be slow, but it starts as early as age 10. There are no symptoms to warn you about this process until it is already well advanced. Therefore, it is important to lead a healthy lifestyle at an early age, before damage is done.
+
+
+
+Although the body needs cholesterol to make other substances, one-third of American young people may be getting too much cholesterol in their diets. The liver can produce all the cholesterol the body needs. We do not have to eat any cholesterol at all.
+
+
+
+
+
+Vitamins
+
+A vitamin is a chemical the body needs in small amounts but cannot make for itself. Vitamins don't provide energy, but some vitamins help the body use the energy from a nutritious diet. Their most important job is to help enzymes do their jobs in cells. Your body needs most vitamins in only very small quantities. You don't need to get your vitamins from a bottle or jar if you eat the right amount of a variety of foods. There are usually more vitamins in a good diet than your body can use. But it is important to eat a healthy diet to get the vitamins needed.
+
+If your diet isn't providing the right vitamins, your body gets sick. You can also get sick by eating too much of some vitamins. Some vitamins dissolve in water. Your body uses the amounts of these vitamins that it needs. Then the excess leaves the body in your urine. Some vitamins are fat soluble, which means that your body stores excess amounts of these vitamins in your body fat. Toxic levels of fat-soluble vitamins can accumulate. If you take vitamins, be careful how many and which ones you take. Here you'll find basic information about vitamins. Check with a health professional for recommendations about the type and amount of vitamins that you might need.
+
+Did You Know?
+
+Cataracts are responsible for 50% of all cases of blindness. Cataracts are a clouding of the lens that lets light into the eye. Without enough light, the eye cannot see. Vitamins A and C seem to help protect the eye from formation of cataracts.
+
+
+
+
+
+Your body can make vitamin A from a pigment found in some plants. A pigment is a colored chemical. The pigment that is required for vitamin A is carotene. It is the molecule that makes carrots orange. You need vitamin A for healthy skin, bones, and teeth. You also need vitamin A for good vision. If you don't get enough vitamin A, you cannot see well at night.
+
+The vitamin B complex is a group of eight vitamins. Your cells use B vitamins in the chemical reactions that produce energy from food. You can get anemia (low blood iron) or beriberi (a disease involving the nerves, heart, and gut) if you do not consume enough B vitamins.
+
+
+
+
+
+Many people take vitamin supplements in the form of pills or vitamin shakes. Now that you know the various vitamins found in foods and what they do for your body functions, what is your personal “philosophy” about getting enough of all the vitamins you need? Do you take large doses of vitamin supplements, moderate amounts, or none at all? Why? How does the information in the section affect your decisions about the vitamins that you consume?
+
+
+
+
+
+Vitamin C helps your body fight infection. We don't know much about how vitamin C works. Before 1800, sailors did not have many fresh fruits and vegetables in their diets. They developed bleeding gums as a result of a disease called scurvy. It was discovered that citrus fruits like oranges, lemons, and limes cured and prevented this disease. After that discovery, the British navy required that all of their ships carry limes so the sailors could have a daily ration of lime juice. That is how British sailors got the name “limeys.”
+
+Warning: Be careful not to spend too much time in the sun without wearing sunblock. Too much exposure to the sun can damage your skin and may lead to skin cancer over time.
+
+Vitamin D helps your bones and teeth stay strong. It helps bones and teeth by regulating the absorption and use of the mineral calcium. You can get rickets, a disease of bone softening and poor bone growth, if your diet lacks vitamin D and you don't get enough sunlight. What does sunlight have to do with vitamins? If you get enough sunlight, your skin can make vitamin D. Even in cold climates, if your face is exposed to sunlight for an hour or so each day, you will not need supplementary vitamin D in your diet.
+
+Vitamin E protects red blood cells and is needed for the functioning of certain enzymes. Vitamin K assists the blood in clotting.
+
+You need foods with vitamins B and C almost every day. The B and C vitamins dissolve in blood because they are water-soluble. When vitamins B and C are eaten in excess of body needs, they pass from the body through urine. Vitamins A, D, E, and K dissolve in fat instead of water. If you take in more of these vitamins than you need, they accumulate in body fat and can build up to unhealthy levels in your cells.
+
+Did You Know?
+
+A serious type of birth defect is malformation of the spinal cord. It has recently been shown that a small, daily dose of a B vitamin called folate given to women during pregnancy reduces the incidence of these birth defects by 40%.
+
+
+
+
+
+Make a list of all the things that could go wrong with your body due to vitamin A, B, C, and D deficiencies. Which would be the hardest for you to deal with? Are you willing to eat the foods that contain that vitamin to prevent this problem? Why or why not?
+
+
+
+
+
+Minerals
+
+Minerals, like vitamins, do not provide calories, but they are essential for good health. Minerals are simple chemical elements that come from the earth. Just as with vitamins, you can get minerals you need by eating a balanced diet.
+
+What do minerals do? Some minerals, like most vitamins, are needed in only very small amounts. Such micronutrients may be needed to make molecules that have specific functions. For example, some enzymes need zinc to do their jobs in promoting specific chemical reactions.
+
+What Do You Think?
+
+Why do you think there are so many advertisements for milk featuring famous athletes and movie stars drinking milk? What audience are these ads targeting? As a consumer, do you think the ads are effective?
+
+
+
+
+
+Some minerals are needed in larger quantities and are called macronutrients. For example, sodium and potassium are needed to carry electrical charges that make nerves and muscles work. Iron is needed to make hemoglobin molecules carry oxygen in your red blood cells. Calcium and phosphorus are needed to build bones and teeth. Without adequate calcium and vitamin D, bone forms poorly in children and, in older people, can become brittle. As people age, they are at risk for a disease called osteoporosis. Osteoporosis is a condition in which bones become so porous and brittle that they are easily fractured. The fractures can lead to severe pain and disability. Osteoporosis occurs mainly in women after the age of 50. A key factor in the development of osteoporosis is the density (calcium content) of the bones in early adulthood when bone mass reaches its peak.
+
+It is important to consume enough calcium, particularly during adolescence and early adulthood, when bone is growing and increasing in density. Generally, males get enough calcium, while females aged 11 years and older generally do not. Because 60% of bone density is formed between the ages of 10 and 16, adolescence is a crucial time for building strong bones in young women. Females not only drink less milk, but they eat less food than males their age, too. Females can increase this essential nutrient in their diet by selecting calcium-rich foods such as cheese, yogurt, or green, leafy vegetables. The recommended daily amount of calcium for females who are 11-14 years of age is 1,200 milligrams. A sample of calcium-rich foods in a daily diet that meets the recommended daily amount of calcium would be
+
+Food Milligrams of Calcium
+
+1 cup low-fat yogurt 415
+
+3 stalks of broccoli 240
+
+2 glasses low-fat milk 600
+
+Total calcium 1,255
+
+Minerals are valuable nutrients, and the body usually recycles them. There are cells that are always remodeling your bones. Some cells break down bone and release calcium and phosphorus into the blood. Other cells take up these minerals from the blood to make new bone. When red blood cells are about 4 months old, they are broken down. The iron is extracted from the hemoglobin molecules. The blood transports this iron to the bone marrow. In the bone marrow the iron is recycled into new hemoglobin molecules in the new red blood cells that are always being produced in the bone marrow.
+
+The point to remember is that minerals, like vitamins, occur naturally in a healthy diet and, like vitamins, your body needs only reasonable amounts each day for normal growth and good health.
+
+
+
+
+
+What do cooks mean when they say, “A colorful plate is a healthy plate”?
+
+
+
+
+
+Figure 1.9 A person's body is about 50-60% water. But don't be confused by the drawing. You are not like a glass that fills from bottom to top. Instead, the water is distributed throughout your body.
+
+Water
+
+Water is essential for life. You need water for digestion, carrying waste, making urine, circulating blood, and holding your body temperature constant, and for the many chemical reactions that take place in your cells. You lose 2 to 3 liters of water a day to perspiration, urine, stool, and breathing. You may lose even more water during very hot, dry weather and when exercising. Your body is about 50-60% water, so it would seem as if you have a good supply. However, the normal rate of loss of water from your body is fairly high. The rate of water loss can rapidly increase with vomiting, diarrhea, or excessive sweating. If you lose too much water, the cells of your body shrink and cannot function properly. Fever and diarrhea cause a rapid loss of water, so the sufferer must drink plenty of water to replace it. People who do not get enough water become dehydrated and, if severely so, may be given an intravenous infusion of fluids in the hospital.
+
+Getting Enough Nutrients
+
+How can we be sure we get all of these nutrients that we need? After all, they are hard to remember and most food s don't come labeled with their contents as breakfast cereal boxes do. A good trick for keeping track of nutrients is to think of all food as consisting of five basic food groups. Each food group provides certain nutrients. What are the five basic food groups? How much of them should you eat? The next section will address these questions.
+
+
+
+
+
+Activity 1-2: What's in Your Food?
+
+
+Introduction
+
+How can you test foods for nutrients? In this activity you test different foods for the presence of carbohydrates, proteins, and fats.
+
+To refresh your memory,
+
+Carbohydrates-sugar and starch-provide energy for your cells. The long chain of carbohydrate molecules is broken down to smaller sugar molecules.
+
+Proteins are digested into building blocks of amino acids. Amino acids are used for building and repairing cells, fighting infection, and other critical functions.
+
+Fats are large molecules that store energy and can be digested into building blocks called fatty acids. Fats help you absorb vitamins and are present in nerve and skin cells.
+
+
+
+Materials
+
+Safety goggles
+
+Resource 1: Part A Data Sheet
+
+Resource 2: Part B Data Sheet
+
+Activity Report
+
+Glucose sugar solution
+
+Egg white, raw
+
+Butter, margarine, or vegetable oil
+
+Test tubes
+
+Test-tube holder
+
+Water bath
+
+Graduated cylinder
+
+Brown wrapping paper
+
+Plastic knife
+
+Starch solution
+
+Iodine solution
+
+Biuret solution
+
+Benedict's solution
+
+3 medicine droppers
+
+Small pieces of various foods
+
+
+
+CAUTION: You should wear goggles in all experimental laboratory situations. Make sure you are wearing goggles when working with any chemicals such as Benedict's solution. Also, wear goggles when working with heat or fire.
+
+Procedure
+
+Part A. Laboratory Tests for Nutrients
+
+Testing for Carbohydrates: Starches
+
+Step 1 Put 2 milliliters of starch solution into a test tube.
+
+Step 2 Add a few drops of iodine solution.
+
+Step 3 Record the results on the Table on Resource 1.
+
+Testing for Carbohydrates: Glucose (Sugars)
+
+Step 1 Pour about 5ml of glucose (sugar) solution into a test tube.
+
+Step 2 Wearing goggles, add about 10 drops of Benedict's solution.
+
+Step 3 Using safe lab technique, heat the liquid for about 3 minutes in the water bath.
+
+Step 4 Record the results on the Table on Resource 1.
+
+Testing for Proteins
+
+Step 1 Put some raw egg white into a test tube.
+
+Step 2 Wearing goggles, add 3-5 drops of Biuret solution.
+
+Step 3 Record the results on the Table on Resource 1.
+
+Testing for Fats and Oils
+
+Step 1 Use a plastic knife to spread a small amount of butter or margarine on a piece of brown wrapping paper.
+
+Step 2 Hold the brown paper up to the light and look at the stain.
+
+Step 3 Record the results on the Table on Resource 1.
+
+Summary of Test Results: Part A
+
+Summarize your test results by completing answers to questions on the Activity Report.
+
+Part B. Testing Foods for Nutrients
+
+The tests you used on carbohydrates and proteins caused color changes, while the test for fats caused a change in the appearance of the brown wrapping paper. In this activity you use the laboratory skills you learned in Part A to test foods for the presence of carbohydrates (starch and sugar), proteins, and fats.
+
+Step 1 Put a few small pieces of a food to be tested into a test tube and add just enough water to cover the pieces of food.
+
+Step 2 Refer to testing procedures in Part A to test each piece of food for the presence of carbohydrates, proteins, and fats. Begin with the first Step 2 of Part A.
+
+Step 3 Record the results on the Table on Resource 2. Complete the Activity Report.
+
+
+
+
+
+Review Questions
+
+
+Why does what you eat matter?
+
+Compare a carbohydrate molecule and a glucose molecule.
+
+What is meant by the terms essential amino acids and complete proteins?
+
+What is the difference between saturated and unsaturated fat?
+
+What are three examples of a vitamin or a mineral deficiency? What disorders can each cause?
+
+What are the five body functions that need the recommended five 8-oz glasses of water you should drink every day?
+
+
+
+
+
+Food Is Fuel - Student Edition (Human Biology)
+
+
+
+
+
+Food Is Fuel
+
+
+
+
+How do you measure food energy?
+
+Remember that the food you see on the table in front of you is of little use to your body. It must be digested-broken down into chemical components-so the body can take advantage of the nutrients available. First, we will take a look at how to measure calories. Then you will explore the major food groups from which you get the six nutrients needed for survival-carbohydrates, fat, protein, Vitamins, minerals, and water.
+
+How do we know how much energy your food provides? Sometimes we say that our cells “burn” the food we eat as fuel to get energy. Of course, our cells are not little furnaces with flames inside! What happens in a furnace is a rapid chemical reaction that combines molecules of oxygen with molecules of fuel. That reaction converts the energy stored in the fuel such as oil or natural gas to heat.
+
+In cells, oxygen is also combined with fuel molecules to release the stored energy in the fuel. However, this is a slower and more controlled process in cells. The process is slower so the cell can use the energy that is released to do work. Just remember that there are similarities but important differences in the way furnaces and cells “burn” fuel. In the furnace the process is called combustion . In the cell the process is called cellular respiration .
+
+In both combustion and cellular respiration, heat is produced. We can measure heat energy as calories or kilocalories. A calorie is the amount of heat needed to raise the temperature of one milliliter of water one degree Celsius (°C). That is a very small amount of energy compared to the amount of energy our bodies use every day. Usually we think in terms of bigger units of heat energy when we are dealing with how our bodies use energy. A convenient big unit of energy is a kilocalorie, which is 1,000 calories-just like a kilogram is 1,000 grams. People seemed to find kilocalorie a big word, however, and started to use the word calorie instead. So the word calorie, abbreviated as Cal with a capital C, is used to mean kilocalorie.
+
+Did You Know?
+
+The word calorie can be abbreviated in two different ways to mean two different things. One abbreviation, Cal, refers to big units of energy in food. The other abbreviation, cal, refers to smaller units of energy. This smaller type of calorie is usually not used when referring to food.
+
+
+
+
+
+Using calories (Cal or kilocalories) as a way of measuring is useful to compare the energy available in food. For example, the calorie charts on food labels refer to big calories (abbreviated with a capital C) or kilocalories. How many calories (Cal) do you need each day? Well, this depends on how big and how active you are. If you eat more calories than your body needs, the excess calories will be stored as fat. To make one pound of body fat, you must eat over 4,000 more calories (Cal) than your body needs. To lose one pound of body fat, you must eat at least 4,000 fewer calories (Cal) than your body needs.
+
+1. Maintain weight
+
+calories in = calories used
+
+
+
+2. Lose weight
+
+Eat fewer calories than needed.
+
+Burn more calories with exercise.
+
+
+
+3. Gain weight
+
+Ear more calories than needed.
+
+Burn fewer calories with less activity.
+
+
+
+Figure 2.1 The scales represent the amount you need to eat to (1) maintain weight, (2) lose weight, and (3) gain weight.
+
+
+
+
+
+Activity 2-1: Calories: In a Nutshell
+
+
+Introduction
+
+
+How can we measure food energy? In this activity you measure the energy (heat) in half a peanut.
+
+One calorie (Cal) is the amount of heat needed to raise the temperature of 1 gram 1 ml of water 1 degree Celsius.
+
+One calorie (Cal) is the amount of heat needed to raise the temperature of 1 liter (1,000 cc) of water 1 degree Celsius. The energy in food is usually measured in these larger calories (Cal).
+
+If a burning peanut heats 10 ml of water from 20-60 degrees Celsius (20-60 °C) , then how many calories (cal) of heat were used?
+
+If 1,000 small calories make up one large calorie, then how many large calories (Cal) were measured in this example?
+
+
+
+
+
+Materials
+
+
+Safety goggles
+
+Resource
+
+Data Sheet
+
+Activity Report
+
+Test tube
+
+Test-tube holder
+
+Calorimeter (a can adapted for this purpose)
+
+Thermometer
+
+Graduated cylinder
+
+Cork
+
+Needle
+
+Matches
+
+Peanuts
+
+
+
+CAUTION: You should wear goggles in all experimental laboratory situations. Make sure you are wearing goggles when working with tire. Also, be very careful with the matches and the flame in this activity.
+
+
+
+
+
+Procedure
+
+
+Step 1 Put 10 ml (10 grams) of water into a test tube.
+
+Step 2 Measure the temperature of the water and record the temperature on the Data Sheet.
+
+
+
+Step 3 Carefully stick the blunt end of the needle in the smaller, foil-covered end of a cork.
+
+
+
+Step 4 Carefully place the peanut on the sharp end of the needle.
+
+
+
+Step 5 Light the peanut half.
+
+
+
+Step 6 Place the calorimeter/can with the test tube of water supported in it over the flame and heat the water with the burning peanut until it stops burning.
+
+
+
+Step 7 Measure the temperature of the water and record the temperature on the Data Sheet.
+
+Step 8 Repeat Steps 1-7 two more times using fresh water and a new peanut half.
+
+Step 9 Calculate the average.
+
+Do you think different nuts have different amounts of calories?
+
+
+
+
+
+How much energy do you need?
+
+
+Here is a table of average daily requirements for calories (Cal) at different ages.
+
+Calories (kilocalories) Needed Age (in years) male female
+
+1-3 1,300 1,300
+
+4-6 1,800 1,800
+
+7-10 2,000 2,000
+
+11-14 2,500 2,200
+
+15-18 3,000 2,200
+
+19-24 2,900 2,200
+
+25-50 2,900 2,200
+
+51+ 2,300 1,900
+
+Recommended fat intake is 30% or less of total calories in a person's diet. If the calorie requirement is 2,500, then 30% of 2,500 calories is 750 calories from fat, or about 83 grams of fat. A possible healthy range for the intake of fat for ages 11 -14 is 65- 85 grams.
+
+What can you learn from these numbers? Do these numbers tell us that all males between 11 and 14 years of age need 2,500 calories (Cal) a day to live? No. Why? Because these numbers are averages. You don't know how the average was determined. You don't know how many males you are talking about or what they do. You know some “couch potatoes” need fewer calories than future Olympic champs. How many couch potatoes and how many champion athletes were in the sample? You don't know. What these types of numbers say is that the person who created the table of information believes that somewhere in the neighborhood of 2,500 calories is adequate to power most 11- to 14-year-old males. But individuals may need fewer or more calories. So what can you learn from the table? One thing you can see is that, on the average, females need fewer calories each day than males after age 11. But, again, individuals can differ widely from these averages. Think about a 15-year-old female who runs three miles each day. How many calories do you think she needs?
+
+
+
+
+
+You are the advertising director for a campaign to encourage teens to exercise. What specific aspects of the lifestyles of different teenagers would you target in your campaign? What are some slogans you would use in your advertisements? Why do you think they would be effective?
+
+
+
+
+
+Activity 2-2: Calories: How Much Energy Do You Use?
+
+
+Introduction
+
+
+How much energy do you use? One way to find out the number of calories (Cal) used each day is to estimate the number of calories (Cal) used each hour. In this activity you get an idea of how much energy you use in a day. Below is a sample list of activities and their energy requirements per hour.
+
+Activity Calories Burned Per Hour
+
+Walking 210
+
+Swimming 300
+
+Jogging 500
+
+Bowling 270
+
+Skating 350
+
+Biking 660
+
+Reading 100
+
+Soccer 405
+
+Sleeping/ resting 60
+
+Sitting 100
+
+Light Activity 150
+
+Moderate Activity 230
+
+Strenuous Activity 420
+
+
+
+
+
+Materials
+
+
+Data Sheet
+
+Activity Report
+
+
+
+
+
+Procedure
+
+
+Step 1 Chart your activities and the calories (Cal) you use in two 24-hour periods. One of the days should be a weekday and one should be a Saturday or Sunday. Use the Data Sheet to record the data.
+
+Step 2 Calculate the average amount of energy in calories you use in a day. Divide the total energy used in 2 days by 2. Record this information in the Activity Report.
+
+Step 3 Record the average energy use by 10 males and 10 females on the Activity Report. Calculate the average energy use for those 10 males and for those 10 females during a 24-hour period.
+
+
+
+
+
+The Food Groups
+
+
+How do you make careful food choices? There are many things to take into consideration. You need to consider such things as calories, vitamins, amino acids, fiber, kinds of fats, and amounts of fat. It can be confusing. There are two things to help you-the food pyramid and the five food groups.
+
+Recently, the U.S. government adopted this food pyramid to educate people about eating right. The building blocks of most of the pyramid are the five food groups. At the very top of the pyramid is a collection of things we like to eat but shouldn't eat much of. This collection of foods includes things such as candy and foods high in fat. The top of the pyramid is not a food group. These things are at the top of the pyramid, but they are not the most important foods nor are they good for you!
+
+To learn more about the meaning of the pyramid, you have to think about calories. The pyramid represents the total amount of calories (Cal) your body needs. The food group building blocks represent the proportion of your calorie needs that you should get from different kinds of foods. Thus, the pyramid tells you that you should get most of your calories from grains, fruits, and vegetables (complex carbohydrates). You should get very few of your calories from fats and simple carbohydrates-for example, junk food.
+
+
+
+Figure 2.2 Food pyramid.
+
+
+
+
+
+Reading Food labels Find some food labels from the foods you eat and analyze them. Every food label provides some information about the food inside that container. Some labels tell you much more than others. Federal law requires that nutritional information appear on a label only if a nutrient has been added to the product. For example, if a drink has been “vitamin enriched,” you can look at the nutritional information to see what vitamins have been added.
+
+
+
+
+
+Can you guess the importance of the food groups? Each food group contains foods that are similar. Therefore, the foods in each group have a similar combination of the five nutrients-carbohydrates, proteins, fats, vitamins, and minerals. (Remember that water is considered a sixth nutrient.) When you eat the five nutrients in the proportions shown in the pyramid, you do not eat too much fat and cholesterol or too little fiber.
+
+The food pyramid can help you balance both the calories and the nutrients in your diet.
+
+
+
+
+
+The Five Food Groups
+
+
+Now, let's study the five food groups in more detail. You will also get an idea of the calories in different foods. Then you will explore what the body must do to burn calories.
+
+1. Bread/Cereal/Rice/Pasta Group
+
+These foods are composed of complex carbohydrates. They provide fiber and bulk for your food tube to squeeze and keep things moving. Cereals also give you B vitamins, minerals, and protein. Six to eleven servings from the bread/cereal/rice/pasta group are recommended each day.
+
+
+
+Figure 2.3 Bread/cereal/rice/pasta group
+
+Food Serving Amount Calories Fat(g)
+
+Whole wheat bread 1 slice 60 1
+
+Enriched white bread 1 slice 70 1
+
+Corn bread 1 piece 190 5
+
+Pancake 1 60 2
+
+Rice cup 110 -
+
+Hamburger bun bun 120 2
+
+Corn tortilla 1 60 1
+
+Oatmeal cup 66 1
+
+Pasta 1 cup 200 1
+
+What's the matter with the amount “1 pancake” or “1 piece of corn bread”? Remember the top of the food pyramid? That is where the butter and syrup that you might put on the pancake or corn bread come from. The table above does not include the “goodies” you add to the bread or pancake.
+
+2. Vegetable Group
+
+Vegetables are a good source of vitamins A and C, minerals, and fiber. Vegetables are low in calories, but they are high in nutrients. Three to five servings of vegetables are recommended each day.
+
+
+
+Figure 2.4 Vegetable group
+
+Food Serving Amount Calories Fat(g)
+
+Green beans cup 16 -
+
+Carrots cup 22 -
+
+Lettuce 1 cup 5 -
+
+Baked potato 1 130 -
+
+Spinach (cooked) cup 20 .2
+
+Once again, remember that the baked potato in this table does not include a big pat of butter or scoop of sour cream that comes from the top of the pyramid. Foods from the top of the pyramid add lots of calories and fat.
+
+3. Fruit Group
+
+Fruits are a good source of minerals and vitamins. Two to four servings of fruit per day are recommended.
+
+
+
+Figure 2.5 Fruit group
+
+Food Serving Amount Calories Fat(g)
+
+Orange juice (frozen) 1 cup 90 -
+
+Canned peaches cup 100 -
+
+Banana 1 medium 100 -
+
+Grapefruit medium 45 -
+
+Avocado 185 18
+
+Apple 1 medium 70 -
+
+Strawberries 1 cup 55 -
+
+Tomato 1 20 -
+
+Tomato juice 1 60 -
+
+4. Protein/Meat/Fish/Dry Beans/Eggs/Nuts Group
+
+This group is mostly protein. These foods also give you iron and some B vitamins. You should have two or three servings of food high in protein each day. However, you should remember that many foods in this group could contain a lot of fat. Here are some examples of the protein group.
+
+
+
+Figure 2.6 Protein/meat/fish/dry beans/eggs/nuts group
+
+Food Serving Amount Calories Fat(g)
+
+Lima beans cup 94 -
+
+Fried chicken
+
+(no skin)
+
+(with skin)
+
+(3 oz)
+
+(3 oz)
+
+201
+
+6
+
+8
+
+21
+
+
+
+Broiled chicken
+
+(no skin)
+
+(with skin)
+
+(3 oz)
+
+(3 oz)
+
+120
+
+6
+
+6
+
+16
+
+
+
+Boiled egg 1 79 6
+
+Halibut (broiled) (3 oz) 144 3
+
+Lean hamburger (3 oz) 235 15
+
+Tofu (soy curd) (4.3 oz) 86 5
+
+Tuna (in water) (3.3 oz) 117 -
+
+What Do You think?
+
+Why do you think it is recommended that you take the skin off chicken before you eat it?
+
+
+
+5. Milk/Yogurt/Cheese Group
+
+You should have two to three servings of food from this group each day. Milk is a good food, especially low-fat and non-fat milk. You do not need the fat in whole milk, but you do need the calcium, riboflavin (vitamin B2), protein, and vitamins A and D you get from milk. Here are some examples of foods in the milk group.
+
+
+
+Figure 2.7 Milk/yogurt/cheese group
+
+Food Serving Amount Calories Fat(g)
+
+American cheese (1 oz) 99 3
+
+Cheddar cheese (1 oz) 115 9
+
+Cottage cheese 1 cup 114 9
+
+Low-fat milk (1% fat) 1 cup 100 3
+
+Low-fat milk (2% fat) 1 cup 121 5
+
+Skim milk (nonfat) 1 cup 85 -
+
+Whole milk 1 cup 150 8
+
+Low-fat yogurt with fruit 1 cup 230 3
+
+Low-fat plain yogurt 1 cup 145 4
+
+What Do You Think?
+
+Why do you think fruit yogurt has more calories (Cal) than plain yogurt?
+
+
+
+The Top of the Food Pyramid
+
+This collection of foods contains added fat and sugar. The recommendation is to control your intake of these kinds of foods. Some foods contain a lot of fat and sugar. For example, a cheeseburger, chocolate shake, and French fries from a fast food restaurant together contain about 18 teaspoons of fat! Yuck! While these foods can provide half of your daily calories, they don't come even close to providing half of your daily nutrients.
+
+
+
+Figure 2.8 Top of the pyramid: these foods are not considered a food group.
+
+Food Serving Amount Calories Fat(g)
+
+Soft drink 1 can 145 -
+
+Chocolate cake 1 piece 235 9
+
+Candy bar, milk chocolate 58 g 295 9
+
+Chocolate chip cookie medium 50 3
+
+Ice cream 1 cup 270 7
+
+Jelly 1 tbs. 50 -
+
+Potato chips 10 chips 115 8
+
+Apple pie 1 piece 345 15
+
+Brownie 1 small 85 4
+
+Mayonnaise 1 tbs. 101 11
+
+
+
+
+
+A healthy amount of fat for 11- 14-year-olds to consume ranges from 65 to 85 grams per day. Suppose that in one day you eat 2 chocolate chip cookies, 4 servings of potato chips, an ice cream cone, and 2 tablespoons of mayonnaise on your sandwich. How many grams of fat have you consumed?
+
+
+
+What Do You Think?
+
+Considering the list of nutritional guides shown here, which do you think would be the easiest for you to follow and why? Which would be the hardest for you to follow and why?
+
+
+
+Look again at the foods you recorded in Your Food Diary, Activity 1-1: Are You What You Eat? You might have some new thoughts about how to choose foods now. Learn about which foods are good for you.
+
+The following are some nutritional guides to keep in mind.
+
+Limit fats to 30% or less of your total calories (65-85 g).
+
+Protein should be about 15% of your total calories (about 45 g).
+
+Include complex carbohydrates for energy as well as vitamins, minerals, and fiber.
+
+Limit foods high in saturated fats (animal fat and palm and coconut oil).
+
+Choose foods that help you grow, look, and feel your best instead of choosing foods with “empty calories.” Limit foods high in sugar and salt.
+
+Eat a variety of foods from all five food groups.
+
+
+
+
+
+Review Questions
+
+
+What is the relationship between a calorie (Cal), a piece of bread, and the term energy?
+
+Explain why the five food groups are displayed in the shape of a pyramid instead of a square.
+
+Design and complete a table that includes the food groups, major nutrients in each group, and examples of food in each group.
+
+
+
+
+
+Mouth to Stomach in One Swallow - Student Edition (Human Biology)
+
+
+
+
+
+Mouth to Stomach in One Swallow
+
+
+
+
+
+How does the digestive system break down a bacon, lettuce, and tomato sandwich?
+
+
+Now that you've learned what you need to eat, let's see what your body does to the food you eat. To learn about the process, think about factories and conveyor belts. Your food tube or digestive tract passes from your mouth to your anus. It works like a long assembly line-but in reverse. Let's see the conveyor belt principle in action first.
+
+Let's say you build cars in a factory. The factory is equipped with all kinds of machines and people to make sure the cars are built correctly. At position A, the car body lands on the conveyor belt. The belt moves clockwise. By the time the car gets to position B, the doors and trunk are on. When the car reaches position C, the wheels are attached, and by position D the steering wheel is in! The conveyor belt moves the unfinished car to each workstation in sequence to add more parts.
+
+
+
+Figure 3.1 A conveyor belt moves the car past assembly stations. At each station parts are added to the car.
+
+
+
+Figure 3.2 This car had better be made of flour, milk, and eggs if he is going to eat it!
+
+Your food tube works the opposite way the car production conveyor belt works. Let's look at a simple picture. If you ate cars instead of food to live, you might digest them in the opposite way they were put together.
+
+You put the whole car into your mouth at point A. Your food tube moves the car along and takes off the steering wheel, then the windshield, then the tires, then the doors. These parts are absorbed into your body across the wall of the food tube. What's left of the car gets crumpled up (like a trash compactor crumples waste). At point D, your anus, you push the unused pans of the car out of your body.
+
+You digest food by disassembling it into its component parts. The important idea is that your food tube works like an assembly line in reverse. Digestion involves both a physical and chemical breakdown of food. The physical breakdown includes chewing in your mouth and churning food in your stomach. The chemical breakdown involves different chemicals that work on the food at different places along the tube. The chemical breakdown reduces complex molecules in food to simple chemical units or building blocks that can be absorbed by the cells that line the food tube.
+
+
+
+Figure 3.3 Your digestive systems works like an assembly line in reverse. As food, represented by the car, passes through your digestive tract, it is disassembled (digested). Only a part of the car leaves as waste.
+
+What Do You Think?
+
+Why do you think some birds need to swallow stones to help Them digest their food? Describe how you think their digestive systems work, considering the kinds of food they eat.
+
+
+
+Now let's take a journey through the digestive system to see how this conveyor belt really works. Let's follow a meal through the long tube called the gastrointestinal tract, which begins with the mouth, includes the throat, stomach, and intestines, and ends with the anus. You will see what happens to food along the way.
+
+Imagine that you are a traveler in an “inner” space capsule about the size of a vitamin pill. First, you make yourself really small. Then you get into your capsule. Look at the picture of you in Figure 3.4 (page 26) in your “inner” space capsule. The label on your uniform stands for Gastrointestinal. The G stands for gastro, and the I stands for intestinal.
+
+
+
+Figure 3.4 Imagine that you are inside your “inner” space capsule ready to travel. You hold a magnifying glass. S is your searchlight. P is a pressure sensor. A is an acid sensor. G is a grabber for picking up samples.
+
+Did You Know?
+
+In the early 1800s doctors didn't know a lot about digestion. In 1822 a doctor in the U.S. Cavalry stationed at a remote fort treated a fur trapper who had been shot in the stomach. Although the stomach regained normal functions, the hole in the stomach would not heal. The doctor plugged the hole with easily removed bandages and spent the next eleven years observing his patient's stomach at work.
+
+
+
+
+
+Map of Your Digestive Tract - Part I
+
+
+Before you start the dark, tumbling ride, you need to see a map of where you will go. Only the major landmarks are on the map.
+
+
+
+Figure 3.5 The entire GI (Gastrointestinal) tract.
+
+
+
+The following link demonstrates the processes that occur in the stomach.
+
+
+
+Click on the image above for more content
+
+Did You Know?
+
+The average person eats half of a ton of food each year. How much food will you eat if you live to age 87?
+
+
+
+What do you think you will see from the capsule? You need the searchlight to find your way. You can see through the walls of the capsule. You have a pressure sensor to measure the amount of muscle squeeze. You also have a sampler and an acid sensor. You might want to make a chart of the points of interest so you can record your findings.
+
+What Do You Think?
+
+Have you ever watched a TV commercial for a hot, steaming pizza that made you hungry even though you weren't hungry a moment before? A Russian scientist named Dr. Pavlov did an experiment on salivation. Dr. Pavlov rang a bell whenever a dog was fed. The dog salivated because it smelled and tasted the food. After many feedings, the dog would begin salivating when the bell rang, even if there wasn't any food. What do you think this shows about how the brain connects to our digestive systems? Why do we sometimes convince ourselves we are hungry when our bodies don't agree, or that we aren't hungry when we really are? Is this healthy behavior? Why or why not?
+
+
+
+Mouth
+
+Now we're ready to start the journey. A friend places your capsule in the middle of a bacon, lettuce, and tomato sandwich. You are lifted to a mouth and feel a sudden acceleration as in an elevator. Suddenly, it gets dark. Then you hear cutting and grinding noises. Your capsule slides over a rubbery surface that bobs up and down. It's a tongue! Globs of mayonnaise, chunks of tomato, hunks of lettuce, and pieces of bread bounce the capsule around. Through all of the splatter you see incisor teeth working as they bite off huge pieces of bread and lettuce.
+
+
+
+Figure 3.6 An open mouth.
+
+
+
+
+
+Can You Tell the Types of Teeth? Look in a mirror at your teeth. Find the incisors. Which are canines? Which are bicuspids? Which are molars?
+
+
+
+
+
+Did You Know?
+
+Your teeth do not grow after they break through your gums and reach full size. The enamel covering keeps them from getting any bigger. During your life you get two sets of teeth. Around age six, the small baby teeth begin to fall out. They are called deciduous teeth , because they fall out when the adult teeth below them push them up. The term deciduous is used for trees that lose their leaves in autumn.
+
+
+
+
+
+Teeth
+
+
+Teeth cut up food. The front teeth are the incisors. They cut and slice. Upper and lower incisors work like a pair of scissors. They nip out bites of sandwich. Over to the sides of the mouth are sharp, pointed canine teeth. They are called canine teeth because they are like a dog's large pointed teeth. These teeth can gnaw meat from bones, as when you eat chicken. Behind the canines are the bicuspids, and then the molars. Bicuspids and molars crush and grind what incisors and canines bite off. Bicuspids have two cusps or grinder surfaces. Molars have more.
+
+
+
+
+
+Can you tell what kinds of foods different animals eat by looking at their teeth? Describe some differences between animal teeth and how they match the diets of those animals.
+
+
+
+
+
+Let's get back to the journey. Your capsule is still in the mouth. Sounds of crushing and grinding are now louder. Your capsule is near the flat-topped molars, grinding away. Molars crush and grind. The word molar is another name for the mill wheel that grinds grain to flour. The tomato, bread, and lettuce turn into pulp as you watch.
+
+Salivary Glands
+
+Now you turn the searchlight on to see one of the slimy moving walls near the second upper molar. You can see a hole. Every once in a while the hole squirts like a windshield sprayer. The juice hits against the wall of your capsule. You reach out and collect some of this juice, which, as you can guess, is saliva.
+
+
+
+
+
+The sight or smell of good food can make you salivate. Another condition that causes you to salivate is nausea, for example, when you get seasick. What role do you think saliva can play when you are nauseated?
+
+
+
+
+
+The saliva from a salivary gland contains an enzyme , called amylase. An enzyme is a protein in cells that affects chemical reactions. Amylase is the enzyme in saliva that breaks starch down into sugar. You can taste when amylase has worked in your mouth if you chew a soda cracker for 5 minutes because the cracker begins to taste sweet.
+
+The starch in the cracker is really a long molecule-a string of sugar molecules. Your sweet taste buds can't taste the whole long molecule. You can taste sugar only when starch is broken up into smaller pieces. The enzyme amylase breaks the long starch chain into smaller pieces, some of which have only 2-sugar units.
+
+From this observation, you see that digesting starch starts in the mouth, as amylase breaks the starch chains into shorter pieces. The short double units are maltose. Later, another enzyme breaks up the double units called maltose to make single units of glucose .
+
+
+
+Figure 3.7 This illustration shows the process of starch digestion by amylase. Amylase breaks the chain at the points shown by the scissors.
+
+
+
+
+
+Activity 3-1: Digestive Enzyme in Action
+
+
+Introduction
+
+In this activity you observe the result of the enzyme action of lactase on lactose, which is a sugar found in milk.
+
+Materials per team:
+
+Milk, regular and lactose-free
+
+Glucose test strips (4)
+
+Lactase tablets (2)
+
+Two small beakers
+
+Masking tape
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Use masking tape to label one beaker #1. Pour a small amount of regular milk in the beaker labeled #1.
+
+Step 2 Use masking tape to label the second beaker #2. Pour a small amount of lactose-free milk into the beaker labeled #2.
+
+Step 3 Test the milk in each beaker for the presence of glucose with glucose strips. Record the results you observe on the Activity Report.
+
+Step 4 Break up 2 lactase tablets and place one in each beaker. Stir.
+
+Step 5 Test the milk in the beakers with a glucose test strip. Record the results you observe on the Activity Report.
+
+
+
+
+
+Map of Your Digestive Tract - Part II
+
+
+Enzymes
+
+In Activity 3-1 you observed the action of a digestive enzyme. But what are enzymes? Enzymes are proteins. They often need the help of vitamins or minerals to do their work. Every time energy is released in the body, an enzyme is needed to help release the energy. Whenever a molecule is changed, made bigger, or made smaller, an enzyme is at work. There are thousands of different enzymes in your body, and each has a specific job. They have long names that end with ase . Their names can tell you where an enzyme comes from and what it does. For example, salivary amylase comes from the salivary glands and digests the starch amylase.
+
+Did You Know?
+
+Your salivary glands make about 4 cups of saliva a day. Saliva is made up of about 99% water. The rest includes various chemicals such as enzymes, which aid digestion. Saliva keeps your mouth and throat moist, helps food slide easily down your throat, helps warm or cool food as needed, and starts the digestive process. Have you ever noticed that sour or dry foods make you produce more saliva?
+
+
+
+One function of enzymes is to break down food molecules and release energy in the body. If all the energy in a meal were released at once, we'd have an explosion. For example, the energy in a piece of fudge cake might be enough energy to raise a 100-pound person's body to 117°F. That temperature would kill the person if it happened all at once. Enzymes let your body break things down one small piece at a time. Enzymes also let you trap the energy in food to do things that are more useful than just warming up. Chemists say enzymes are catalysts. Catalysts let chemical reactions happen more easily than they would without the catalyst. Also, enzymes and catalysts are not used up by the reactions they help cause. That's why one small enzyme can work over and over again-splitting starches into simple sugars, for example. The body doesn't need huge salivary glands, because a little enzyme can go a long way in splitting all the starch you eat. You make about a liter of saliva each day, and most of that is water.
+
+Did You Know?
+
+Choking happens when food gets stuck and blocks the airways, instead of going down the esophagus. The choking person can't talk, because the food is blocking the vocal cords. The person can't breathe, because the food is blocking the airway. Get immediate emergency medical help because the person's lungs are losing oxygen to the blood. When the person tries to breathe, the effort to breathe can cause the food to be sucked down harder, further blocking the person's airway. A trained person can perform the Heimlich maneuver (also called the Obstructed Airway maneuver). This procedure uses the air left in a person's lungs to force out an object blocking the airway. You can be trained to perform the Heimlich maneuver.
+
+
+
+
+
+Figure 3.8 The esophagus is located behind the heart and lungs. It connects the mouth to the stomach.
+
+Esophagus
+
+Let's return to the journey. Your capsule is swallowed and you begin a roller coaster ride. The esophagus is a tube going from the throat to the stomach, straight down. As you can see, it goes behind the trachea, heart, and lungs and through the diaphragm. The tube is closed when it isn't swallowing or bringing up gas.
+
+Swallowing
+
+When the swallowing begins, your capsule is in the center of the tongue. Your pressure sensor, or gauge, goes up as the capsule is squeezed by the tongue against the roof of the mouth. The capsule slides to the back of the mouth. The soft part of the roof of the mouth closes off the passage from the nose. This action keeps the pressure of swallowing from pushing the food into the nose cavities. A flap called the epiglottis is positioned over the opening of the airways. As the swallowing begins, the epiglottis closes to block the airway. Bubbles of air surround you as you watch the epiglottis slam shut over the hole where air enters your trachea. Breathing has to stop for a few seconds to allow swallowing to occur. As your capsule slides down past the airway opening, a huge hole opens up. The capsule slides through the hole. Your capsule is now in the esophagus behind the trachea. Your pressure gauge still reads a high pressure.
+
+
+
+Figure 3.9 Remember to pretend that you are in the capsule moving through the esophagus to the stomach.
+
+Did You Know?
+
+You have many sphincters in the gastrointestinal tract that control movement of food through the food tube. Muscles do the work of sphincters. Make a ring with your index finger and your thumb. Squeeze the index finger so the ring gets smaller and smaller. That's how a sphincter works.
+
+
+
+The esophagus is like a dark, floppy rubber tunnel that allows your capsule to move down, then closes behind you. In fact, the closing of the esophagus behind you keeps pushing you down. The end of the esophagus is the stomach. Your pressure gauge reads a very high number before you pop through from the esophagus into the stomach. The pressure barrier you just passed through is called the lower esophageal sphincter. A sphincter is a muscular valve. This one keeps what's in the stomach out of the esophagus. It does this by squeezing the passage shut all of the time except when a bit of swallowed food needs to pass through.
+
+Stomach
+
+You now find yourself inside the stomach. Your capsule lies in sloshing, gooey chyme. Chyme is the semifluid mixture of digestive juices and partially digested food in the stomach. You can still see pieces of lettuce and tomato and bread, but they are smaller now. Your pressure gauge reads a lower pressure than in the esophagus. There is less pressure now, because the stomach stretches out easily as food enters from above. Your acid sensor now registers high. Why does your stomach have acid in it?
+
+
+
+The following link demonstrates the processes that occur in the stomach.
+
+
+
+Click on the image above for more content
+
+Stomach Acid
+
+Acid helps the stomach break up food into smaller pieces. The stomach wall keeps this acid from breaking down and digesting the rest of the body. The stomach wall also has to be protected from this acid. Cells in the lining of the stomach secrete a slippery substance called mucus. Mucus protects the wall of the stomach from the acid in the chyme. If the mucus lining is damaged, the acid can eat away at stomach tissue, causing cramps and pain. Have you heard of stomach ulcers? Ulcers are areas where the stomach wall is damaged. Sometimes stomach ulcers bleed, and blood mixes with the chyme in your stomach. When the hemoglobin in this blood mixes and reacts with stomach acid, it turns dark brown or black. Anyone with black, sticky feces that look like oil or tar needs to see a doctor, because black feces can mean stomach bleeding or a stomach ulcer. Ulcers are most often caused by bacterial infections, but they can be due to excessive secretion of stomach acids that occurs when people are tense or worried or are using anti-inflammatory drugs. Smoking, stress, alcohol, coffee (both regular and decaffeinated), aspirin, or caffeine can damage the protection of the stomach and cause bleeding ulcers. Ulcers can usually be treated with a combination of antibiotics, drugs that neutralize stomach acid, and attention to certain lifestyle factors. People with ulcers need to learn to live without causing more bleeding. This means that they must change how they live, eat, and respond to stress. Stress makes your stomach produce more acid and can give you heartburn. Heartburn is caused when the lower esophageal sphincter doesn't prevent stomach acid from entering the esophagus. The backup of acid into the esophagus causes a burning sensation in the esophagus. Heartburn can be caused by eating too much, wearing tight clothing, changing positions, or a defect in the sphincter.
+
+
+
+Figure 3.10 This is aside view of a stomach. There you are inside your capsule. Your voyage has now taken you from the esophagus into the sea of chyme in the stomach.
+
+
+
+
+
+Think about how you feel when you are under stress. How does your stomach feel? Explain how you think an ulcer can be caused by a person being under a lot of stress. Describe several ways you could deal with the stress in your life to leave you feeling calm instead of upset.
+
+
+
+
+
+Stomach acid also helps protect you from invading organisms. It would be impossible to not eat some germs along with your food. However, most germs are killed by stomach acid.
+
+Digesting Protein
+
+Now let's get back to the journey. The sandwich is continuing to break up in the stomach. Your capsule bobs around in the stomach in a slurry of food and digestive juices called chyme. The digestive juices are acid, enzymes, and mucus, which were produced by cells in the stomach wall. The enzymes produced by the stomach begin to break down the protein in the bacon, lettuce, and tomato. The stomach enzyme pepsin begins to digest proteins by breaking the long protein chains into shorter pieces. When they are broken down, the shorter pieces jostle around in the chyme with everything else. Further on in the food tube, other enzymes break the shorter chains into individual amino acids, which are the building blocks of proteins.
+
+
+
+Figure 3.11 Enzymes in the stomach break down protein (a long chain of amino acids) into small chains of amino acids.
+
+Did You Know?
+
+What is a burp? Your stomach churns around the stomach chyme, mixing acid and enzymes with food to keep digestion going. Bubbles of gas are released from the chyme. This gas is air that was swallowed with a meal. As the bubble above the chyme gets bigger, it pushes on the sphincter at the bottom of the esophagus. Sometimes the sphincter lets some of the gas go up the esophagus. When the gas goes up, you burp. Burps can be smelly depending on what you ate and what the stomach acid has done to what you ate. It is polite to put your hand over your mouth when you burp.
+
+
+
+Peristalsis
+
+Food moves through your gastrointestinal tract in a process called peristalsis . The entire food tube has layers of muscle tissue in its walls. When the wall muscles squeeze the tube, the tube gets narrower or shorter. The muscles squeeze sequentially along the tube so the food in your food tube must move in one direction. In the stomach, the wall muscles churn the food to break it down into smaller pieces and to mix up the chyme. Squeezing muscles act like rings of contraction that move from mouth end to anus end of the food tube, one after the other in sequence. This squeezing of the muscles moves chyme from the stomach to the anus along the food tube. In Activity 4-1 your fingers will act like these muscles to move food through a long tube.
+
+Entering the Small Intestine
+
+Your capsule leaves the stomach by squeezing through the pylorus. This muscular sphincter keeps chyme in your stomach long enough for digestion to start breaking long chains of protein into smaller ones. The pylorus keeps the acid chyme from leaving the stomach too quickly. Now your capsule enters the small intestine where most of the digestion and the absorption of nutrients take place. What happens to all the stomach acid in your chyme? What chemicals break down food in the small intestine? You will explore that in the next section.
+
+
+
+
+
+Review Questions
+
+
+The three major components in food that require digestion are carbohydrates, fats, and proteins. How is digestion of these three components similar and/or different, until the time they reach the pylorus?
+
+Why is it important to chew food thoroughly?
+
+What role do enzymes play in digestion? Include two examples of enzymes. Explain where each enzyme is produced, where each does its work, and what it does.
+
+What moves food along the food tube? Explain what keeps food moving in the right direction.
+
+
+
+
+
+Interactive Puzzles
+
+
+
+
+Click on the image above for more content
+
+
+
+Click on the image above for more content
+
+
+
+Click on the image above for more content
+
+
+
+
+
+A Journey through the Intestine - Student Edition (Human Biology)
+
+
+
+
+
+A Journey through the Intestine
+
+
+
+
+How does your body get the nutrients it needs?
+
+The capsule has traveled from the mouth, through the esophagus, and into the stomach so far on your journey. In this section you will explore what happens to food in the intestines.
+
+Did You Know?
+
+Your small intestine is about 20 feet long (5-6m). The large intestine is 5 feet (1.5m long). If your intestines were significantly shorter, food would pass more quickly, and the nutrients would have less time to be absorbed.
+
+
+
+Small Intestine
+
+The small intestine is about 6 meters long. It can't be measured exactly, because it shortens when it's active and lengthens when it's quiet. The small intestine digests and then absorbs the molecules in food. Humans have more small intestine than needed to absorb what is eaten. Some of the small intestine is in reserve. However, if a small intestine is shortened through surgery, fewer nutrients will be absorbed. People with short small intestines can even become malnourished.
+
+The first section of the small intestine is called the duodenum. This is where the digestion of food really gets going. Digestion in the duodenum starts with the secretion of digestive juices that include lots of enzymes that break down the large, complex molecules in food.
+
+
+
+
+
+Coil a Rope The intestines coil around in a similar way that a rope can be coiled to fit into a compact space. Find a thick (about 1 inch in diameter) rope about 25 feet long, and see how small a space you can coil it up in. What features of the rope would enable you to put it into a smaller space?
+
+
+
+
+
+Digestive Juices
+
+As your capsule passes a large opening in the wall of the duodenum, you see a blast of clear juice. Then a squirt of green bile smears up your capsule's window. Your acid gauge registers less acid and moves toward neutral.
+
+The organs called the pancreas and the gall bladder connect with the small intestine at the duodenum. The first squirt came from the pancreas, which secretes digestive juices containing enzymes. These substances digest fats, carbohydrates, and proteins into smaller molecules. The bile came from the gall bladder. Bile is green. It is made by the liver and stored in the gall bladder.
+
+
+
+Figure 4.1 If you stretched out that coil of small intestine, it would be longer than a giraffe is tall!
+
+Bile helps digest fat. When fat is present in the chyme that squirts through the pylorus into the small intestine, the gall bladder releases bile by squeezing. This squeezing squirts bile through the duct leading to the small intestine. The squeezing of the gall bladder is timed by hormone and nerve signals. By timing its release, the bile meets with the fat as it enters the small intestine.
+
+
+
+
+
+Shake It Up Place some oil (fat) and water together in a jar with a lid. Shake and observe what happens. Now remove the lid and add some liquid (clear) soap. Shake and observe again. What did the soap do? Why is this kind of action accomplished by bile in the small intestine important in fat digestion? Read the contents on the label of a jar of mayonnaise. What takes the place of soap in mayonnaise?
+
+
+
+
+
+Bile works on fat in a similar way that dishwashing soap works on grease. The bile emulsifies fat. What does emulsify mean? When a glob of fat or grease is emulsified, it is broken up into tiny droplets or particles. How does bile do this, and why is it important? Let's see.
+
+One end of a bile molecule can mix with water. The other end of the bile molecule can mix with fat. Therefore, when bile is mixed with fat globs, the bile molecules cover the surface of the globs with the ends that mix with water sticking out. The ends that mix with water repel other fat globs. This prevents the smaller fat globs from joining together into one big glob. Think of salad dressing made of oil and vinegar. The vinegar is a water solution, which stays separate from the oil until you shake the bottle. As you shake the bottle, the oil breaks up into smaller and smaller droplets. Eventually, the oil mixes with the vinegar. But what happens when you stop shaking? The oil collects into bigger and bigger drops until all of the oil is floating on top of the vinegar again. If you added bile to the salad dressing (Ugh!), the oil and vinegar would stay mixed after shaking. If you looked at the mixture under a magnifying glass, you would see thousands of tiny droplets of oil in the vinegar. It would be called an emulsion. Emulsifying fats, breaking them down, is important in digestion. It increases the surface area of fats so that their digestion by the enzyme lipase is more efficient.
+
+
+
+Figure 4.2 You are watching bile molecules keeping fat droplets from congealing into globs.
+
+
+
+
+
+What are gallstones?
+
+
+
+
+
+Juices from the Pancreas
+
+The juice from the pancreas contains lots of powerful enzymes that break down the various kinds of molecules in your food. Then why don't those enzymes digest your pancreas? After all, your pancreas, like the rest of your organs, is made out of the same kinds of molecules that make up your food-proteins, fats, and carbohydrates. The trick is that the pancreas produces these enzymes in an inactive form. Each enzyme is a protein, but when it is secreted by pancreatic cells, it has an extra sequence of amino acids that block its activity.
+
+When the inactive enzymes reach the small intestine, they meet an enzyme produced by cells in the wall of the intestine. This enzyme takes the amino acid muzzles off the pancreatic enzymes and turns them loose to do their work in the small intestine. The small intestine is coated with mucus to protect it from the active enzymes.
+
+What Do You Think?
+
+Now that you know how different kinds of foods are digested, think about what kinds of foods you digest first and what kinds you digest last. Why do you think you are not supposed to eat fatty foods before you exercise?
+
+
+
+Neutralization of Stomach Acids
+
+Pancreatic juice contains more than enzymes. It also contains lots of bicarbonate. You can buy bicarbonate in the grocery store as baking soda. It is also the active ingredient in pills people take for an acid stomach. Bicarbonate can neutralize acids.
+
+What does it mean to neutralize an acid? Neutralization takes the burning power away from the acid and makes it like water. Pancreatic juice in the intestines neutralizes the acid chyme coming from the stomach. The enzymes from the pancreas need a neutral, watery environment to do their job of digesting food molecules in the intestine.
+
+
+
+Figure 4.3 These are three time frames each showing you in your capsule in the small intestine. In Second 1 your capsule moves forward. In Second 2 your capsule moves back. In Second 3 your capsule is propelled forward again, but farther than your position in Second 1. The back-and-forth “rubbing” allows for the movement and mixing of digestion contents (chyme) and enzymes.
+
+Movements of the Small Intestine
+
+Now, back to your journey. You notice your capsule moving back and forth in the duodenum. First, you move down, then you move up. You think, “How strange.” You watch a spot on the wall move past you one way and then the other, like the movement shown in Figure 4.3.
+
+You pass the spot several times as chyme sloshes back and forth. You record the pressure as your duodenum squeezes. This movement, or sloshing, moves the food through the intestine and mixes it with digestive juices. The sloshing also helps the nutrient molecules become absorbed across the wall of the intestine into your blood. Sloshing helps absorption by bringing the nutrients into contact with the wall of the intestine. The cells lining the intestine have transporters that move certain nutrient molecules across the cell membrane. Other nutrient molecules are absorbed across the wall of the intestine.
+
+
+
+
+
+Activity 4-1: A Journey through the Intestine (Peristalsis)
+
+
+Introduction
+
+Think about how you feel if your “stomach is upset” or you have intestinal problems. In this activity you explore how materials move through the intestine, some causes for changes in these processes, and how these factors can affect your body's overall balance.
+
+The simulation in this activity represents peristalsis. Peristalsis is the muscular action that is responsible for mixing and moving materials along the intestine. Your hands represent the muscles of the intestinal tract as they squeeze and push the materials through the tube. When you add food coloring or “digestive juices,” you see how the movements of your hands determine how well your simulated chyme gets mixed and moved. This movement simulates how the semiliquid chyme moves from the stomach into the small intestine. Remember that real chyme is composed of partially digested food particles as well as digestive juices and enzymes.
+
+Materials
+
+Tubing (2-inch diameter)
+
+Simulated chyme (cooked oatmeal/rice)
+
+Coloring material
+
+Selected food items (grapes/lettuce)
+
+Bucket of water and paper towels
+
+Water bottle
+
+Spoons
+
+Gloves
+
+Funnel with large opening
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Follow your teacher's instructions about how you will be doing this activity at your lab station.
+
+Step 2 Put some simulated “chyme” into your tube.
+
+Step 3 Think about how you can use your hands to mix and move chyme from one end to the other (see example below), Think of your hands as muscles that can only squeeze. They cannot slide along the tube! Experiment until you find the most effective method of mixing and moving chyme through your tube. Record your observations.
+
+
+
+Figure 4.4 Squeeze to see what happens.
+
+Step 4 Put some coloring agent on the chyme at the beginning of the tube. Move this colored chyme through the tube and watch carefully to see what happens.
+
+Step 5 Now add a food item and observe what happens as you move it through the tube. Summarize your observations for Steps 4 and 5, and complete the Activity Report.
+
+Step 6 When you are finished, follow your teacher's instructions for storing lab materials and cleaning the lab.
+
+The Inner Wall of the Intestine
+
+Why does the inner wall of the intestine look so bumpy? Let's take a closer look at the small intestine. As your capsule moves along the small intestine, you see that the wall of the intestine folds into mountains and valleys. And the folds look fuzzy. The wall of the intestine looks like a shag carpet with folds in it.
+
+All these foldings and fingerlike projections are ways of increasing the surface area of the walls of the intestine. The large surface area allows enough digested food molecules to be absorbed to satisfy the needs of the body.
+
+After plugging some crude measurements you made into your capsule's computer, you calculate the intestinal surface area. The measurements range from the size of a tennis court on the low end to the size of a football field on the high end. But you know one thing. There is a vast surface area for the absorption of the food you eat.
+
+
+
+Figure 4.5 There you are in your capsule observing the fingerlike projections, called villi, of the intestine that increase the surface area of the intestine walls.
+
+
+
+
+
+What Passes across a Membrane? Use the cell membranes (A, B, and C in the table) to predict the size of a substance moving across. One meter is equal to 1,000,000,000 nanometers (nm).
+
+Water is smaller than .
+
+Glucose is larger than but smaller than .
+
+An amino acid is larger than but smaller than .
+
+Starch is larger than .
+
+If membranes with different pore sizes were available, how could you determine the exact size of the substance glucose?
+
+
+
+
+
+Membrane Pore Size Can substance pass through pore?
+
+Water Glucose Amino Acid Starch
+
+A Yes No No No
+
+B Yes Yes No No
+
+C Yes Yes Yes No
+
+Figure 4.6 Find the substances that can and cannot pass through a pore.
+
+
+
+
+
+Activity 4-2: A Journey through the Intestine (Villi)
+
+
+Introduction
+
+How is it possible for your small intestine to do its job? What does your small intestine look like? Your intestines are specialized to absorb the small molecules released from the breakup of large food molecules by digestive enzymes. The lining of your intestine is folded much like the corrugations of cardboard. This folding gets more surface area into a small space. The folds are covered by fingerlike projections called villi. The surfaces of the cells lining the villi are covered with many tiny projections called microvilli, making them look like little brushes. The microvilli, villi, and foldings increase the surface of absorption in the intestine up to 600 times.
+
+Materials
+
+Slides of intestine showing villi, and epithelial cells. (Electron micrographs of microvilli from textbooks)
+
+Microscope
+
+Model or diagram of human digestive tract
+
+Corrugated box cardboard
+
+Sheep, pig, or cattle intestine
+
+Butcher paper and/or adding machine paper
+
+Scissors, markers, tape, ruler
+
+Calculator
+
+Scalpel or razor blade
+
+Gloves (latex or plastic)
+
+Activity Report
+
+
+
+Procedure
+
+Day!
+
+CAUTION: You should wear gloves for Steps 1-3.
+
+Step 1 Look at the piece of intestine. Slit a section and rinse. Observe the velvety texture of the inner lining. Notice how the lining separates easily from the muscular layer. Run your finger along the inside of the intestine along the villi. What makes the surface so soft? Record your observations and answers to questions 1 and 2 on the Activity Report.
+
+Step 2 Obtain a 3-square-centimeter piece of corrugated cardboard. Peel off the surface layer. How is your intestinal lining like this cardboard? Why is this important? Answer question 3 on the Activity Report.
+
+Step 3 Look at the microscope slide of villi under the microscope. Each villus is 0.5 to 1.5mm long. Can you see how the absorptive area of the small intestine is increased by the villi? Draw 3 or 4 of the villi on your Activity Report. Answer question 4 on the Activity Report.
+
+Day 2
+
+Step 4 Assume that your small intestine is 5 meters long and 2cm (.02 meters) in diameter (D). Think about how much surface area it would have. Keep this in mind when you answer question 5 on the Activity Report. How would you calculate the inner surface area? [Hint: or . So the strip would measure 5 meters by 6.3 centimeters. (.063 meters)]
+
+Step 5 Using adding machine paper, butcher paper, or tubing, measure and cut a strip that is 5 meters in length by 6.3 centimeters in width. This would be the size of the small intestine if it were slit open along the entire length and flattened out.
+
+Considering the villi, microvilli, and the foldings of the intestinal wall, the absorptive area is 600 times greater than the strip represents. If you could set 600 of these strips side by side, you would have a rectangle that measures approximately 5 meters by 38 meters. THAT WOULD BE THE ENTIRE ABSORPTIVE AREA OF YOUR SMALL INTESTINE.
+
+Step 6 Instead of making 600 strips and placing them side by side, measure the area of 5 meters by 38 meters with string or by walking the rectangle. You can use the 5-meter strip or a 5-meter piece of string for one side of the rectangle and measure off the other three sides by pacing. Answer question 5 on the Activity Report.
+
+Diffusion and Osmosis
+
+How is food absorbed into the bloodstream and from the bloodstream into the cells? Have you ever watched a crowd of people enter a public space? Think about a school at lunchtime. First, people are all crowded in a hallway or around a door. Then they naturally spread out to find their own spaces. So what started as a crowd is now spread out more evenly. The same type of thing happens with gases and food nutrients in your body. Suppose a membrane separates an area with a higher concentration of oxygen, glucose, carbon dioxide, or amino acids from an area with a lower concentration. The molecules will tend to move from the area of higher to the area of lower concentration, if they can get through the membrane.
+
+This natural process of molecules moving from an area of higher to an area of lower concentration is called diffusion. Diffusion moves nutrients and gases (oxygen and carbon dioxide) around your body. Diffusion means that molecules or gases in higher concentration in one area will naturally flow into areas with lower concentrations, until an equilibrium (both areas have the same concentration of the molecules and gases) is reached.
+
+Osmosis is a specific kind of diffusion. Osmosis involves the movement of water across membranes. If two solutions are separated by a membrane that will let water molecules pass through but won't let other molecules pass, water will move from an area where there is more water to an area where there is less water. In other words, the water moves from a region of higher concentration to a region of lower concentration of water.
+
+
+
+
+
+Why do health workers not just run water into your blood through the IV?
+
+
+
+
+
+Colon
+
+After several hours, your food has reached the end of the small intestine and another sphincter muscle (remember the muscular squeezing rings?). Because of the larger diameter of the tube, you know you are entering the large intestine, or colon.
+
+The sphincter between the small and large intestines keeps what is in the colon from washing backwards upstream into the small intestine. In the colon the sloshing around has stopped. You observe that the chyme has gotten thicker. Undigested parts of lettuce fiber are about all that's left of your sandwich. Your capsule moves back and forth very slowly now.
+
+Appendix
+
+Where do you go from here? There are two options. If you look up, the big tube that is the colon stretches out of sight, and the chyme is slowly moving in that direction. But the other option is a small passage below you that is a dead end. Your capsule probably can't squeeze into it. This is your appendix. Has anyone you know had appendicitis?
+
+
+
+Figure 4.7 Find your capsule surrounded by chyme particles.
+
+Appendicitis starts with a very severe stomachache caused by an infection in the appendix. Infections are common in the appendix because it is such a tight, little, blind-end tube. Bits of indigestible material can get into it, irritate it, and make it possible for bacteria to cause an infection. That infection can get worse quickly, causing the appendix to burst. If that happens, the infection can spread throughout your body cavity. Therefore, it is important to consult a doctor when you have a bad stomachache. If the doctor decides you have appendicitis, the remedy is for a surgeon to remove the infected appendix.
+
+Did You Know?
+
+Another example of a vestigial organ is eyes in cave fish. The ancestors of species of fish that only live in caves came from the sunlit world and they had functional eyes. Once they colonized caves, however, they no longer experienced light, so there was nothing to see. Since there was nothing to see, mutations that occurred in genes controlling development and function of the visual system accumulated. A mutation is a permanent change in hereditary material that causes a change to the organism. As mutations accumulated over thousands of years, functional eyes were lost.
+
+
+
+Can you get along without your appendix? There's no problem. Your appendix is a vestigial organ. That means it had a function in our distant past, but that function is no longer necessary. Since it is no longer needed, the organ has gradually decreased in size.
+
+What was the function of this part of the digestive tract, which is now a shriveled projection at the beginning of the colon? In some vegetarian animals such as rabbits, this projection off of the colon is enormous and is called a cecum. The enzymes in the small intestine of these animals cannot digest some vegetable matter very well. When this partially digested matter moves into the cecum, bacteria can work on it and digest it more thoroughly. The bacteria can even produce important nutrients such as vitamins that were not in the original food. Now the question is, “How does the rabbit benefit from the nutrients generated by the bacteria in the cecum?” Remember that absorption of most nutrients occurs in the small intestine and not in the colon. The answer is recycling. From the matter in the cecum, the rabbit produces a special kind of feces that it then eats to recycle the nutrients. This interesting behavior is called coprophagy. Phagy comes from the Greek word phagos meaning one that eats. You can imagine what copro -means.
+
+The Function of the Colon
+
+Your body absorbs water and some salt in the colon. Chyme can stay in the colon for several days. Bacteria live in the colon. The bacteria make enzymes that digest what's left of the food. The bacteria also make gas. This gas contains marsh gas or methane. Doctors call this “flatus” or just “gas.” You have probably heard that beans can give you lots of gas. Why? Well, beans contain some complex carbohydrates that can't be digested by your pancreatic enzymes. But the bacteria in your colon can digest those carbohydrates and use them for energy. When bacteria metabolize these carbohydrates, the waste products include gases such as CO 2 , methane, and hydrogen sulfide (a gas with a very strong odor that smells like rotten eggs).
+
+The walls of the colon absorb water from the chyme. So after some time in the colon, what is left of the chyme is now firm. When the pressure gauge next measures a rising pressure, you feel the capsule enter the sigmoid colon or rectum.
+
+
+
+Figure 4.8 Your capsule is near the end of the journey. It is entering the rectum from the sigmoid colon region (large intestine). Soon your capsule will be expelled from the digestive tract through the anus.
+
+Sigmoid Colon
+
+Sigmoid means shaped like the letter S. Your capsule twists and turns before it comes to rest. Your capsule is embedded in what looks like semisolid mud. Doctors call this mass stool or feces. You wait in your capsule for hours, but nothing happens. You look at your watch for the umpteenth time and see that it is early morning. Suddenly, the pressure rises again, and the defecation reflex starts. Your capsule passes with the stool through the muscular rectum and out the anus. The anus is two or more rings of sphincter muscles that are tightly shut except when defecation occurs. Your trip has ended, where it started, outside the body. However, your capsule was never really inside the body. Obviously, only the food molecules that can be digested and move through the wall of the food tube into your blood actually get into your body and into its cells.
+
+Stools
+
+Many people don't know how often it is necessary to defecate, or make bowel movements, to be healthy. A normal range for defecation or bowel movements is after every meal to only once every two or three days. The fiber in your stool helps you defecate. Cows eat lots of fiber or grass and they defecate often and have bulky, soft stools. The stool of someone who eats only processed food with little fiber can become hard, making it painful to defecate. As a result, the person can become constipated. Water and fiber keep stools normal. If you feel constipated, eat more fiber and drink more water! Fiber is in cereal, bran, fruits, and vegetables. Don't use laxatives unless your doctor tells you to. Laxatives are chemicals that can become habit forming and make the colon work less well than a normal colon. Too much fluid flowing into the colon from the small intestine can cause watery bowel movements called diarrhea. Remember that if you get diarrhea, you must drink more water to replace the water you are losing.
+
+The Liver
+
+Now you need to see where most food molecules go before they reach the cells in your body. Your blood moves nutrients from the intestines to your liver. Your liver is a storehouse for nutrients, a chemical manufacturing plant, and a sewage treatment station.
+
+Did You Know?
+
+People who abuse themselves by drinking alcohol or using drugs can poison their livers. Alcohol kills liver cells and changes liver tissue from being soft and rubbery to being hard and leathery. This change is called cirrhosis (si-ro-sis). Alcoholics sometimes bleed to death because their livers cannot make enough clotting proteins. Alcoholics also have trouble getting rid of wastes that accumulate in their blood. One waste chemical called bilirubin causes the skin to turn yellow if it is not excreted. The yellowing is called jaundice (jon-dis).
+
+
+
+Your liver is located at the upper right side of your abdomen, below the diaphragm and behind the rib cage. Your liver is very complex and works for you in hundreds of chemical ways. Blood brings the molecules of digested food to your liver from your intestines. Then your liver stores the glucose molecules from your diet when you eat and gives them back to your blood as you need them. Your liver also stores some fats. More importantly, it packages fats with proteins and sends them out into the blood. These packages of fat go to muscles that use the fat for fuel, or they go to fatty tissue where excess fat is stored. Your liver manufactures bile and stores it in your gall bladder until you eat a fatty meal. Your liver also makes the proteins that cause clotting in the blood, as well as other blood proteins. The treatment by your liver takes foreign chemicals such as drugs and alcohol and other waste products from your blood and changes them into various forms that will not hurt your body and can be excreted. However, excessive use of alcohol and/or drugs can cause irreversible damage to the liver cells. Some of the waste molecules are sent from the liver along with bile into the duodenum. These waste chemicals then leave your body as bowel movements. Some molecules changed by the liver pass in your blood to the kidneys and then leave your body as part of urine.
+
+
+
+Figure 4.9 Digested nutrients from the small intestine are stored in the liver. The stored nutrients are released from the liver as needed by the body.
+
+
+
+
+
+Drawing the Actions of the Digestive System Create three drawings that illustrate the analogy of the digestive system to the steps involved in recycling old cars:
+
+Workers take apart old cars.
+
+Scavengers pick up old car parts.
+
+Parts are sorted and stored in warehouses.
+
+
+
+
+
+Put It All Together
+
+You have explored all the parts of the digestive system at this point. Now let's revisit the idea of the conveyor belt you read about in Section 3 to review what happens to the food you eat. Suppose you just ate a bite of chicken salad with celery in it. The chicken and the celery are like old cars. Your digestive system disassembles the food along the conveyor belt.
+
+You smash the chicken and celery by chewing.
+
+The digestive enzymes break down the complex molecules in the smashed food.
+
+The intestines take up the molecules from the food. These molecules are amino acids, fats, and sugars-the building blocks of your diet. These are the same molecules your cells use to get energy and to build new complex molecules that become part of you, such as protein.
+
+Your blood transports building block molecules from your intestine to the cells of your body. The liver takes up many molecules. In the liver the molecules can be sorted, stored, and converted into other molecules. Remember that your liver acts as a warehouse. When your cells need these molecules, the liver releases them and the blood transports them to the cells in need of them.
+
+Your cells take up the molecules from the blood. The genes in the nuclei of your cells direct the cells to use the building blocks to make the products that your cells need.
+
+While the molecules that are needed by the cells are put to use, the waste products of digestion are eliminated from the body.
+
+
+
+
+
+Review Questions
+
+
+What is peristalsis and how does it help you process food in the small intestine?
+
+What is the role of the small intestine in digestion?
+
+When a person has had his or her gall bladder removed, which digestive process will be affected? How will that process be affected?
+
+What is bile? What role does it play in digestion?
+
+Why don't the digestive enzymes of the pancreas digest the pancreas?
+
+What is osmosis?
+
+Why is the liver important? Explain five important functions of your liver.
+
+
+
+
+
+Food for life - Student Edition (Human Biology)
+
+
+
+
+
+Food for Life
+
+
+
+
+What factors affect what I eat?
+
+You know the mechanics of digestion, and you know what you should eat. But there often seems to be a difference between what we all know is right to eat and what we often end up eating. Let's take a look at what makes people eat and stop eating, why people eat what they do, and some of the many factors that affect their dietary choices. In this section you will also learn about diets and eating disorders.
+
+Hunters, Gatherers, and the Earliest Chefs
+
+Food is necessary to life. Hunger drives us to seek out food. Over the millennia, how people seek out food has changed. Two million years ago people were vegetarians and scavengers. Their lives revolved around the acquisition of food. As people learned to hunt, they began hunting in small bands. They would follow herds for hundreds of miles, or they would follow vegetation and small animal life from highlands to lowlands depending on the season. Today, we have the convenience of the local grocery store and our own gardens, if we choose. The bottom line is that we have more choice about how we get food and about what we eat.
+
+What Do You Think?
+
+Why did our ancestors begin cooking foods?
+
+
+
+In addition to more food choices, how we prepare foods has changed a lot from the days of the earliest humans. It is estimated that humans first began cooking somewhere between 500,000 B.C. and 75,000 B.C. Cooking foods dramatically changed the eating experience. Not only did cooking meats and vegetables change the taste and consistency of the food, but it also improved the nutrient value of some foods. Over time, humans also figured out how to raise plants and animals, how to refine grains and sugars, and how certain cooking and refrigeration methods enhanced a food's longevity. By the mid-1800s, new food storage containers such as cans emerged. These new storage containers provided an inexpensive and effective way to prepare and preserve different foods. The industrial revolution brought new methods of transporting foods to the food industry. It also provided the food industry with storage containers of various sizes. The importing and exporting of canned processed foods became a big business.
+
+
+
+Figure 5.1 A cookout can be fun. Just remember to clean up, make sure the fire is completely out, and follow the area rules.
+
+The invention of refrigeration replaced the tedious and cumbersome task of cutting and transporting ice from frozen lakes to ice houses in cities. Refrigeration made it easy to store and transport fresh, frozen meats, as well as other foods, around the world. Packaged frozen foods became available in grocery stores only in the middle of the 1900s when your grandparents were children.
+
+
+
+Figure 5.2 A 19th-century icebox (top photo) actually used ice to keep food cold. Today we use refrigerators, as shown in the bottom photo.
+
+What is so important about food preparation inventions and the exporting and importing of food? They changed what people ate. The fact that explorers, both on land and sea, could have healthy stores of food available when the natural food sources were scarce changed their health for the better. City dwellers suddenly had many more choices-bananas from the West Indies, fresh fish and meat instead of pickled herring or dried buffalo meat, and a host of fruits and vegetables from other parts of the world. All these different foods provided Vitamins, minerals, fats, and carbohydrates on a regular basis instead of on an occasional basis.
+
+
+
+
+
+Food Choice Make a list of the foods you have eaten in the last 24 hours. For each food item, indicate why you selected it. Share your choices and reasoning with the class.
+
+
+
+
+
+Feeling Hungry
+
+What makes you hungry? When your stomach is empty, you want to fill it. This feeling of needing to eat comes from many places. Your empty stomach sends messages to your brain. Other parts of your digestive system send messages to your brain too. Nerves and hormones tell your brain about how your digestion is going and when your intestines are ready for another meal. The brain also monitors how much sugar is in your blood. Your brain sorts out all of the messages. Your brain also tells you to eat all by itself. This is why thinking about food, smelling food cooking, watching a TV ad, and hearing a friend's suggestions can get your mouth watering. Even eating can make you want to eat more when food tastes really good. The food industry influences us through advertisement. It is impossible to pass through a town without seeing fast food restaurants, billboards for restaurants, or even smelling the cooking from a local eatery.
+
+
+
+
+
+Many things can affect your appetite. How many can you think of? What situations make you hungry? What situations make you lose your appetite? Which of these things do you have control over?
+
+
+
+
+
+Why do you stop eating? There are many reasons. The main reason is that you feel full. Your stomach and intestines send signals to your brain saying you're full. Scientists really don't fully understand all of these signals or their timing. But usually about 20 minutes after you start eating, you feel full.
+
+
+
+
+
+The next time you are waiting for and then eating a meal, think about the role your five senses play in the experience. Write a poem, song, or story about eating as a sensory experience. Can you make someone salivate just listening to your poem, song, or story?
+
+
+
+
+
+It's not just a matter of how much food you eat in 20 minutes. It simply takes that long for your digestive system to tell your brain to stop eating. This slow signal from the guts to the brain can be a problem for some people. People who eat fast can put more calories into their stomachs in 20 minutes than they need. As a result, they overeat without realizing it. That's why you should try to eat more slowly rather than “eating and running.” The body needs time to begin digesting and absorbing what you have eaten before it can give signals to the brain that cause a feeling of being full.
+
+Is there anything else that tells you not to eat? Yes. Your brain tells you not to eat, too. You lose your appetite when you get sick. Some people don't eat when they're afraid or depressed or worried about something. Someone who's just lost a friend or is upset may not want to eat. This person may even lose weight. If someone you know doesn't eat for these reasons and loses weight, talk to that person about seeking help. Many problems are too difficult for just one person to handle.
+
+Exercise can be an appetite stimulant and an appetite suppressant. When you work out, the body tells the brain not to think about food. The hormones and chemicals your body produces during exercise turn down your appetite. This is one reason doctors try to get overweight people to exercise. Exercise burns fat and uses extra calories. But exercise also tells the brain not to let you eat too much. After exercising, you may feel very hungry, but often hungry for healthy foods instead of foods high in sugar or fat.
+
+Factors Affecting What We Eat
+
+What are some of the factors that affect what we eat? There are three general factors that influence what and how much food we eat-culture and family, availability and cost, and education.
+
+Culture and Family
+
+How do people choose what to eat? Food must meet the body's need for nutrients and energy. But the food you eat is usually what you want to eat, too. Different people eat different foods. Along with cultural diversity comes food diversity. Some people, such as many vegetarians, choose foods to improve their health. But most people choose what they eat because of their culture, not because of nutrition. You learn to eat the foods that your family likes. Often, you choose foods to fit your culture.
+
+What Do You Think?
+
+Do you enjoy going to a friend's house for dinner? Why or why not? What are some of the factors that make it both enjoyable and sometimes a little stressful?
+
+
+
+Lots of ideas exist about how food traditions started. For example, it has been suggested that people who lived in cold, damp parts of the world (northern Europe) developed a tradition of eating rich, fatty foods that helped them put on fat to keep them warm. Some people think that spicy foods became preferred in tropical climates because they stimulated sweating and drinking of liquids, which helped cool the body. Another idea about spices is that they helped prevent growth of microorganisms in food.
+
+It is interesting to note how different cultures have developed similar ways of creating balanced diets with regionally available foods. For example, in India, people may eat lentils with flat bread made of yeast. However, in Mexico, people may eat beans with tortillas. In China, a dish of stir-fried vegetables with rice is similar to a traditional dish in Morocco called couscous, made of steamed wheat and vegetables. In this country, we are fortunate to be able to sample the foods of many cultures.
+
+What Do You Think?
+
+Explain why some people have temporary digestive upsets when they move from one region of the United States to another or from one country to another.
+
+
+
+Availability and Cost
+
+One big factor affecting your diet is what foods are available and how much they cost. Food availability has shaped many civilizations. The availability and price of foods have started wars and expanded empires. For example, the price of tea was a factor that led to the American Revolution. The British Empire grew dramatically in the 16th and 17th centuries in pursuit of foods from the Americas and spices in India.
+
+Today most Americans have a lot of choice. Unfortunately, many do not have the means to buy all the food they need. Hunger and malnutrition are a huge problem worldwide. The worldwide figures on malnourished people are astounding. According to the Food and Agriculture Organization (FAO), 841 million people are chronically undernourished. Of these, 200 million are children under 5 years of age who suffer chronic protein and energy deficiencies. These children will probably never recover completely even under ideal circumstances. Malnourishment happens for several reasons. Malnourished individuals may live in a country too dependent on one food source. For example, the people of Indonesia get most of their calories from rice, and the people of the Democratic Republic of the Congo get most of their calories from cassava. Rice or cassava alone cannot provide all the nutrients and energy that are needed. Another reason is that food production is underdeveloped in some parts of the world, which causes a dependence on other countries for food supplies.
+
+
+
+Figure 5.3 This map of the world illustrates the location of North and Sub-Sahara Africa, Asia and the Pacific, the Middle East, North America, Central America, South America, and the Caribbean. See the Did You Know? on this page for foods in these regions.
+
+Did You Know?
+
+What do people grow and eat in some other parts of the world? Here are some examples of regional foods. Sub-Sahara Africa-cassava, yams, maize, plantains, and bananas Asia and the Pacific-rice, wheat, maize, and sweet potatoes South America and the Caribbean-maize, wheat, rice, and potatoes Middle East/North Africa-wheat, rice, maize, and potatoes The source of this list is The Consultative Group on International Agricultural Research (Home Page): Twenty Years of Food Crop Improvement in Developing Countries.
+
+
+
+
+
+If there is so much food in the world, why are some people malnourished?
+
+You have been appointed by the president to a commission on hunger. The commission's task is to come up with solutions to this country's hunger problems. After reading hundreds of reports and studies, your commission has gleaned the following facts.
+
+Millions of people in the United States are malnourished.
+
+The United States is one of the wealthiest countries in the world.
+
+Farmers are paid by the government to NOT produce some foods because we have so much in storage (for example, wheat).
+
+The people most affected by malnutrition are pregnant women and children.
+
+The problem doesn't seem to be food availability. The real problem seems to be cost, distribution, and education.
+
+
+
+Write your four best suggestions for feeding people in this country who are malnourished. Make sure you explain how your solutions address the facts about the causes of malnutrition, cost and distribution of food, and education for healthy diets. Discuss your suggestions in class. Are there some ideas that have occurred to many students? Which ones would be easiest to implement?
+
+
+
+
+
+Design an advertising campaign promoting healthy eating. Your campaign might include songs, posters, flyers, newsletters, commercials during lunch breaks, and more. Be creative!
+
+
+
+
+
+Education
+
+Many people, from the wealthy to the most impoverished, don't know enough about nutrition to eat well. Malnutrition is not a condition restricted to the less well off. People may become malnourished over time because they make choices to eat a diet that lacks adequate amounts of the six nutrients. Knowing about food and what it can do for you helps make the many choices we have in this country clearer. After you finish reading this text, what will you choose to eat for lunch?
+
+Dieting and Diets
+
+For one reason or another, some people choose to eat certain types of foods and not others. Sometimes these choices affect one's lifestyle. Let's take a look at a few diet choices, and why they may or may not work for you.
+
+Vegetarian Diets
+
+Vegetarian diets rely on plants for protein and energy. Vegetarians avoid meat, but some vegetarians eat milk, milk products, and eggs. Vegetarians do not eat meat for reasons of health, reverence for animal life, religion, ecology, or other reasons. Some vegetarian diets can be very healthy. In other words, they provide adequate calories and nutrients. However, other vegetarian diets may supply too few calories and not enough protein and minerals such as calcium and iron. If you choose to eat a vegetarian diet, you need to be very careful about getting all of the nutrients you need. Remember that specific plant foods do not contain all of the essential amino acids, so vegetarians must select an appropriate mixture of foods to get all essential amino acids.
+
+Fad Diets
+
+Fad diets are common. People can choose foods because of experiences described in a book, promoted by a TV personality, or based on what their friends eat. Some people may eat only fruits, honey, nuts, and olive oil. Others may not eat processed foods and avoid the three whites-sugar, flour, and salt. Some people believe certain foods cause disease and leave them out of their diet. Before you go on any diet for any reason, you should check with someone who knows about good nutrition. A proper diet means eating the right amounts of the right foods. You can do a lot of harm to yourself by eating the wrong foods and creating bad habits that are difficult to break.
+
+Food Problems-Starvation, Obesity, and Food Addictions
+
+A major food problem in America and the world is malnutrition. Inadequate food intake by choice (fasting or diets) or necessity (poverty, politics, and famine) can cause illness. What are some of the things that happen to your body if you don't eat or you don't eat enough calories?
+
+A condition known as marasmus is one type of starvation. Marasmus happens in babies who eat too few calories. They don't gain weight; they lose it. The babies become thin and frail. Their skin gets dry and crinkled, because their bodies use up the fat under the skin for energy. Too few calories can result in diarrhea. However, people often do not give babies with diarrhea enough water and salt. They think the babies have too much water in them already, considering the loose bowel movements. The babies can become dehydrated and die.
+
+Children who do not eat enough protein do not have the amino acids their cells need to continue to grow and divide. This protein deficiency illness is called kwashiorkor. Kwashiorkor is the most serious and common type of malnutrition in the world today. Kwashiorkor means “a child that no longer is suckled.” Kwashiorkor occurs most often in four-or five-year-olds in developing countries. The children get tired, don't eat, develop skin problems, and have weak muscles. They have swollen bellies and feet. Many of these children die or become mentally retarded, because their brains do not develop properly without protein in their diets.
+
+Did You Know?
+
+The hearts of overweight people must work harder to supply nutrients and oxygen to all their cells. For every pound of excess weight, your heart has to push blood through several more miles of blood vessels!
+
+Obesity increases the level of fat and cholesterol in the blood.
+
+
+
+
+
+Obesity is another food problem. Obesity is most often the result of overeating. Being about 20% or more over your ideal body weight is called obesity. Most obese people eat more calories than they use each day. Their bodies store the extra calories as fat. Genetics can influence obesity. Many obese people come from families with overweight parents. Scientists have identified genes that may contribute to obesity, and they are continuing efforts to learn more about the connections between genetics and body weight.
+
+Obesity and being overweight is common in children as well as adults. Middle-aged adults who are overweight have about three times the risk of having a fatal heart attack as adults who are within the normal weight range for their height.
+
+Obese adults often became obese in childhood or during adolescence. Often they do not exercise very much, but it is not easy to know if the lack of exercise contributes to obesity or if obesity discourages the individual from exercising. It is thought that obesity may be due to the brain not receiving the signals that turn off appetite. However, studies of obese people show that they often adapt well to certain weights. They burn more of the extra calories as heat if they eat more than they need to maintain their weight, and their bodies get more fuel efficient if they try to eat fewer calories. Obesity is caused by several factors such as overeating, inactivity, genetics, metabolism, and your body's set point (your ideal weight). If a person cuts caloric intake, the body thinks it is starving and becomes more efficient. So dieting is not easy. Obese people can cut back their food intake and not lose weight.
+
+Many obese people worry about being heavy. Gaining the extra pounds is so much easier than losing weight. Many people try to diet and fail. Eighty to ninety-percent of all people who try to lose weight by dieting eventually gain the weight back. Some dieters have success losing weight and keeping it off. These successful dieters change the way they think about food and make careful choices about what they eat for the rest of their lives. Gaining and losing weight over and over again is worse than staying at one weight.
+
+Eating Disorders
+
+There are two major eating disorders involving food obsessions. They occur most often among teenagers and young adults and more often in females than in males. One is called anorexia nervosa. People with this disorder eat a very small amount of food. Anorexic people are dangerously underweight, but they think they are overweight. They often exercise excessively to lose weight and to suppress their normal urge to eat. Anorexia can cause malnutrition, loss of body fluid, and vitamin and mineral deficiencies. If an anorexic is untreated, severe health problems and death can result.
+
+Another eating disorder is bulimia. People who suffer from bulimia regularly overeat, or “binge,” and then use laxatives or force themselves to vomit to prevent absorption of food in the intestines.
+
+Learning about food, eating behaviors, and eating disorders can help you make healthier eating choices for yourself. What other factors affect your overall health and the health of your digestive system?
+
+
+
+
+
+What are some things that happen to your body if you don't eat for several days? For several weeks?
+
+
+
+
+
+Activity 5-1: Can You Become Obsessed with Food?
+
+
+Introduction
+
+Eating well and staying fit is important. But how much is too much? Why do some people become obsessed with their weight? Why do they think they're so fat that they must starve themselves? Why do some diet until they become sick or even die?
+
+Materials
+
+Video clip or video film titled Fear of Fat (or information on anorexia nervosa and bulimia)
+
+Assorted magazines
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Watch the videotape provided. Then discuss the following questions with your group.
+
+What issues are responsible for eating disorders, a focus on weight, and dieting?
+
+What conditions may lead to eating disorders?
+
+What do people in the video feel about the need to be thin? How much are you influenced by the media and fashion, by friends, and by the opposite sex?
+
+Do we know why someone crosses the line between dieting and an eating disorder? At what point would you start to worry about a friend?
+
+Although males are not as often afflicted with eating disorders, their female friends, girlfriends, and sisters may be. What would you do if you suspected someone you love or care for has an eating disorder?
+
+
+
+Step 2 Analyze a magazine to see if you find evidence of the pressures mentioned in the film.
+
+Study the ads and articles. What does the magazine say to people about eating, their body, and weight?
+
+Does the magazine send different messages to women than it does to men?
+
+What effect might constant exposure to these magazines and similar media (TV, billboards) have on people?
+
+
+
+Step 3 As a group, redesign one of the ads in the magazine so that it provides healthy signals about males and females.
+
+What images will you change?
+
+What content will you change?
+
+
+
+
+
+Review Questions
+
+
+Why do people eat?
+
+What are some ways to control your appetite?
+
+Diets are different in different cultures. What are some of the reasons people choose different foods?
+
+Why are fad diets so dangerous to your health?
+
+
+
+
+
+Staying Healthy - Student Edition (Human Biology)
+
+
+
+
+
+Staying Healthy
+
+
+
+
+How can I keep my digestive system healthy?
+
+Every person's taste in foods is unique. One person may like jalapeño peppers and green chilies. Another may prefer goat's milk, calves' liver, and cabbage. And someone else may prefer simply cooked meat and potatoes. The challenge lies in finding those healthy foods that make you feel and function at your best. The first step is building an awareness of how you feel in response to what you eat. The next step in this quest is developing a healthy, well-balanced diet that tastes good, fits your budget, and uses the foods that are available.
+
+What Do You Think?
+
+Is a taste for particular foods something you are born with or something you acquire from your family and culture?
+
+
+
+A big part of helping your body develop during puberty, staying healthy through adolescence, and being healthy throughout your life is learning to take care of yourself. Diet and nutrition play an important role in keeping you healthy. But they are not the only factors that you control that help keep you functioning at your best. The factors that you control are diet and nutrition, rest, stress, and exercise. Each of these components works together with the others to determine how you feel each day. Once you start paying attention to them, you may realize how a change in these factors can affect your whole body including circulation and breathing.
+
+Did You Know?
+
+Water makes up about 60% of your total body weight. Your brain alone is 85% water. Water improves your digestion and circulation, helps the nervous system send messages around your body, helps regulate your temperature, and helps the body flush out bacteria and viruses. On an average day, you lose (through urination, perspiration, and breathing) about nine liters of water. Most doctors recommend drinking five or more 16-ounce glasses of noncaffeinated beverages (preferably water) every day.
+
+
+
+You've learned a lot about digestion and nutrition. So let's turn to the other lifestyle factors and look at their role in keeping you healthy and happy.
+
+Exercise
+
+Getting regular exercise keeps your body strong. By making your major systems and organs (such as the heart, liver, and kidneys) work harder, you improve their strength and capacity. If these systems are stronger, they can fight disease better and work more efficiently when they are at rest. The American Heart Association recommends a minimum of 20-30 minutes of any aerobic exercise 3-5 times a week to help keep your body strong.
+
+
+
+
+
+Your Target Heart-Rate Zone Not everyone's target zone is the same. To find your target heart-rate zone, try the following:
+
+Subtract your age from 220.
+
+Multiply this number by 60%. This is the low end of your zone.
+
+Multiply the number from Step 1 by 85%. This is the high end of your zone.
+
+Can you find the middle of your zone?
+
+
+
+
+
+There are two kinds of cardiovascular exercise-aerobic and anaerobic. Anaerobic refers to exercising in the higher range of your heart-rate capacity. Anaerobic exercise refers to shorter bursts of intense physical activity, such as sprinting in athletic events or weight lifting. Anaerobic means “without oxygen” because the energy utilization during the intense burst of activity exceeds the available oxygen supply to the muscle, and an oxygen debt is incurred. Aerobic means “with oxygen” and refers to exercising in the middle range of your target heart-rate zone. If maintained for more than 20 minutes, aerobic exercise burns fat as its main source of energy while anaerobic exercise burns other food nutrients such as sugar. Aerobic activities such as swimming and basketball develop muscles, coordination, and heart efficiency. (See Mini Activity: Your Target Heart-Rate Zone for identifying your target heart-rate zone.)
+
+Exercise also affects digestion. A mild walk after a meal can stimulate digestion by increasing blood flow around the body. Exercise also suppresses appetite, uses up calories (Cal), and can influence the kinds of foods you crave, as the body seeks to replace essential vitamins, minerals, and sources of energy.
+
+
+
+
+
+How Much Sleep Do You Need? For two weeks (including two weekends), keep track of how much sleep you get by recording the times you fall asleep and the times you wake up. Note your physical and mental energy levels for each day, and draw some conclusions about the connection between sleep and performance.
+
+
+
+
+
+Rest
+
+No one completely understands why we sleep or exactly what happens when we sleep. But we do know that without sleep our body functions deteriorate. The brain and nervous system begin to function more slowly, the reflexes slow down, and you think less clearly. Also the immune system works less efficiently, so when you're run down or tired, you are more susceptible to illness. It is important to realize that when we cut back on our sleep, we develop a sleep debt that stays with us. Someone with a large sleep debt might fall asleep in class. Why is a sleep debt a problem for people who drive?
+
+
+
+
+
+Sources of Stress What are some sources of stress for you? Work in small groups or individually to think about the things that create stress. Then think about ways of handling each kind of stress. In making your lists, consider the following.
+
+Which causes are internal, or caused by the kind of person you are?
+
+Which causes are caused by external circumstances?
+
+
+
+Analyze your list to suggest ways to reduce stress during your daily activities.
+
+
+
+
+
+Stress
+
+What is stress ? Stress is a response to your surroundings. You can show stress in many ways. Think about how you feel when you get really nervous or when you run very quickly. Your heart beats faster. You breathe harder. And your muscles tense. These responses prepare your body to respond quickly to danger. True, these reactions may not strike you as helpful during a pop quiz. But remember that our early ancestors had to be prepared to fight or flee from dangerous situations and these responses helped them do so.
+
+In the short term, stress can be stimulating and exciting. A certain amount of stress before a musical performance can help you concentrate better and play or sing better. Many athletes who have “butterflies” before competitions do well. Responses such as an elevated heart rate may be good for sudden, short-term situations, like anticipating the start of a race. However, they are not healthy if they are maintained over long periods of time. Long-term stresses such as constant worry, nervous tension, and holding back your emotions can change the way your body works. If you are under constant stress, your body is always working harder to prepare itself for a quick reaction.
+
+Did You Know?
+
+Your brain has a pleasure center that, when stimulated, releases a chemical that makes us feel happy and energetic. This feeling of well-being can lead to addiction to whatever activity produces those chemicals. Exercise can cause the release of the same kinds of chemicals.
+
+
+
+When you are stressed, your body diverts energy away from digestion, the immune system, and vital processes such as growth. You are more likely to get an upset stomach, headache, or become sick. If the stress continues over a long period of time, your growth and development may be seriously impaired.
+
+During times of stress-which everyone has-it is more helpful to pamper your body by paying close attention to the lifestyle factors affecting your health. Exercise, good nutrition, and lots of sleep can help your body handle the natural stresses that you encounter.
+
+
+
+
+
+Activity 6-1: You Are the Food Expert
+
+
+Introduction
+
+When people are busy and under pressure, they often turn to fast food instead of eating home-cooked meals. In fact, according to the Consumer Reports magazine, “One out of five Americans line up on a typical day at a fast food restaurant.” Can you get a nutritious meal at a fast food restaurant? In this activity you can find out.
+
+Materials
+
+Fast food nutrition information
+
+Fast food menus
+
+Food Nutrient Chart, page 60, (or Resource 2 from Activity 1-1)
+
+Resource (Recommended Daily Allowances chart)
+
+Activity Report (Table A and Table B)
+
+
+
+Procedure
+
+Step 1 What foods make up a favorite fast-food meal? List them on Table A of the Activity Report. Compute Student Food Table A.
+
+Step 2 Create a new menu on Table B to meet RDA guidelines.
+
+The human has adapted uniquely to function in an efficient and effective way. However, how you treat your body has a serious impact on how you feel. Eating well and having good nutrition are vital to staying at your best. But remember that there are other important factors such as good rest, less stress, and regular exercise that work together with good nutrition to keep you physically, mentally, and emotionally well-balanced.
+
+
+
+
+
+Using your knowledge of the digestive system, think of a slogan that promotes keeping your digestive system healthy.
+
+
+
+
+
+You've learned how the body breaks down and uses the food you put in it, what foods you need to keep your body running well, and where digestive system problems come from. Take what you've learned, and try it out on your own body.
+
+
+
+
+
+Review Questions
+
+
+What factors can you control that will help you stay healthy?
+
+What are some of the benefits of regular exercise? Why is exercise important?
+
+In what way does vigorous exercise shortly after eating affect digestion?
+
+Describe some ways in which the body responds to stress. In what way does stress affect digestion?
+
+
+
+
+
+Click on the image above to view the table
+
+
+
+
+
+Click on the image above to view the table
+
+
+
+
+
+Click on the image above to view the table
+
+
+
+
+
+Click on the image above to view the table
+
+
+
+
+
+Click on the image above to view the table
+
+
+
+Other Foods Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Rice cake, 1 35 1 7 0
+
+Cheesecake, 1 slice 405 11 37 25
+
+Sorbet 188 1 47 0
+
+Marinara sauce, 1 cup 186 4 26 9
+
+Meat sauce, 1 cup 273 5 40 12
+
+White, milk sauce, 1 cup 393 10 23 30
+
+Hot cocoa with low-fat milk, 1 cup 101 3 22 1
+
+Check these web sites for the most current information:
+
+-National Academy of Sciences http://www.nas.edu
+
+-Food and Nutrition Information Center (FNIC) http://www.nal.usda.gov/fnic/
+
+
+
+
+
+Digestion and Nutrition Glossary - Student Edition (Human Biology)
+
+
+
+
+
+Digestion and Nutrition Glossary
+
+
+amino acids
+
+the building blocks of proteins.
+
+
+
+amylase
+
+an enzyme that digests starch.
+
+
+
+anorexia nervosa
+
+an eating disorder that causes malnutrition, loss of body fluid, and vitamin and mineral deficiencies.
+
+
+
+bulimia
+
+an eating disorder in which the person overeats or “binges” and then uses laxatives or forces vomiting to prevent the absorption of food in the intestines.
+
+
+
+calorie (cal)
+
+the amount of heat needed to raise the temperature of 1 milliliter (1 cc) of water 1 degree Celsius (1°C).
+
+
+
+calorie (Cal)
+
+the amount of heat needed to raise the temperature of 1 liter (1,000 cc) of water 1 degree Celsius (1 °C). The energy in food is usually measured in Calories.
+
+
+
+carbohydrates
+
+food nutrients that provide energy and building blocks. Examples include sugars and starches.
+
+
+
+cellular respiration
+
+a process in cells in which oxygen is combined with fuel molecules to release the stored energy in the fuel.
+
+
+
+cirrhosis
+
+a condition in the liver in which the cells die, causing the liver to harden.
+
+
+
+combustion
+
+a rapid chemical reaction that combines molecules of oxygen with molecules of fuel resulting in the release of energy (light and heat).
+
+
+
+chyme
+
+the semifluid mixture of digestive juices and partially digested food in the stomach.
+
+
+
+diffusion
+
+the movement of molecules from an area of high concentration to an area of low concentration.
+
+
+
+emulsify
+
+breaking up fat into tiny droplets or particles.
+
+
+
+enzyme
+
+a protein in cells that affects the rate of chemical reactions.
+
+
+
+esophagus
+
+a hollow, muscular tube connecting the pharynx to the stomach.
+
+
+
+fats
+
+a food nutrient also known as lipids.
+
+
+
+feces or stool
+
+the final waste product of digestion.
+
+
+
+gastrointestinal tract
+
+the digestive tube that begins with the mouth and includes the throat, esophagus, stomach, and intestines.
+
+
+
+glucose
+
+a simple sugar.
+
+
+
+liver
+
+an organ that is a storehouse, a chemical manufacturing plant, and a sewage treatment station.
+
+
+
+minerals
+
+an essential nutrient for good health. Minerals are simple chemical elements such as iron that come from the earth.
+
+
+
+mucus
+
+a slippery substance secreted by cells for protection.
+
+
+
+peristalsis
+
+the process that moves food through the gastrointestinal tract.
+
+
+
+protein
+
+a food nutrient composed of amino acids that regulates body functions, builds muscles and bones, makes muscles contract, helps fight illness, transports substances in the blood, and transmits information between cells, as well as other functions.
+
+
+
+saliva
+
+a secretion in the mouth that contains an enzyme that breaks down starch into sugar.
+
+
+
+stress
+
+a response to your surroundings. The body can show stress in many ways.
+
+
+
+vitamin
+
+a chemical the body cannot make for itself but needs in small amounts to help enzymes do their jobs in cells.
+
+
+
+
+
+Food Nutrient Chart Fruit Group Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Apple, 1 medium 70 18 1
+
+Apple juice, 1 cup 120 30
+
+Applesauce, 1 cup 110 0 28 0
+
+Apricots, 5 halves (dried, uncooked) 40 0 10 0
+
+Avocado, 185 2.5 6 18
+
+Banana, 1 medium 101 1 26
+
+Cantaloupe, (medium) 30 1 7
+
+Cherries, 1 cup 105 2 26
+
+Fruit cocktail, 1 cup (canned) 195 1 50
+
+Fruit salad, cup 99 2 25 1
+
+Grape juice, frozen (diluted, 1 cup) 135 1 33
+
+Grapefruit, pink (medium) 45 1 12
+
+Grapes, cup 48 12
+
+Honeydew melon, 1 medium wedge 56 1 15 1
+
+Kiwi, 1 medium 46 1 11
+
+Lemonade, frozen (diluted, 1 cup) 110 28
+
+Mango, 1 medium 135 1 35 1
+
+Orange, 1 medium 65 1 16
+
+Orange juice, frozen (diluted, 1 cup) 100 2 31
+
+Peach, 1 small (uncooked) 35 10
+
+Peaches, cup (canned) 100 1 26
+
+Pear, 1 medium 101 1 25 1
+
+Persimmon, 1 medium 118 1 31
+
+Pineapple, 1 cup (no sugar added) 76 1 19 1
+
+Plum, 1 small (uncooked) 25 7
+
+Raisins, TBS 123 1 33
+
+Raspberries, 1 cup (uncooked) 60 1 14 1
+
+Strawberries, 1 cup (uncooked) 55 1 12
+
+Tangerine, 1 medium 40 10
+
+Watermelon, 1 cup diced 49 1 11
+
+Click here to return to the main text
+
+
+
+
+
+Milk/Yogurt/Cheese Group Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Cheese, American or cheddar, 1 oz 113 7 0 9
+
+Cheese, cottage, 1 cup low fat 162 28 6 2
+
+Cheese, cream, 1 oz 100 2 1 10
+
+Cheese, mozzarella (whole milk), 1 oz 90 6 1 7
+
+Cheese, Parmesan, 1 TBS 25 2 4 2
+
+Cheese, Swiss, 1 oz 105 8 1 8
+
+Ice cream, cup 135 2 16 7
+
+Milk, chocolate (2%), 1 cup 190 8 27 6
+
+Milk (2%), 1 cup 121 8 12 5
+
+Milk (nonfat), 1 cup 85 8 12 0
+
+Milk (whole), 1 cup 150 8 11 8
+
+Milkshake, 11 oz (chocolate) 371 10 66 8
+
+Milkshake, 11 oz (other flavors) 350 12 56 9
+
+Sherbet, 1 cup 270 2 59 4
+
+Whipped cream, 1 cup 154 2 7 13
+
+Yogurt, 8 oz (frozen) 247 9 44 5
+
+Yogurt, fruit, 8 oz 230 10 42 3
+
+Yogurt, vanilla or coffee, 8 oz 200 11 32 4
+
+Click here to return to the main text
+
+
+
+
+
+Food Nutrient Chart Bread/Cereal/Rice/Pasta Group Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Bagel, 1 medium 165 6 28 2
+
+Bran flakes, cup 105 4 28 1
+
+Bread, 1 slice (whole wheat) 60 3 13 1
+
+Bread, 1 slice (enriched, white) 70 2 12 1
+
+Corn bread, piece 191 6 30 5
+
+Cornflakes, cup 72 2 16 0
+
+Crackers, 4 graham 108 2 21 2
+
+Crackers, 4 saltines 110 1 8 2
+
+Granola, 1 bar 127 3 19 5
+
+Muffin, 1 blueberry 110 3 17 4
+
+Noodles, egg (enriched), 1 cup 200 7 37 2
+
+Oatmeal, cup 66 2 12 2
+
+Pancake ( diameter) 60 2 9 2
+
+Pasta, 1 cup 190 1 39 0
+
+Rice, cup 112 2 25 2
+
+Roll, 1 hard (enriched) 159 5 30 2
+
+Roll (hot dog or hamburger) 119 3 25 2
+
+Sourdough bread, 1 medium slice 73 2 14 1
+
+Tabbouleh, 1 cup 186 3 14 13
+
+Taco shell (fried) 200 3 36 6
+
+Tortilla, corn (enriched, ) 41 1 8 1
+
+Tortilla (whole wheat flour, ) 154 4 28 4
+
+Click here to return to the main text
+
+
+
+
+
+Meat/Poultry/Dry Beans/Eggs/Nuts Group Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Bacon, 3 slices, inch thick 309 24 0 24
+
+Beans, cup (refried) 142 9 26 1
+
+Beef steak, 3 oz (broiled) 260 23 0 15
+
+Beef, 3 oz, regular (ground, cooked) 243 20 0 17
+
+Beef, 3 oz, lean (ground, cooked) 237 22 0 16
+
+Blue fish, 3 oz (baked, butter) 135 22 0 4
+
+Bologna, 1 slice 86 3 0 8
+
+Chicken, 6.2 oz (broiled) 240 52 0 7
+
+Chicken, 6 oz (fried) 402 52 4 18
+
+Egg, 1 large (fried) 83 5 1 6
+
+Egg, 1 large (hard boiled) 79 6 1 6
+
+Egg, 1 large (scrambled) 95 6 1 7
+
+Fish sticks, 1 stick (breaded) 50 5 2 3
+
+Ham, 1 oz 65 5 0 5
+
+Hot dog, 2 oz 172 7 1 15
+
+Hummus, 1 TBS 26 1 3 1
+
+Meat loaf, 3 oz 230 15 13 12
+
+Peanut butter, 2 TBS 190 8 6 16
+
+Peanuts, cup (salt) 211 9 7 18
+
+Pork chop, 3 oz 308 21 0 24
+
+Salmon, 1 oz (poached) 41 7 0 1
+
+Sausage, 2 links 135 5 0 13
+
+Shrimp, 1 cup (boiled) 202 39 2 3
+
+Tuna, 3 oz 168 25 0 7
+
+Turkey, dark (4 medium pieces) 175 26 0 7
+
+Turkey, white (2 medium pieces) 150 28 0 3
+
+Click here to return to the main text
+
+
+
+
+
+Food Nutrient Chart Vegetable Group Calories Proteins (g) Carbohydrates (g) Fat (g)
+
+Asparagus, 4 spears 12 1 2 0
+
+Beans, green, 1 cup (cooked) 46 3 11 0
+
+Bean, green, cup (uncooked) 16 1 3 0
+
+Beans, lima, cup 94 7 17 0
+
+Broccoli, cup 20 2 4 0
+
+Carrots, cup 22 1 5 0
+
+Cauliflower, cup 13 1 3 0
+
+Celery, stalk 5 0 2 0
+
+Coleslaw, cup 82 1 3 8
+
+Corn,1 cup 14 4 32 2
+
+Cucumber, 1 small (uncooked) 25 1 6 0
+
+Lettuce, cup 5 1 2 0
+
+Peas, 1 cup (cooked) 70 9 5 2
+
+Potato, 1 large (baked) 132 4 30 0
+
+Potato, 2 small (boiled) 79 2 18 0
+
+Potato, 20 pieces (French fried) 233 4 31 11
+
+Potato, cup (mashed) 63 2 13 1
+
+Potato, sweet 78 1 18 0
+
+Salad, cup (radish, carrot, lettuce, green pepper, tossed) 13 1 3 0
+
+Spinach, 1 cup (cooked) 40 6 7 0
+
+Squash, cup (summer) 16 1 3 0
+
+Squash, cup (winter) 56 2 14 0
+
+Sweet red pepper, 1 small 19 1 4 0
+
+Tomato, medium 22 1 5 0
+
+Tomato juice, cup 26 1 5 0
+
+Click here to return to the main text
+
+
+
+
+
