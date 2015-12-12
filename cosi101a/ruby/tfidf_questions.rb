@@ -3,7 +3,7 @@ require 'pry'
 require 'matrix'
 require 'tf-idf-similarity'
 require 'benchmark'
-# require 'narray'
+require 'narray'
 
 # ['data/training_set', 'data/validation_set'].each do |filename|
 sets = {'data/training_set' => [1,3,4,5,6] }#, 
@@ -21,19 +21,18 @@ sets.each do |filename, indices|
   CSV.foreach("#{filename}.csv") do |row|
     indices.each do |i|
       corpus << TfIdfSimilarity::Document.new(row[i])
-      # begin
-      # rescue
-      #   binding.pry
-      # end
     end
   end
 
   # corpus = corpus[0..100]
   puts "begining model construction..."
-  t = Benchmark.measure { model = TfIdfSimilarity::TfIdfModel.new(corpus) }
+  t = Benchmark.measure { 
+    model = TfIdfSimilarity::TfIdfModel.new(corpus) 
+    # model = TfIdfSimilarity::BM25Model.new(corpus)
+    # model = TfIdfSimilarity::TfIdfModel.new(corpus, :library => :narray) 
+  }
   puts "completed in #{t.real} seconds"
   puts "begining term scoring..."
-  # model = TfIdfSimilarity::BM25Model.new(corpus)
 
   t = Benchmark.measure do
     CSV.open("#{filename}_tfidf.csv", "wb") do |csv|    
