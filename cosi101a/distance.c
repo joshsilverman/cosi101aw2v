@@ -74,7 +74,7 @@ void heapPercup(int i)
 }
 /*
 procedure INSERT(d):
-if nextRB ≥ n then ERROR — heap is full
+if nextRB ? n then ERROR — heap is full
 else begin
 H[nextRB] := d
 PERCUP(nextRB)
@@ -121,7 +121,7 @@ void heapPercdown(int i)
 
 /*
 function DELETEMIN:
-if nextRB ≤ 0 then ERROR — heap is empty
+if nextRB ? 0 then ERROR — heap is empty
 else begin
 nextRB := nextRB–1
 exchange H[0] and H[nextRB]
@@ -292,8 +292,8 @@ int main(int argc, char **argv) {
   float temp, dist, len, bestd[N], vec[max_size], ans[max_size];
   long long a, b, c, cn, bi[max_doc_size], abi[max_doc_size];
   int first_ans_i;
-
-  f = fopen("E:\\GitDir\\Similarity2\\cosi101a\\vectors.bin.big", "rb");
+  f = fopen("E:\\GitDir\\Josh\\vectors.bin.wiki.skip", "rb");
+  //f = fopen("E:\\GitDir\\Similarity2\\cosi101a\\vectors.bin.big", "rb");
   if (f == NULL) {
     printf("Input file not found\n");
     return -1;
@@ -332,8 +332,8 @@ int main(int argc, char **argv) {
   FILE* stream;
 //  stream = fopen("/Users/joshsilverman/Dropbox/Apps/cosi101a/cosi101a/data/validation_set.csv", "r");
 //  first_ans_i = 2;
-  
   stream = fopen("E:\\GitDir\\Similarity2\\cosi101a\\data\\training_set.csv", "r");
+  //stream = fopen("E:\\GitDir\\Similarity2\\cosi101a\\data\\validation_set.csv", "r");
   first_ans_i = 3;
   
   char line[max_question_len];
@@ -396,7 +396,7 @@ int main(int argc, char **argv) {
 		  q++;
 	  }
 	  len = 0;
-	  while (heap->nextRB>0 && len<250)
+	  while (heap->nextRB>0 && len<450)
 	  {
 		  len++;
 		  dist += heapDeleteMax()->data;
