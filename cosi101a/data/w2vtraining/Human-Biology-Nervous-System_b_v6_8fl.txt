@@ -1,0 +1,2816 @@
+To access a customizable version of this book, as well as other interactive content, visit www.ck12.org
+
+
+
+CK-12 Foundation is a non-profit organization with a mission to reduce the cost of textbook materials for the K-12 market both in the U.S. and worldwide. Using an open-content, web-based collaborative model termed the FlexBook®. CK-12 intends to pioneer the generation and distribution of high-quality educational content that will serve both as core text as well as provide an adaptive environment for learning, powered through the FlexBook Platform®.
+
+Copyright © 2014 CK-12 Foundation, www.ck12.org
+
+The names "CK-12" and "CK12" and associated logos and the terms "FlexBook®" and "FlexBook Platform®" (collectively "CK-12 Marks") are trademarks and service marks of CK-12 Foundation and are protected by federal, state, and international laws.
+
+Any form of reproduction of this book in any format or medium, in whole or in sections must include the referral attribution link http://www.ck12.org/saythanks (placed in a visible location) in addition to the following terms.
+
+Except as otherwise noted, all CK-12 Content (including CK-12 Curriculum Material) is made available to Users in accordance with the Creative Commons Attribution-Non-Commercial 3.0 Unported (CC BY-NC 3.0) License (http://creativecommons.org/licenses/by-nc/3.0/), as amended and updated by Creative Commons from time to time (the "CC License"), which is incorporated herein by this reference.
+
+Complete terms can be found at http://www.ck12.org/terms.
+
+
+
+
+
+	 Authors
+
+The Program in Human Biology, Stanford University
+
+
+
+
+
+Say Thanks to Authors
+
+Click http://ck12.org/saythanks
+
+(No Sign in required)
+
+
+
+
+
+Introduction to Nervous system - Student Edition (Human Biology)
+
+
+
+
+
+Human Biology
+
+
+Originally developed by the Program in Human Biology at Stanford University and EVERYDAY LEARNING ®
+
+Donated to CK-12 Foundation under the Creative Commons Attribution-NonCommercial (CC-BY-NC) license. This license allows others to use, distribute, and create derivative works based on that content.
+
+
+
+
+
+Introduction to Nervous System
+
+
+Contents
+
+
+Thinking about the Nervous System
+
+A Closer look at the Brain
+
+Neurons: The Building Blocks of the Nervous System
+
+Reflexes: Neurons in Action
+
+Sensation
+
+Moving Muscles
+
+Maintaining a Healthy Nervous System
+
+Glossary
+
+
+
+
+
+Authors
+
+
+H. Craig Heller, Principal Investigator
+
+Mary L. Kiely, Project Director
+
+
+
+
+
+Text Authors
+
+
+James V. Lawry, H. Craig Heller
+
+
+
+
+
+Activity Authors
+
+
+James V. Lawry, H. Craig Heller, Stan Ogren, Geraldine Horsma, Marjorie Gray
+
+
+
+
+
+Project Editor
+
+
+Dennis McKee
+
+
+
+
+
+Permissions
+
+
+The Brain: An Introduction to Neuroscience Primer , 2nd ed. by Richard F. Thompson. © 1985, 1993 by W. H. Freeman and Company. Used with permission.
+
+The Body Book by Sarah B. Stein, copyright © 1992 by Sara B. Stein. Used by permission of Workman Publishing Co., Inc., New York. All Rights Reserved.
+
+Exploring the Brain , National Foundation for Brain Research, 1992. Used with permissions.
+
+
+
+
+
+Photo Credits
+
+
+1 (rop center): National Aeronautics and Space Administration
+
+11 (top center): Medical Illustration SBHS/Tony Stone Images
+
+13 (bottom): H. Craig Heller
+
+14 (top left): Richard T. Nowitz/Phototake
+
+14 (top right): Richard T. Nowitz/Phototake
+
+14 (middle): CNRI/Science Photo Library/Photo Researchers, Inc.
+
+25 (top center): Spike Walker/Tony Stone Images
+
+26 (top left): John D. Cunningham/Visuals Unlimited
+
+26 (middle left): Cabisco/Visuals Unlimited
+
+31 (top center): William Albert Allard/National Geographic Society
+
+37 (center): Greg Hodson/Visuals Unlimited
+
+39 (top center): Ben Gibson/Tony Stone Images
+
+52 (top center): Lori Adamski Peek/Tony Stone Images
+
+59 (top center): Pete Saloutos/The Stock Market
+
+63 (top center): Photo Researchers, Inc.
+
+63 (bottom center): CEA-Orsay/CNRI/Science Photo Library/Photo Researchers, Inc.
+
+64 (center): Dr. E. Walker/Science Photo Library/Photo Researchers, Inc.
+
+
+
+
+
+Originally Published by Everyday Learning Corporation
+
+
+Everyday Learning Development Staff
+
+
+Editorial
+
+
+Steve Mico, Leslie Morrison, Susan Zeitner
+
+
+
+
+
+Production/Design
+
+
+Fran Brown, Annette Davis, Jess Schaal, Norma Underwood
+
+
+
+ISBN 1-57039-681-7
+
+Stanford University's Middle Grades Life Science Curriculum Project was supported by grants from the National Science Foundation, Carnegie Corporation of New York, and The David and Lucile Packard Foundation. The content of the Human Biology curriculum is the sole responsibility of Stanford University's Middle Grades Life Science Curriculum Project and does not necessarily reflect the views or opinions of the National Science Foundation, Carnegie Corporation of New York, or The David and Lucile Packard Foundation.
+
+
+
+
+
+Thinking about the Nervous System - Student Edition (Human Biology)
+
+
+
+
+
+Thinking about the Nervous System
+
+
+
+
+Your Brain is Amazing
+
+What is the most complex thing you can think of? Some candidates might be a 747 jumbo jet, a super computer, NASA mission control, an aircraft carrier, and an ecosystem. None of those things are as complex as your brain. Starting in this section and continuing through this unit, we are going to explore how the brain works. This exploration is really one of the most exciting areas in all of science.
+
+“If your brain is bigger, are you smarter?”
+
+“How can the brain think?”
+
+“How does the brain keep memories and thoughts?”
+
+“Why do we have feelings?”
+
+“Why do I feel so different?”
+
+-7th graders, wondering about the nervous system
+
+Your Brain Is a Super Computer
+
+The human brain is the most complex matter in the known universe! It weighs 1.4 kilograms (a little more than three pounds). That's about the weight of a cantaloupe or a pineapple. It has the appearance and consistency of grayish-cream-colored pudding or tofu. The brain is complex because it is made up of billions of cells that have hundreds of billions of connections between them. The connections make it possible for the cells to work together as a really super computer. Your brain is truly amazing. It makes it possible for you to learn all there is to know about a jumbo jet, a super computer, an aircraft carrier, an ecosystem, or a NASA mission. But, the human brain cannot yet understand itself completely. That is one of our great challenges for the future.
+
+“... if Annabel's mind was in Annabel's body, which it certainly seemed to be, and Annabel's mind was also in Ma's body, which it most definitely was (me is me, no matter what I look like), then where did Ma's mind get to? Somebody else's body, I suppose-but whose?”
+
+-Freaky Friday,
+
+Mary Rodgers
+
+Your brain processes all the information that comes from your senses of seeing, hearing, smelling, touching, and balancing. Your brain stores lots of information as memories and then uses those memories to evaluate or even invent new information. Your brain is responsible for your personality, your feelings, your beliefs, and, most importantly, your ability to think and to communicate your thoughts. Who you are depends more on your brain than on anything else. You have probably heard of heart, kidney, and liver transplants, but there is no such thing as a brain transplant.
+
+
+
+
+
+Suppose for a minute that brain transplants were possible, as in a science fiction movie. If you had a brain transplant, would you be you, or would you be the person who donated the brain? Why?
+
+
+
+
+
+The Brain Is Only One Part of the Nervous System
+
+To work and to control the body, the brain needs to receive information from sensors, and it needs to send information out to the muscles and organs of the body. To understand how the brain receives and sends information, we need to consider the other parts of the nervous system.
+
+Continuous with the brain is the spinal cord, which leaves the head through a hole in the bottom of the skull. The spinal cord runs down the center of the backbone or spinal column. The spinal cord is like the main cable of a huge telephone system. It contains thousands of information tracks carrying signals to and from the brain.
+
+The brain and the spinal cord are called the central nervous system, or CNS. The CNS communicates with the rest of the body through the peripheral nervous system, or PNS.
+
+Did You Know?
+
+The neuron is the basic building block of your nervous system. You were born with about 15 billion neurons in your body. Since your birth, your neurons have been busy storing memories and information about your world. Although other cells in your body die and are replaced, your neurons are not. If a neuron dies, it is gone forever.
+
+
+
+The peripheral nervous system is a huge network of nerve fibers that run throughout all parts of your body. They transmit information between all tissues and the nervous system. The nerve fibers are made up of nerve cells called neurons, which are the building blocks of the nervous system. If you could dissolve away all of the cells of your body except neurons, you could see the brain and spinal cord as solid structures. The rest of your body would be a ghost made up of thousands and thousands of fibers ranging in size from the diameter of thick string to fibers so small they can only be seen with a microscope.
+
+Did You Know?
+
+The sperm whale has the largest brain of any animal. An average sperm whale brain weighs about 9 kilograms (20 pounds).
+
+
+
+Your brain is more complicated than any computer anywhere. As you learned earlier, it's about the size of a cantaloupe, weighs 1.4 kilograms (about 3 pounds), and contains billions of neurons. Your brain keeps all parts of you working smoothly and lets you do different things at the same time. For example, because of the way your brain works, you can chew gum, ride a bicycle, and think about a movie all at once.
+
+We have compared the brain to a computer, but there is a really big difference between how the brain works and how most computers work. A computer is good at handling one piece of information at a time, but doing it very fast. The brain actually handles each piece of information-such as information from a flash of light, a sound, or a touch-rather slowly. But unlike a computer, the brain handles thousands of separate pieces of information at the same time! That is why you can chew gum, ride a bicycle, wave to your friend, watch out for traffic, and think about your homework all at once.
+
+Your brain is always doing hundreds, even thousands, of things at the same time. Sometimes you are aware of what it is doing, but most of the time you are not. For example, imagine the following situation. You are home alone taking a bath when the phone rings. You think it could be an important call from your study buddy. You spring out of the warm water, dry yourself quickly, and dash out the door for the phone. As you hit the floor running, you stumble over the toy your little brother left on the floor, but you don't fall. You keep your balance, hurrying to answer the phone. You're still drying off when you get to the phone and pick it up. It's a wrong number.
+
+
+
+Figure 1.1 The human brain contains billions of nerve cells. They process and store information, keep the organs of the body running smoothly, and allow us complex thought, memory, and speech.
+
+What did your brain do while all this was going on? Signals coming from your sensors told you about the bath water temperature, the smell of the soap, where the towel was, and the sound of the phone. As these signals came into your brain, they triggered other signals that helped you recall emotions, memories, thoughts, and plans. You knew the sound was the phone not the doorbell, because you remembered the difference. You thought the caller was your friend, because you planned to do homework together. You felt happy because you imagined yourself talking to your friend. Almost immediately, signals coming from your brain told other parts of your body what to do. You stood up and stepped carefully out of the tub. You reached for the towel, dried yourself, and began to run. You tripped on the toy but kept your balance. You got angry at your lime brother for leaving the toy. But you still got to the phone before it stopped ringing.
+
+While you were running to answer the phone, your brain also did many other things. For example, it made you breathe, controlled your heart rate and blood pressure, and noticed that your skin temperature cooled. Your brain even sent out commands to keep you from falling when you tripped on the toy-all without your having to think about it.
+
+
+
+Figure 1.2 Your nervous system is made up of your brain, spinal cord, and a network of nerve fibers.
+
+Did You Know?
+
+Many neurons have long extensions. They are the longest cells in your body. Some neurons go all the way from your spinal cord to the tips of your toes or fingers.
+
+
+
+Did You Know?
+
+When you are born your spinal cord is about as long as your bony spinal column. As you grow, your spinal column gets longer, but your spinal cord does not. That is why as an adult your spinal cord ends about in the middle of your back.
+
+
+
+As you can see, your brain has to be able to do many things at once. It has to tell your body to do all the work of maintaining itself 24 hours a day, every day. Your brain also controls all of your activities, such as playing basketball, writing a poem, speaking a language, riding a bicycle, playing the piano, or just daydreaming. Your brain has a lot to do. That's why you need so many brain cells.
+
+
+
+
+
+The study of the nervous system is called neurobiology. What do you call someone who studies neurobiology? What subjects do you think a person would have to study to become a scientist who studies neurobiology?
+
+
+
+
+
+Figure 1.3 Follow the diagram to see how information moves in your nervous system. The left side of the diagram, labeled Sensory , shows how your body sends information to the brain. The right side of the diagram, labeled Motor , shows how the brain sends instructions back out about what to do to keep things running smoothly.
+
+We Can Compare the Nervous System to Mission Control
+
+Your nervous system works to control your body like NASA's Mission Control works to control the flight of the space shuttle. The computers at Mission Control receive information from all over the world. The computer programmers, flight controllers, and other people use this information to make decisions and tell the astronauts how to do their work and return safely to Earth.
+
+
+
+
+
+Billions and Billions
+
+Fill up a measuring cup with kernels of corn (or peas, or beads). Count how many kernels are in the cup. Calculate how many cups you would need to fill before you had one billion kernels of corn.
+
+
+
+
+
+Just as NASA's Mission Control receives all kinds of information about weather patterns, the orbits of satellites and space debris, the conditions at landing sites, and the conditions inside the space shuttle, your CNS continuously receives information about the world around you and the conditions inside your body. The CNS uses this information to tell your organs what to do to keep the conditions inside your body within safe limits. The maintenance of fairly constant conditions in your body is called homeostasis. Even when conditions in the external environment change, your nervous system controls the activities of your organs to keep your internal environment constant.
+
+For example, your body temperature stays about the same in cold weather or hot weather. When it gets cold outside, your brain tells you to put on a sweater and seek a warm place. If that isn't enough, your brain makes you shiver to produce heat. When it gets hot outside, your brain tells you to take clothes off, seek shade, and sweat to cool down. To understand homeostasis think about balancing a seesaw. If one end starts to go down, pushing on the other end will make the seesaw balance. In a similar way, if conditions in your body begin to change, your body takes action to restore the balance. Your nervous system collects information about the changing conditions. Then, your nervous system tells your muscles, organs, and glands what to do to keep conditions inside the body constant.
+
+
+
+Figure 1.4 You can control some nervous system functions, such as walking or running. But you're not even aware of many of your nervous system functions, such as controlling heart rate or controlling digestion.
+
+What Does Your Brain look like?
+
+If you cut back the skin covering the skull (the scalp), and saw off the top of the skull, you can see the brain. Actually, what you see is the part of the brain called the cerebral cortex. It looks like grayish-beige, squiggly custard or tofu wrapped in a thin sheet of plastic. The squiggly custard-like material consists of billions of brain cells. The membranes that cover and protect the brain look like a thin sheet of plastic.
+
+
+
+Figure 1.5 If you removed the skin and bone covering the top of the head, you would see the part of the brain that scientists call the cerebral cortex.
+
+These membranes are called the meninges (meh-NIN-jeez). A serious disease called meningitis (meh-nin-JI-tis) occurs when these membranes become infected or inflamed, causing terrible headaches. If you could see the brain, you would notice blood vessels running all over the surface, between the meninges. Those blood vessels bring oxygen and sugar to the brain cells and take away their wastes.
+
+It is hard to imagine what the brain does just by looking at it. Think about looking inside a television set. Does seeing the picture tube, the wires, and the electronics help you understand how TV programs are produced, broadcast, received, and shown? You may not know exactly how all the stuff in a TV makes it work, but it is a place to start. The same is true with investigating the brain. Look at Figure 1.5. This is an illustration of what your brain looks like, as seen from the top of your head.
+
+Did You Know?
+
+During infancy and childhood, 29 separate bones join together to make up the skull. Of these, 14 make up your facial structure, giving you some of the features you see in the mirror.
+
+
+
+How Your Brain Is Protected from Damage
+
+Since the brain is soft like custard or tofu, it is very delicate and must be protected. Your skull protects your brain. This armor-like covering of bone prevents your head from splitting open like a pumpkin whenever you fall. However, the skull can break or fracture if it is hit hard enough. A blow to the head may not fracture the skull, but could cause a concussion (kon-KUH-shun). A concussion is a brain injury somewhat like a bruise. To prevent fractured skulls and concussions in possibly dangerous situations, we need to wear bicycle helmets, football helmets, seat belts, and other kinds of protective gear.
+
+In addition to the strong bony skull, a cushion of fluid protects your brain from damage when you fall, bump, or even shake your head. This fluid, that is found between the skull and the membranes covering the brain, works like a water bed to cushion the brain. It is called cerebrospinal (ser-REE-broh-spi-nul) fluid . This fluid is formed from the blood.
+
+What Do You Think?
+
+Think about what you have learned about the brain so far. Now think about the bike helmet laws in effect in many areas. These laws, which are sometimes controversial, require anyone riding a bicycle to wear a helmet. Do you think a bike helmet law is a good idea? Is such a law fair? Explain your responses.
+
+
+
+The skull and the cerebrospinal fluid protect the brain from some physical damage. But the brain needs to be protected in other ways. For example, germs and dangerous chemicals that can damage the brain may enter the bloodstream. The brain needs extra protection from these dangers because, unlike other body tissues, the brain usually cannot grow new brain cells to replace damaged ones. A system called the blood-brain barrier keeps germs and some chemicals from entering the brain.
+
+Did You Know?
+
+Because brain cells cannot replace themselves, any damage from chemicals, drugs, or physical injury may be permanent.
+
+
+
+
+
+Figure 1.6 Egghead apparatus.
+
+
+
+
+
+Egghead
+
+Get two raw eggs. Put one carefully into a screw-top jar. Put the other into a similar jar filled to the top with water. Now shake both jars. What happens? What do the egg, the water, and the glass jar represent?
+
+
+
+
+
+Activity 1-1: The Blood-Brain Barrier (BBB)
+
+
+Introduction
+
+This activity helps explain what the blood-brain barrier (BBB) is and how it protects the cells of your brain. Like all of the other cells of your body, your brain cells obtain nutrients from the blood. Tiny blood vessels go through all parts of your brain. The blood also can transport substances other than nutrients. For example, blood can contain bacteria, drugs, toxic chemicals, alcohol, and nicotine. Substances such as these can alter the function of brain cells, and they can kill brain cells. Since you cannot replace the brain cells you lose, it is important to protect brain cells. To protect brain cells, the tiny blood vessels that pass through the brain are much less leaky than are the tiny blood vessels in other parts of your body. Also, these blood vessels are wrapped by special cells called glia. The tight blood vessels and their covering of glial cells create a barrier between the blood and the brain-the blood-brain barrier. But substances can get through the blood-brain barrier depending on their chemical characteristics. Since the barrier consists of the membranes of blood vessel cells and glial cells, and membranes consist largely of lipids (fats), anything that is more soluble in lipids than in water can get through the BBB more easily than something that is soluble in water but not in lipids. Of course, some things are soluble in both water and lipids. Alcohol is an example.
+
+In this activity you explore the inability of oil (representing membranes) and water (representing blood) to mix, and you test the solubility of different substances in oil and water.
+
+Materials
+
+Safety goggles
+
+6 test tubes with stoppers
+
+Test-tube rack
+
+Marking pen
+
+Masking tape
+
+Clear cooking oil (to represent the membranes of the BBB)
+
+Sesame or motor oil (to represent a fat-soluble substance)
+
+Water with a little red food coloring (to represent blood)
+
+Blue food coloring (to represent a water-soluble substance)
+
+Alcohol
+
+3 eyedroppers
+
+Paper towels
+
+Colored pencils (red and blue)
+
+Activity Report
+
+
+
+CAUTION: Wear safety goggles anytime you are working with chemicals. Check your lab safety rules.
+
+Procedure
+
+Step 1 Label 4 test tubes A, B, C, and D. You can use strips of masking tape for the labels.
+
+Step 2 Pour equal amounts of clear cooking oil (representing BBB membranes) and redcolored water (representing blood) into each test tube.
+
+Step 3 Complete the setup for each test tube as follows.
+
+Test Tube A: Stopper tightly.
+
+Test Tube B: Add 10 drops of blue food coloring (representing water-soluble substance). Stopper tightly.
+
+Test Tube C: Add 10 drops of motor oil or sesame oil (representing a fat-soluble substance). Stopper tightly.
+
+Test Tube D: Add 10 drops of motor oil or sesame oil and 10 drops of blue food coloring. Stopper tightly.
+
+Step 4 Answer questions 1, 2, and 3 on the Activity Report.
+
+Step 5 Predict what would happen in test tube D if you shook the test tube for 10 seconds. Record your predictions on the Activity Report. Note any differences between your predictions and your results. Offer explanations for any differences.
+
+Step 6 Prepare 2 new test tubes labeled E and F. Put clear cooking oil in test tube E. Put an equal amount of red-colored water in test tube F. Put equal amounts of alcohol into both test tubes E and F. Record your observations on the Activity Report.
+
+Step 7 Review and complete the remaining questions on the Activity Report. Follow instructions for cleanup in the laboratory.
+
+Did You Know?
+
+The membranes of all your cells are made up of lipids (fats) and proteins.
+
+
+
+Small blood vessels, called capillaries (KAP-ih-layr-ees), in the brain form the blood-brain barrier. Throughout your body, capillaries carry blood that supplies your cells with oxygen and sugar and takes away carbon dioxide and other wastes. Most capillaries have many tiny holes that allow these substances to move between the bloodstream and your cells. The capillaries in the brain are much less leaky, so it is harder for molecules and germs circulating in the blood to pass through.
+
+Star-shaped glial cells called astrocytes (AS-trow-sites) are also part of the blood-brain barrier. Astrocytes are one kind of glial cell. Glial cells play many supportive roles in the brain, and there are more of them than there are nerve cells. Parts of these astrocytes wrap around and cover the brain's capillaries and help control which substances enter the brain. Astrocytes can help certain substances cross the blood-brain barrier but help keep other substances out.
+
+
+
+
+
+Self-Portraits
+
+Your nervous system is as unique as your fingerprint. Your brain makes you who you are. Think about the following questions and write a few responses to share with your class. Who are you? What makes you unique? Do the things that make you unique involve your brain?
+
+
+
+
+
+The blood-brain barrier can protect your brain from many substances, but it cannot protect against everything. For example, substances that dissolve in lipids (fats) can cross the blood-brain barrier very easily. You may remember that the membranes of all your cells, including those in your capillaries, are made up of lipids. Substances that dissolve in lipids can cross these cell membranes simply by dissolving in the membrane. Substances that can pass through the blood-brain barrier in this way include alcohol, nicotine, caffeine, anesthetics (painkillers), and heroin. These substances can be harmful because they can pass through the cell membranes into the brain cells.
+
+
+
+
+
+What aspects of yourself and your brain interest you the most? Do you ever surprise yourself! Have you ever heard yourself say something and wonder where the thoughts came from? Explain your responses.
+
+
+
+
+
+Review Questions/Answers
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+What are the three major divisions of the nervous system?
+
+In general, what does the nervous system do?
+
+List three aspects of the nervous system and brain you find remarkable. Explain why they are remarkable.
+
+How is the brain protected from damage?
+
+Why is wearing a bicycle helmet important?
+
+What substances does the blood-brain barrier not keep out? Why?
+
+Why can drugs or alcohol affect behavior so quickly?
+
+
+
+
+
+A Closer Look at the Brain - Student Edition (Human Biology)
+
+
+
+
+
+A Closer Look at the Brain
+
+
+
+
+How does the brain work?
+
+The answer to that question depends on what you look for, the tools you use, and the questions you ask. In this section you will explore the brain to find out how it works. You will be able to answer questions you have now and more questions that come up as you explore the workings of the brain.
+
+Imagine that an alien spacecraft landed on the top of the Seattle Kingdome sports complex during a baseball game. Then imagine that the aliens' job is to find out what's going on inside the dome. Each alien in the group has a different set of tools. One drills a hole in the roof of the sports complex and lowers a camera down to take pictures. The pictures show that the people inside are organized in a way that suggests they are doing different things. Those in the center are mostly dressed in two types of uniforms and are arranged in a pattern. One person is dressed in black. The people all around the sides are arranged in rows and sections but look very different. In the aisles are some people carrying big boxes with the words “Hot Dogs” and “Drinks” written on them.
+
+
+
+Figure 2.1 An alien looks into the Kingdome and wonders what is going on.
+
+Another alien lowers several very small microphones into different parts of the sports complex to record the sounds. A microphone placed near one of the people records, “Peanuts!” “Get-chur red-hots here!” Near the person in black, the alien hears “Strike three-you're out!” Just after that, a microphone lowered into one of the rows of people records “Get rid of the umpire!” When this microphone is moved over to another row it picks up, “Did you hear-the weather's s'pose to be nice for our picnic?”
+
+A third alien places a dish-shaped microphone on the surface of the Kingdome. This dish record big bursts of noise, and then periods of low-level random noise. How difficult do you think it would be for the aliens to figure out the rules of baseball using their techniques? Scientists who want to understand how the brain works face a challenge much greater than our imaginary aliens on the Kingdome. But they use a similar strategy of applying different tools and methods to gather facts.
+
+
+
+Figure 2.2 Another alien lowers a microphone into the Kingdome to find out what kinds of sounds are being made.
+
+
+
+Figure 2.3 One alien tries to measure the sounds of the entire crowd inside the Kingdome.
+
+The rules of baseball would probably be pretty difficult for the aliens to figure out from the clues above. But they are no comparison to figuring out how the brain works. Neurobiologists (NUR-oh-bi-AHL-uh-jists) are scientists who study the brain. They use a variety of different techniques to learn new information about the brain. Each new piece of information they learn is only a very small part of the whole story of the brain. Some neurobiologists study the structure and organization of the brain. Others study chemistry of the brain. Still others use tools like the microphones of the aliens to record what single nerve cells or huge numbers of nerve cells are doing.
+
+
+
+
+
+Brain Study
+
+Doctors can investigate problems inside the brain and body without having to cut a patient open. Do library research to find out what MRI scans, CAT scans, and PET scans are. Write a report describing how they relate to the brain and other parts of the nervous system.
+
+
+
+
+
+How Do We Study How the Brain Works?
+
+Neurobiologists have methods that enable them to observe how the brain works. Think about how our imaginary aliens lowered microphones into the Kingdome. The brain, like all tissues, is made up of cells. Brain cells called neurons receive and send electrical signals called nerve impulses. By lowering very fine wires called electrodes (ee-LEK-trohdes) into the brain of a living person, it is possible to record the nerve impulse sent by a single neuron. On a loudspeaker, nerve impulses sound like crackles or pops. Viewed on a screen, as shown in Figure 2.4, they look like spikes.
+
+Other kinds of electrodes can be put on the surface of the brain or just on the scalp. These electrodes work somewhat like the big microphones used by our imaginary aliens. These electrodes measure the electrical activity of huge numbers of neurons. A record of these measurements is called an electroencephalogram (ee-LEK-troh-en-CEF-loh-gram), or EEG for short. Your EEG shows big changes when you go to sleep and when you dream during sleep.
+
+Neurobiologists can visualize brain cells by cutting brain tissue into very thin slices that are thinner than an onionskin. They use dyes to stain the slices so that the cell parts can be seen with a microscope. Different kinds of microscopes give different views of the cells that make up the brain. Microscope images show that the brain is made up of neurons and of other kinds of cells that help the neurons do their jobs. Using microscopes and thin slices of brain tissue, it is possible to find out which neurons are connected to which other neurons. This information helps the scientist determine where the electrical signals come from and go to.
+
+
+
+Figure 2.4 When tiny electrodes are used to record the activity of single neurons, they detect “spikes” of electrical activity.
+
+
+
+Figure 2.5 Because there are so many neurons in the brain producing electrical signals, electrical changes can be recorded on the surface of the brain or even the scalp. An electroencephalogram (EEG) shows brain activity in the form of waves.
+
+
+
+Figure 2.6 This magnetic resonance image (MRI) shows a detailed view showing brain damage following a stroke. The damage appears as the dark area in the lower left cerebrum (right on image).
+
+Neurobiologists can also visualize the brain at work m other ways as well. You may have heard of magnetic resonance imaging (MRI). Doctors use MRI to look inside the brain and other parts of the body. For example, doctors can use MRI to find out which parts of a patient's brain has been damaged by a stroke. A stroke is a medical condition that occurs when a part of the brain stops working because its blood supply was cut off. The lack of blood supply can be caused by a clogged or broken blood vessel that stops the blood from flowing to a part of the brain.
+
+Parts of the Brain
+
+Let's explore the brain by starting with some brain “geography.” Then we can explore what all the parts of the brain do. One way to remember the major parts of the nervous system is to compare them to the gearshift of a sports car. Look at Figure 2.7. Using the gearshift as a model, the spinal cord is the stick. Just as the stick ends in a knob, the spinal cord ends in the brain stem. The brain stem includes the medulla (meh-DOOL-luh), pons (PAHNS), and midbrain. All messages between the brain and the body pass through the brain stem.
+
+Your cerebral hemispheres (ser-REE-bruhl HEM-i-sfeers) sit behind your forehead, between your ears, and above the bump on the back of your skull. Your brain stem sits beneath your cerebral hemispheres and narrows into your spinal cord. Your spinal cord extends from the bottom of your skull and down your back in the bony tube formed by your vertebrae.
+
+Did You Know?
+
+Without the cerebral cortex, your brain would be pretty much like a lizard's. Reptiles have the same parts of the brain as we do in our brain stems. So reptiles have basic feelings such as fear and hunger. But the human cortex allows for much more complex thinking.
+
+
+
+If we opened the top of the skull, we would first see the squiggly, grayish-beige material that makes up the cerebral cortex. The word cortex means outer layer. The cortex contains about 80% of the neurons in your brain. The density of neuron cell bodies is what makes the cortex look gray. That is the reason the cerebral cortex is sometimes called the gray matter. The cortex is very thin. It is only about as thick as a cracker. Even though it is very thin the cortex does a lot, including all of your thinking. The cerebral hemispheres (cerebrum) are behind the forehead, between the ears, and extend down to the bump you can feel on the back of your head. Each of the cerebral hemispheres of the cerebrum is composed of four different lobes. These four lobes are called the frontal, parietal, temporal, and occipital lobes. Each of these lobes is associated with different body functions. You will investigate each of those functions a little later. The cerebral cortex covers the cerebral hemispheres. The cerebrum completely covers the brain stem. Think back to the analogy of the gearshift (spinal cord) ending in a knob (the brain stem). The cerebrum is like a hand covering the knob of the gearshift.
+
+
+
+Figure 2.7 The brain and spinal cord are shaped somewhat like the gearshift in a sports car.
+
+
+
+Figure 2.8 The control of most body functions (which you're usually not aware of) happens in the brain stem. Most of your thinking and information processing occurs in the cortex.
+
+Another part of the brain is called the cerebellum. Your cerebellum sits at the back of your brain stem below the bump at the back of your head. It sits on top of the brain stem.
+
+For our visual model of the brain to be complete, we need to add two more parts. These two parts are called the thalamus and the hypothalamus ( hypo means below). The thalamus and the hypothalamus are at the center of the cerebral hemispheres and join the cerebrum to the brain stem.
+
+
+
+Figure 2.9 The Brain.
+
+
+
+
+
+Activity 2-1: Big Brain on a Stick
+
+
+Introduction
+
+How do the parts of the nervous system fit together? In this activity you will have an opportunity to use and/or build and use a model of the brain and spinal cord. A good way to describe this model is a “Big Brain on a Stick.” Soon you will learn what each of the parts does, so it is important to know how they fit together. As you are putting this model together, think about the following question. What is the best way to take care of each part of the nervous system so it will continue to work well?
+
+Materials
+
+Illustration of brain and spinal cord (Figure 2.8) “Big Brain on A Stick” construction materials (See the Resource.)
+
+“Big Brain on A Stick” parts for assembly (See the Resource.)
+
+Paper
+
+Masking tape (3/4 inch)
+
+Colored pencils
+
+Black marker with fine point
+
+Bike helmet (optional)
+
+Activity Report
+
+Resource
+
+
+
+Procedure
+
+Step 1 Review the illustration in Figure 2.8. Draw the brain and spinal cord on your Activity Report.
+
+Step 2 Build your model.
+
+a. If you are going to make the model parts for “Big Brain on a Stick,” use the directions on the Resource.
+
+b. If you are given the prepared model parts for “Big Brain on a Stick,” use the directions on the Resource to assemble the model.
+
+Step 3 Use a fine-point, black marking pen to make the following labels with masking tape. Place the appropriate masking tape label on the correct part of your model.
+
+These parts are
+
+Cerebrum
+
+Cerebellum
+
+Medulla
+
+Thalamus and Hypothalamus
+
+Spinal Cord
+
+
+
+Step 4 Complete the Activity Report.
+
+A Closer look at the Cerebral Cortex
+
+The brain cells in your cortex are packed into a thin sheet about the thickness of a cracker. But there are so many neurons in the cortex that this sheet would be about one-meter square if you spread it out on a table. How does a sheet of neurons one-meter square fit into your skull? It is crumpled up. Imagine that the cerebral sheet is a square of soft rubber. Now imagine that you have to fit it inside a soccer ball. You would create folds, ridges, and valleys by crumpling the rubber cerebral sheet up to fit it in the soccer ball.
+
+
+
+Figure 2.10 If you spread out the sheet of neurons that makes up your cerebral cortex, you would have a one-meter square sheet, about the thickness of a cracker.
+
+Neurobiologists have figured out what different parts of the cortex do. Look at Figure 2.10. Use the information in the table to make a map of cortex functions.
+
+Table: Brain Regions and Responsibilities Part Responsibilities
+
+Medulla Controls breathing, heart rate, throat functions (swallowing, coughing), and many other functions of the body that you don't have to think about.
+
+Pons Part of the brain stem where the cerebellum is connected. It controls traffic between the cerebellum and the rest of the nervous system. Helps with breathing.
+
+Cerebellum Coordinates complex movements and balance.
+
+Thalamus Directs messages from the sensors to the cortex.
+
+Hypothalamus Controls thirst, hormones, hunger, salt intake, body temperature, and metabolism; generates daily rhythms.
+
+Cerebrum Responsible for thought, sensation, speaking, tasting, smelling, seeing, hearing, movement, learning, and dreaming.
+
+Did You Know?
+
+Many years ago, some violent criminals were given frontal lobotomies . This was an operation in which the frontal lobes were destroyed or severed from the rest of the brain. Thank goodness such procedures were not used often. The procedure did make agitated inmates calmer, but it also destroyed the patient's personality.
+
+
+
+Remember that the cerebrum and its cortex are divided into four lobes. Let's start at the front of the brain, the area behind your forehead. This area, known as the frontal lobe , is responsible for motion, speech, judgment, personality, and some memory. Just below the frontal lobe are the olfactory (ohl-FAK-tor-ee) bulbs. This part of the brain is the area where your nose sends information about things it smells. People with tumors in the olfactory parts of the brain may smell strange smells.
+
+Serious damage to the most anterior part of the frontal lobe can reduce mood swings and make a person very passive. Damage to other parts can impair speech or the ability to move a part of the body.
+
+
+
+
+
+Memories
+
+What is your earliest memory? Describe the memory and pay close attention to the role your senses play in this memory. For example, can you smell or hear or see something as part of the memory? Why do you think this memory has stuck with you for so long?
+
+
+
+
+
+The temporal lobe is a section of the brain located along the sides of your head, just above the ears. The temporal lobe is responsible for hearing and understanding speech. A tumor in the hearing area may make someone hear things that are not there. This part of the brain contains areas that process memories. These areas are called the association cortex and are found in other lobes too. One area on the bottom of the temporal lobe is necessary to remember faces of people you know! If this part of the brain is damaged, you can still remember people's names and everything you know about them, but you cannot recognize them by their faces.
+
+The parietal lobe runs from the middle of the top of your head to the back of your head. This part of the cortex receives information about touch, pressure, and pain. The parietal lobe is also involved in language, reading, and body awareness.
+
+Your eyes send messages to the back part of your brain, the occipital lobe. A blow to the back of your head can make you see stars or flashing lights. This is because such a blow stimulates nerve cells in the visual cortex without involving the eyes. The visual cortex receives information from the eyes and is responsible for vision. Remember the gearshift model of the brain and spinal cord. You can think of the cerebrum as the hand on the gearshift knob. The area controlling vision would be near the wrist, and the area controlling hearing would be in the thumb.
+
+Maps in Your Brain
+
+There are maps of your body in your brain. The area of the parietal cortex closest to the frontal cortex receives information about touch, pain, the temperature of your skin, and the position of your muscles and joints. The connections in this region are organized like a map of the body. Similarly, there is a muscle map at the back of the frontal lobe. Neurons in the muscle map control muscles in corresponding parts of the body.
+
+Now you will learn a really strange fact about the connections between your cerebral cortex and your body. Your left cerebral cortex is connected to the right side of your body, and your right cerebral cortex is connected to the left side of your body. So messages from sensors on the right side of your body go to the sensory map on the left side of your brain. Messages from the left side of your body go to the right side of your brain.
+
+
+
+Figure 2.11 The parts of the brain and their functions.
+
+Similarly, the muscles on the left side of your body are controlled from the muscle's map on the right side of your brain, and muscles on the right side of your body are controlled from the left side of your brain. Communication between the two sides of the brain lets you coordinate both sides of your body so they work together. There are conditions that interfere with communication between the two sides of the brain. In one of these situations, a person may ignore one side of the body and behave strangely. For example, a man might shave the beard on one side of his face, and leave the other side all hairy.
+
+What Do You Think?
+
+How do you think the cerebral cortex could control our behavior? How do you think the cerebral cortex could control our personalities? How do all those cells make us what we are? What is intelligence?
+
+
+
+Your whole body maps onto parts of the cerebral cortex as shown in Figure 2.12. Notice that the map looks very distorted. Sensitive areas of your body, such as your lips and fingers, occupy bigger areas on the map. Less sensitive parts of your body, such as your legs or back, occupy smaller areas. To better understand the features of the cortex, you can make a model of it in Activity 2-2: Thinking Cap.
+
+
+
+
+
+Brain on Your Hand
+
+You can use your fist as a model of one side of your brain. Make labels with masking tape to label the parts of the brain on your hand. Explain to at least three other people, what the parts are and what they do. Make a fist with your right hand. What part of the brain would the thumb represent? Which side of the brain would your right fist represent? Where are the frontal lobe, the parietal lobe, the occipital lobe, the cerebellum, and the spinal cord?
+
+
+
+
+
+Figure 2.12 Information from your senses and from different parts of your body maps onto your cerebral cortex, where information is received and processed. Commands from the cerebral cortex muscle map go to specific muscles in the body.
+
+
+
+
+
+Activity 2-2: Thinking Cap
+
+
+Introduction
+
+You may have heard people say “Well, just put on your thinking cap and you can answer that question!” In this activity you make a paper model of a “thinking cap” with parts to represent regions of the brain. For example, your model will show how your eyes and ears relate to parts of your brain and spinal cord.
+
+Materials
+
+Resource
+
+Large paper grocery bag
+
+Scissors
+
+Transparent tape
+
+Colored pencils and/or marking pens
+
+Clear plastic wrap
+
+Mirror
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Use the information in your text to complete items 1 and 2 on the Activity Report.
+
+Step 2 Using the information on the Resource, cut out your own paper model of a “thinking cap.” It is important to remember that on biological diagrams, the words “left” and “right” mean the specimen's left or right. Ask your teacher if you need help with this idea.
+
+Step 3 Use the Resource to complete item 3 on the Activity Report.
+
+Step 4 With transparent tape, permanently fasten the top and sides of your “thinking cap” together. Try it on. With a mirror, observe your “thinking cap.” Then observe your partner's “thinking cap.”
+
+Step 5 Cover your “thinking cap” with clear plastic to represent the three layers of meninges.
+
+Step 6 Complete the remaining items on your Activity Report.
+
+
+
+
+
+What might you guess is the difference between a species of mammal that has a large temporal cortex compared to one with a large occipital cortex?
+
+
+
+What Do You Think?
+
+The cerebral cortices of other mammals are smaller and less complex than ours are. Do you think animals have feelings? Do they think? Do you think some animals, such as dolphins and chimpanzees, are intelligent? Explain.
+
+
+
+How Do Messages from Your Body Get to the Correct Cortical Areas?
+
+Messages travel up and down the spinal cord, carrying information from sensors to the cortex and to the muscles. Messages coming into the brain pass through the medulla and the pons. The medulla controls some automatic body functions such as heart rate and breathing, as well as swallowing, coughing, and hiccuping. The pons is where the cerebellum joins the brain stem, and messages travel through the pons from cerebrum to cerebellum and from spinal cord to cerebellum and in the opposite direction. The cerebellum helps to coordinate complex movements.
+
+The cerebellum lies behind the pons and medulla and below the cerebrum. The cerebellum controls and coordinates movement and balance. It takes information from the cerebrum about what the body is supposed to do and compares it to what is really happening. It helps the body maintain balance and coordination. And the cerebellum deals with changes, error, and unexpected events.
+
+At the top of the brain stem are the thalamus and hypothalamus. The thalamus works like a switchboard. It receives messages from sensory nerves and passes them on to the correct part of the cortex maps. Neurons coming from your cortex pass by your thalamus on the way down your brain stem to your spinal cord. These neurons form bundles that act like freeways through your brain stem and spinal cord.
+
+The hypothalamus is below the thalamus. The hypothalamus regulates body temperature, eating, drinking, and sexual functions. For example, if one part of the hypothalamus of a rat is damaged, the rat will keep eating until it gets very fat. If another part of the hypothalamus is damaged, the rat will stop eating and get very skinny. The hypothalamus also reacts to certain changes in the blood. For example, if the blood is too salty, the hypothalamus stimulates thirst. The hypothalamus acts like a thermostat to control body temperature. If this small part of the brain is heated, the whole animal reacts as if it is too hot. If the hypothalamus is cooled, the animal shivers.
+
+What Do You Think?
+
+Technology has made it possible to keep a person's heart and lungs alive even when the brain is dead. When do you think a person is really dead? When he or she stops breathing? When the heart stops beating? When the brain stops functioning?
+
+
+
+
+
+What parts of the brain do you think are essential when a person dances?
+
+
+
+“Learning is a lifelong competition among brain cells . . . Learning is scary because it is real. Math struggled with is axons eagerly branching. Math learned is new connections made. Math recalled is old connections fortified. Math put to a new use is novel patterns of connections, inventive thoughts that had never been possible before.”
+
+- The Body Book
+
+Sara Stein
+
+Integrating the Messages
+
+Your brain constantly makes connections between things you know, things you feel, and things you discover. Areas of your cortex are separate but communicate and work with each other all the time. For example, let's say you see a cat and then say the word, cat . Where do the messages go? The image of the cat forms in both eyes and is coded into neural messages that are sent to the visual area at the back of your cortex. Other neurons take this message to the parts of your brain where you store memories. You attach the image of the cat to the word cat by making a connection between the image stored in one place in the cortex with the word stored in another. Neurons carry this message to the speech area in your cortex. Your speech area then connects through the motor system to your tongue, face, and vocal cords, which lets you say cat . Connections can also be made to the part of your brain that controls your arm and hand, directing you to write the word cat . Trace the pathways used to speak and write cat when such an animal is seen. What about when you are blindfolded and identify it by its meow?
+
+Some scientists say that because the average male and female brains are different, men and women tend to think differently. The real difference is that male brains tend to be more asymmetrical than female brains. The right cerebral cortex in males tends to be thicker than the left. In females, the difference is less. Language functions are largely in the left cerebral hemisphere and abilities to deal with spatial relations are largely in the right cerebral hemisphere. Therefore, it has been suggested that the brain differences between males and females explain why men tend to do better at spatial and mechanical tasks and women tend to do better at verbal tasks.
+
+
+
+
+
+Imagine you are a doctor. Patient A comes to you and says that he is “seeing stars.” What part of the brain would you investigate? Patient B comes to you and says that she smells strange smells everywhere she goes. What part of the brain would you investigate?
+
+
+
+
+
+Review Questions
+
+
+What part of the brain is responsible for thinking?
+
+Describe four major parts of the brain and explain what they do.
+
+If a surgeon stimulated the neurons for your big toe in the right sensory cortex, what would happen? Why? What if the surgeon stimulated “toe” neurons in your right frontal cortex?
+
+Describe several methods scientists use to learn how the brain works.
+
+
+
+
+
+Neurons: The Building Blocks of the Nervous System - Student Edition (Human Biology)
+
+
+
+
+
+Neurons: The Building Blocks of the Nervous System
+
+
+
+
+
+How do neurons work?
+
+The nervous system is made up of cells like all parts of the body. The nervous system has two general types of cells. The neuron is the first type of cell. We will focus mostly on neurons. the cells that send electrical messages. The other types of cells are the glial (GLEE-uhl) cells. The glial cells help the neurons do their jobs. You have already learned about one type of glial cell, the astrocytes that help form the blood-brain barrier.
+
+Neurons come in many forms, but they all have certain basic parts. Each neuron has a cell body, which contains its nucleus and other important cell parts. Each neuron has many branch-like projections called dendrites. The dendrites carry messages into the cell body. Each neuron has one projection called the axon to carry messages away from the cell body. Axons can be very short or very long. For example, the cell body of the neuron that sends the message to wiggle your little toe is located in your lower spinal cord, which is only about halfway down your back. So the axon of this neuron reaches down your back, down your leg, through your foot, and to the muscles in your little toe. There are structures at the end of an axon that send messages on to the next cell, which might be a muscle cell, a gland cell, or another neuron. Figure 3.1 shows the structure of a typical neuron.
+
+
+
+Figure 3.1 A neuron (nerve cell) is usually microscopic. It has a shape like a chain of hot dogs with a hairy head and several hairy tails.
+
+
+
+As you learned, there are two general types of cells in the nervous system-glial cells and neurons. But each type has many specialized kinds of cells that perform different functions. For example, you can organize neurons into three basic groups according to what they do. Sensory neurons send information collected by sensor cells into your central nervous system. Motor neurons bring instructions from the central nervous system back to your muscles and organs, telling them what to do. Interneurons make connections between sensory and motor neurons. Most neurons in the brain are interneurons.
+
+
+
+Neurons are usually microscopic. So you might ask, “What are the string and thread-like fibers we see when all tissue is removed except the nervous system?” These fibers are nerves and they contain the axons of many neurons. Nerves are bundles of individual information pathways. In many ways these bundles are like telephone cables that contain the wires going to many, many different telephones.
+
+
+
+Figure 3.2 If you imagine a neuron the size of a bedroom, you can get a better idea of a neuron's structure. The largest part of a neuron is the cell body with many dendrites where messages from other neurons come in. A long axon coated by protective glial cells extends from the cell body. At the end of the axon are nerve endings, which send messages out to other neurons.
+
+Did You Know?
+
+Each 16.4 cubic cm (1 cubic inch) of your brain has about 16,000 kilometers (10,000 miles) of axons in it. If you took all the neurons in your brain and placed them end to end, you could send nerve impulses up to the moon and back again. Interneurons may receive messages from a thousand other neurons, and may send their messages to an equal number of other neurons. But each motor neuron usually sends its axons to a single muscle fiber.
+
+
+
+Imagine a neuron the size of a bedroom. A neuron that large would look something like a giant octopus with one very long tentacle. Look at Figure 3.2. The large, central part of the cell is the cell body. Remember this imaginary neuron is as big as a bedroom. Inside the cell body, you would find a nucleus the size of a tennis ball. The short tentacles are dendrites. The long tentacle, the axon, could probably stretch a mile. In a neuron the size of a bedroom, the axon would look like a cable with the diameter of a garden hose. The end of the axon has many little branches, somewhat like the unraveled end of a rope. Each little branch has a nerve ending that makes a synapse with another cell across a gap. In most cases, synapses are made between the nerve endings of one neuron and the dendrites or cell body of another neuron. The nerve endings of a motor neuron, like the one that causes your little toe to wiggle, make contacts with muscle cells.
+
+
+
+
+
+Building a 3-D Model of a Neuron
+
+Use your creativity to design and build a three-dimensional model of a neuron. Your model will need to represent the cell body, axon, and dendrites.
+
+
+
+
+
+Dendrites act as the neuron's receivers or antennas. They receive messages from other nerve cells and send the messages toward the cell body. Dendrites get messages in several ways. Some dendrites are sensitive to temperature, pressure, touch, or chemicals. Some dendrites receive messages from specialized sensor cells such as cells in your muscles that act as “stretch sensors.” But usually dendrites get messages from other neurons. These messages travel as chemicals from a nerve ending at the end of an axon, across a synapse, to a dendrite where there are receptors for the neurotransmitters. A neuron may have more than 10,000 synapses on all its dendrites.
+
+The cell body gets messages from synapses at its dendrites and on the cell body itself. The cell body then decides what the neuron will do. If the cell decides to send a message, it generates a nerve impulse, which is an electrical message. Then the electrical message travels down the axon toward synapses with other cells.
+
+A nerve impulse is an electrical signal. But the electrical signal cannot cross the tiny gap between axon and dendrite at a synapse without help. The neurotransmitters bridge the gap between the axon and dendrite at the synapse. Imagine that a nerve impulse reaches the end of the axon at the synapse. At that point, little sacks containing neurotransmitter molecules open and spill into the gap. Then the chemical messages can cross the gap and link up with receptors on the membrane of the receiving cell. When the link is made between neurotransmitter and receptor, the receiving cell gets the message and can pass it along.
+
+
+
+
+
+You have read about neurons being like a big bedroom with tentacles and a nerve impulse being like an electrical signal. These explanations are analogies, and they help us picture the activities of these parts of the nervous system. What other analogies can you think of to help you know more about neurons? What analogies can you think of to describe a nerve impulse? Draw pictures to illustrate your analogies.
+
+
+
+
+
+What Is a Nerve Impulse?
+
+We have described a nerve impulse as an electrical signal. But it is not like the electrical signals that travel down telephone wires or computer cables. Those electrical signals are extremely fast. They are so fast that they allow you to have a telephone conversation with someone on the other side of the earth.
+
+
+
+Figure 3.3 A neuron receives information from other neurons. The cell body decides to pass the message along, and the axon transmits the message to the nerve endings.
+
+Nerve impulses travel much slower. The nerve impulses are electrically charged atoms (ions) that pass back and forth across the membrane of the axon. You can think of a nerve impulse moving down an axon as something like a “human wave” in a football stadium. To form a “human wave,” one person stands up and sits down. Then the next person stands up and sits down, and so on. In the cell body, at the base of the axon, the neuron starts a nerve impulse by opening paths, or channels, in the membrane. These channels allow electrically charged atoms to move across. After this event occurs, the same thing happens in the next piece of axon, repeating all the way to the axon's end.
+
+Did You Know?
+
+A nerve impulse can travel 1 to 130 meters per second (2 to 280 miles per hour). The reflex neurons send the fastest impulses. Neurons that carry information about muscle aches or the way your clothes feel against your skin send the slowest impulses.
+
+
+
+How fast is a nerve impulse in comparison to a “human wave?” The fastest axons send their impulses at about 100 meters per second. At that speed, a nerve impulse travels about the length of a football stadium in one second, much faster than the “human wave.” Some axons, such as those that carry messages about warmth, cold, and aches, are slower. They send their impulses at about 1 meter per second. It would take about 100 seconds for one of these axons to send an impulse the length of the football stadium. That's definitely slower than a “human wave.”
+
+
+
+Figure 3.4 Chemicals called neurotransmitters bridge the gap (synapse) between neurons.
+
+
+
+
+
+Activity 3-1: Picture a Nerve Cell
+
+
+Introduction
+
+What do you think a nerve cell looks like? Do all nerve cells look and function the same way? In this activity you will explore the structure of a neuron and how it functions. You will make a model of a neuron to help you picture in your mind just how a nerve cell looks and works.
+
+Materials
+
+Markers, crayons; colored pencils
+
+Construction paper
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Draw a picture of a neuron on a piece of notebook paper or colored paper.
+
+Include the following parts and label them.
+
+axon
+
+dendrites
+
+cell body
+
+nucleus
+
+
+
+You may use Figure 3.1 as a guide. Be sure that the neuron covers the entire width of the paper with the ends touching the edges of the paper. Be creative in your drawing. For example, you can include as many dendrites as you want. You may want to use yarn or other materials to represent parts of the neuron.
+
+Step 2 Picture the direction a nerve impulse travels as you draw your neuron. Which path do you think a nerve impulse would take from your neuron to another neuron next to it? Draw arrows on your drawing to indicate the direction of the nerve impulse.
+
+Step 3 Place your paper next to your neighbor's and be sure the edges do not touch each other. This space or gap between neurons is called the synapse (SIHN-apps). A nerve impulse must travel from one neuron to another across a synapse. At the synapse, chemicals called neurotransmitters (NUR-oh-trans-MIT-urs) are released from the axon of one neuron. The neurotransmitters travel across the gap to the dendrites of the next neuron to canyon the nerve impulse. Just as there are many types of neurons, there are many kinds of synapses. Different synapses can use different molecules as neurotransmitters.
+
+Step 4 Look at Figure 3.3. You can see two neurons with a small space between them, which are similar to your paper models. Read Steps (a) through (d) for a closer look at how nerve cells work.
+
+a. Dendrites are extensions of the nerve cell membrane. They are the nerve cell's receivers or antennae. They receive messages from receptors and other nerve cells and send them toward the cell body.
+
+b. Information received by the cell body is then passed to the axon.
+
+c. The axon sends the impulse away from the cell body to the other end of the neuron. So if dendrites are like receivers, then axons are like transmitters that send out information to other neurons.
+
+d. The space between two neurons is called the synapse. Chemicals called neurotransmitters pass the information from the axon end of one neuron to the dendrite end of the next neuron.
+
+
+
+
+
+Some poisonous snakes have venom that can paralyze a person. How do you think the venom affects the nervous system?
+
+What kinds of symptoms do you think a person would have if the axons of his or her nerve cells were damaged?
+
+
+
+
+
+Activity 3-2: Drug Effects on Neurons
+
+
+Introduction
+
+The nervous system is built of neurons. They carry electrical messages throughout the body. Neurons pass messages to other neurons and to other cells by releasing chemicals called neurotransmitters. Drugs can disturb the functions of neurotransmitter's. Neurotransmitters are released from the end of one neuron and travel across the gap (synapse) between neurons. Drugs can have many different effects on these events at synapses. You explore some of those effects in this activity.
+
+Materials
+
+Signs that read
+
+Message Sender
+
+Message Receiver
+
+Dopamine Pump
+
+Cocaine
+
+
+
+Tennis balls (about 20 to 30)
+
+2 chairs
+
+Scissors
+
+Yarn or string
+
+Resources 1, 2, and 3
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Read Resource 1.
+
+Step 2 Look at Resource 2, Normal Transmission of Dopamine, as your teacher explains the process. Make sure you understand how dopamine is transferred from one neuron to another neuron across the synapse.
+
+Step 3 Look at Resource 3, Cocaine's Effect on Neurons, as your teacher explains the process.
+
+Step 4 Your group will be assigned a specific classification of drugs (stimulant or depressant). Discuss the following questions in your group.
+
+Is the drug a stimulant or a depressant?
+
+Use your text to determine what effect this drug type has on a neuron.
+
+Does the drug speed up or slow down the transmission of dopamine? Explain.
+
+
+
+Step 5 Your group will teach the rest of the class what you have learned. Create a demonstration that illustrates the effect a specific drug has on the neurons. Decide what roles are necessary to successfully demonstrate the idea. Make your performance interesting for the class. Be creative. For example, your presentation can include music and the script can be a song, poem, or role-play.
+
+
+
+
+
+Review Questions
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+Name and describe the three basic parts of a neuron.
+
+What is a synapse?
+
+Why are the neurotransmitters important?
+
+Why are nerve impulses like a “human wave in a sport's stadium?”
+
+
+
+
+
+Reflexes: Neurons in Action - Student Edition (Human Biology)
+
+
+
+
+
+Reflexes: Neurons in Action
+
+
+
+
+What is a reflex?
+
+You touch a hot dish and jerk back your hand. You smell French fries and your mouth waters. The doctor taps your knee and your foot kicks out. What's happening? In this section you will find out. You will explore how your body reacts to different kinds of situations.
+
+Did You Know?
+
+Have you ever jumped when you heard a sudden loud sound? When something surprises you, your brain protects you through a startle reflex. Your muscles contract, your head moves, your heart beats faster, your eyes open wider, and your body jumps before your brain knows what made you jump. Your brain can even help protect your ears from the damaging effects of loud sounds by causing tiny muscles in your ears to contract and dampen the effect of the sound.
+
+
+
+Your nervous system has groups of neurons that work in circuits to send out and receive information. In these circuits, information goes to the brain or spinal cord, and information about what to do comes back. The simplest circuits in the nervous system are reflexes. A reflex is an automatic reaction to a stimulus . A stimulus is something that causes an action. In a simple reflex, a neuron brings information about a stimulus to the brain or spinal cord and connects with a motor neuron. The motor neuron sends out a message to a muscle. The muscle responds to that message by contracting.
+
+You may remember that the cerebral cortex plans and controls your behavior. But reflexes do not involve the cortex. Reflexes don't require thinking. Reflexes allow you to react automatically to a stimulus. Although reflexes are the simplest way your nervous system controls your behavior, all reflexes are not simple.
+
+Did You Know?
+
+Babies born in a hospital are examined right after birth and given an Apgar score. The Apgar score indicates their general health and reflex activity. An Apgar score evaluates appearance (color), heart rate, grimace (reflex responsiveness), muscle activity, and respiration effort (how strong a baby's cry is).
+
+
+
+How Reflexes Work
+
+You have many reflexes. In fact, much of your behavior is made up of reflexes that protect you from danger in some way. For example, gravity tries to make you fall over all the time every day. Without your having to think about it, your body constantly makes adjustments to keep you on your bicycle or even just in your chair. Simple reflexes make you blink when something gets too close to your eye and make you close your eye when dust gets into it. Vomiting is a more complex reflex that protects you from dangerous things in your stomach or throat.
+
+
+
+
+
+The Knee Jerk Reflex
+
+Sit on a sturdy table and let your legs dangle, hanging completely relaxed. The reflex won't work properly if you are tense.
+
+Use your fingers to tap just below your kneecap, as shown. What happens? Try squeezing your hands together and have someone else tap your knee.
+
+
+
+
+
+Figure 4.1 Tapping the knee will set off the knee jerk reflex.
+
+Let's look at a simple reflex. The knee jerk reflex is a good model to demonstrate how all reflexes work. You can see how this reflex works in Figure 4.1. Your doctor tests the knee jerk reflex to check muscle response to nerves in your legs, back, and spinal cord. You can test your own knee jerk reflex in the Mini Activity: The Knee Jerk Reflex.
+
+Once Started, Reflexes Go All the Way to Completion
+
+Remember that all reflexes need something to get them started. This is called a stimulus. Tapping your knee, touching a hot grill, or smelling something unpleasant can stimulate or trigger sensory neurons. If the stimulus is strong enough, the reflex is started. Once started, the reflex goes to completion.
+
+Starting a reflex is something like lighting a firecracker. If the fuse gets hot enough, it burns. The fuse can be lit with a spark, a match, or a blowtorch. But once the fuse is lit, the firecracker explodes. Once triggered, a reflex completes itself in a very short time without your having to think about what to do.
+
+Sometimes you can hold back your reflexes. For example, you may be able to stop your knee jerk reflex if you think about it when your knee is tapped. Another example is a cough. Have you ever felt the need to cough while you are taking an exam? Every time you cough, the other people taking the exam look at you. So the next time your throat tickles, you hold back the cough. You can hold back for a little while, and then it happens again. You manage to not cough again. But the next time, the tickle (the stimulus) is too strong, and you have to cough (the reflex). You just can't help it. Some reflexes are easier to control than others.
+
+
+
+
+
+How many reflexes can you think of? Work in small groups or in pairs to list as many as you can. Group them into categories that show how the reflexes protect you. Decide which are easier to control than others. Then share your list with the class.
+
+
+
+
+
+Every reflex, whether it is simple or complex, has five parts. These parts take place in a specific order. In order, the five parts of a reflex are sensor, sensory neuron, control center, motor neuron, and muscle. These five parts work as a relay team to take information from the sensor to the spinal cord or brain and back to the muscles. You can use your thumb and fingers to remember the sequence that is shown in Figure 4.2. The complete sequence is called a reflex arc. Now let's see how these parts work together to create the knee jerk reflex.
+
+
+
+Figure 4.2 You can use your thumb and fingers to remember the five parts of a reflex arc.
+
+First Part of a Reflex Arc: Sensor
+
+Reflexes start in structures called sensors. These structures detect one kind of energy such as touch, stretch, heat, light, smell, and vibration. Some sensors are neurons, and they fire nerve impulses when stimulated. Other sensors are not neurons but can signal nearby sensory neurons when they detect their specific stimuli. All information about the world inside and outside your body has to be changed into nerve impulses before that information can be used by the circuits of your nervous system.
+
+When you tap your knee, you stretch the tendon that connects your quadriceps muscle to your tibia, the largest bone in your lower leg. Stretching the tendon stretches the muscle, and stretch sensors in the muscle detect this change. The stretch sensors are not neurons. They are special muscle cells that stimulate the sensory nerves to fire impulses.
+
+Second Part of a Reflex Arc: Sensory Neuron
+
+Each reflex has a sensory neuron. The sensor may be the nerve endings of the sensory neuron, or the sensor is another kind of cell that signals the sensory neuron. The sensory neuron begins a nerve impulse that travels to the spinal cord or the brain. Sensory neurons take messages to the spinal cord or brain from sensors in the eyes, ears, muscles, skin, and other body parts. The sensory neuron in the knee jerk reflex sends its messages to the spinal cord.
+
+
+
+Figure 4.3 in the knee jerk reflex, a light tap (the stimulus) on the front part of your knee sends messages to your nervous system. The message responsible for the reflex goes through the spinal cord, and back out to your leg. The muscle on the top of your thigh contracts and your leg kicks forward. Traveling more slowly, the message from the tap also goes to your brain, where you realize, and react to, what has happened.
+
+Third Part of a Reflex Arc: Control Center
+
+In the spinal cord, the sensory neuron splits into at least three branches. Each branch forms a synapse with one of three different kinds of cells. In the case of the knee jerk reflex, one branch connects to a cell called an interneuron. The interneuron sends a message up the spinal cord to let the cerebral cortex know what is happening. Another branch goes to the motor neuron for the quadriceps muscle on the front of the thigh. The third branch goes to another interneuron that makes a connection to the motor neuron going to the biceps femoris muscle on the back of the thigh.
+
+Neurons in the brain and spinal cord control reflexes by receiving information and deciding if the stimulus is strong enough to command a response. Sometimes the neurons in the brain and spinal cord combine information from different sources. That is why you can sometimes hold back a reflex like a cough or keep your eyes open when the eye doctor asks you to, even though an instrument is close to your eye. Information from the cortex tells the controlling neuron in the reflex arc not to respond.
+
+The cerebral cortex is an important control center. Messages come from your eyes, ears, skin, and muscles. These messages travel along sensory neurons to get to the cortex. The cortex processes all these messages in networks of interneurons that decide how to respond. In making these decisions, the cortex also uses information from memory. The cerebral cortex is not involved, however, in completing a simple reflex like the knee jerk reflex. Let's see how that happens.
+
+Fourth Part of a Reflex Arc: Motor Neuron
+
+The fourth part of the knee jerk reflex arc is called the output phase. Three things happen at once during the output phase.
+
+The nerve impulse to the motor neuron travels out to the quadriceps.
+
+The nerve impulse is carried along an interneuron a short distance to the motor neuron for the biceps femoris muscle on the back of your leg.
+
+A message traveling along interneurons starts its long trip to the cerebral cortex.
+
+
+
+You can follow these steps in Figure 4.4.
+
+
+
+Figure 4.4 The five steps of the knee jerk reflex arc.
+
+
+
+
+
+Identifying Parts of a Reflex
+
+Go back to your list of reflexes from Apply Your Knowledge . Pick two reflexes and identify the five parts of those reflex arcs.
+
+
+
+
+
+Fifth Part of a Reflex Arc: Muscle
+
+A message from a motor neuron tells your muscles to contract. In the knee jerk reflex, the muscle contracts when the nerve impulse reaches your quadriceps muscle. This muscle contraction should move your leg forward. But your leg won't move forward if the opposing biceps femoris muscle is also contracted. An interneuron tells the biceps motor neuron not to send nerve impulses to keep the biceps muscle relaxed. As the quadriceps muscle contracts, the biceps relaxes, and your leg moves forward as shown in Figure 4.4. All these events occur before the message about what is happening arrives in your cortex.
+
+Reflex arcs need an interneuron to turn off one reflex to make room for another. An interneuron that turns off, or inhibits, a reflex is called an inhibitory interneuron. In the vomiting reflex, inhibitory interneurons keep you from breathing at the wrong time. Other inhibitory interneurons keep your hand from squeezing a hot grill, as muscles on the back of your hand contract to pull the hand away. Reflexes protect your body. Inhibitory interneurons help reflexes work the right way every time.
+
+So the reflex arc consists of these five steps in order-sensor, sensory neuron, control center, motor neuron, and muscle. These five parts work as a relay team to take information up from the sensor to the spinal cord or brain and back down to the muscles.
+
+
+
+Figure 4.5 The knee jerk reflex can be summarized in a diagram that shows the neural connections. The numbers refer to the 5 parts of a reflex are, a “+” means the synapse is excitatory and a “-” means the synapse is inhibitory. Because there is an inhibitory synapse in the path to the biceps muscle, it relaxes in response to the knee jerk stimulus.
+
+
+
+
+
+React First, Think Later A nerve impulse from your big toe can travel to your spinal cord at a speed of 448 kilometers per hour (280 miles per hour). How long will it take for your spinal cord to get the message that you stubbed your toe? You can figure it out by dividing the distance the nerve impulse must travel by the speed it moves. Measure the distance from the end of your big toe, around your heel, and up your back until even with your belly button.
+
+
+
+
+
+Now you have a good idea of what a reflex arc is and how it works. A conscious action works like a reflex but is slightly more complicated because your brain plays a larger role. Think about running a race. You use your cerebral cortex to make plans for the race. Just before the race starts, your cortex reminds you to check your shoelaces and get into the right starting position. Your cortex also anticipates the race and makes your heart beat faster even though you are standing still. Everyone is in line and you're feeling nervous. Then the starter's gun goes off. That sound is carried to the hearing part of your cortex. The hearing part of the cortex interprets the sound and sends messages to the motor region of the cortex. Motor commands from your cortex go down your spinal cord and out to the muscles you use to run. While you run, many reflex arcs coordinate the use of your muscles, control your breathing and heartbeat, and even make you sweat as your body temperature rises.
+
+Figure 4.6 shows the five steps involved in any action your body takes. You can see that for you to perform any activity, your brain must constantly process information. Section 5 of the text will explore the eyes and ears as examples of how the body and cortex gather information.
+
+
+
+Figure 4.6 Any responsive action your body takes uses a 5-step reaction.
+
+Sensor hears starting gun.
+
+Auditory nerve transmits information to brain.
+
+Auditory cortex in temporal lobe processes information and sends it to motor cortex in frontal lobe.
+
+Motor neurons carry messages to muscles.
+
+Muscles react and the runner is off!
+
+
+
+
+
+Sometimes in addition to tapping your knee to make sure you have healthy reflexes, the doctor tickles the bottom of your foot. Why is that?
+
+
+
+
+
+Activity 4-1: How Fast Is Your Reaction lime?
+
+
+Introduction
+
+Your reaction time is the amount of time it takes for your brain to receive a signal from one of your senses and make your body do something in response. You can use a 20-centimeter metric ruler to measure your reaction time.
+
+Materials
+
+20cm ruler
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Place your arm on a tabletop with your hand extended over the table's edge. Have a friend or family member hold the ruler so that the zero end is exactly between your thumb and forefinger. Do not grasp the ruler, but be ready to catch it when your partner drops it.
+
+Step 2 Concentrate on your partner's fingers. When he or she lets go, catch the ruler as fast as you can. Repeat this five times.
+
+
+
+Figure 4.7 Be ready to catch the ruler as it is dropped.
+
+Each time, record on the Activity Report the reading on the ruler.
+
+Step 3 Switch roles with your partner and repeat the procedure.
+
+Step 4 On the Activity Report, graph your results, showing mean values and range of values.
+
+
+
+
+
+What happens when someone throws a ball at you and you blink? Trace the path the message takes through your nervous system.
+
+
+
+
+
+Review Questions
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+What is a reflex response to a stimulus? Give three examples, describing both the stimulus and the reflex.
+
+Name the five parts of a reflex in order.
+
+What is the difference between a sensory neuron and a motor neuron?
+
+If you touch a hot stove, why do you pull your hand away before you feel pain?
+
+What role does an inhibitory interneuron play in a reflex?
+
+
+
+
+
+Sensation - Student Edition (Human Biology)
+
+
+
+
+
+Sensation
+
+
+
+
+How do you sense the world around you?
+
+How do you know about the world outside your brain? You see it. You touch it. You smell it. You hear it, and you taste it. Sensory organs, such as your eyes and ears, or sensors like those in your skin and muscles are windows to the world. The world is what your senses tell you it is. This section explores how your nervous system gathers information about your body and the world around you through the flow of sensory information.
+
+Think about taking a hike with your dog. It is late afternoon and there is a beautiful sunset. You stop to look at the sunset, and the dog sniffs around in the bushes. The dog does not see colors, but it has a keener sense of hearing, and its sense of smell is 100 times greater than yours is. At the same moment, in the same place, the world that you and your dog are experiencing is different.
+
+
+
+
+
+Your brain associates a sensation with stored information in your brain memories. Write a journal entry about your favorite color. Include descriptions of how the color might feel, taste, smell, and sound. What association does your brain make with your favorite color?
+
+
+
+
+
+What is sensation? A sensation is your experience of what the sensors tell the brain about you and your world. Sensations include seeing, hearing, touching, smelling, balancing, and more. The cerebral cortex enables you to identify, distinguish, and feel sensations. Nerve impulses are all the same. But they mean different things depending on where they go in your brain. Impulses for different sensations, such as touch, pain, sound, light, and smell, go to different parts of your cerebral cortex.
+
+Sensory neurons and sensory receptors, such as cells in the eyes and ears, code information as nerve impulses. These nerve impulses carry information to the spinal cord and brain. When the information gets to your cortex, it is interpreted as a sensation.
+
+
+
+
+
+Activity 5-1: Using Your Sensors
+
+
+Introduction
+
+What would you be like without the use of your eyes, ears, or other senses? Your sensors are the important “windows” and “doors” to your environment. Your sensors help you receive information from the world around you. Your sensors do this by responding to a stimulus and turning it into nerve impulses sent to your brain. In this activity you will design an experiment to investigate what happens when you sort objects without using one of your sensors.
+
+Materials
+
+Objects of a variety of shapes and sizes
+
+Gloves (wool or thick cotton)
+
+Blindfold
+
+Clock
+
+Activity Data Table
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 With your lab partners, discuss how the sense of touch helps you receive information from your environment.
+
+Step 2 Your task is to sort a group of objects that have similar but different sizes and shapes. The sorting must be done within a limited time period, both with and without the sense of touch and vision.
+
+Step 3 Consider the following questions as you design your experiment. Remember that the sense of touch is your variable, the factor that you are investigating.
+
+How will you sort the objects both with and without your variable-the sense of touch?
+
+Determine the number and size of objects needed for sorting.
+
+Which extra materials will you need?
+
+How much time should be allowed for each sorting?
+
+Who on your lab team will be the sorter? Who on your lab team will be the timer? Who on your lab team will be the recorder?
+
+What kind of data table will you need to summarize your data?
+
+
+
+Step 4 Write down a description of your materials, experimental procedure, and a data table. Show this to your teacher for suggestions and approval.
+
+Step 5 Write a hypothesis, your best guess, to predict what you think will happen in your experiment. Be sure to include reasons in support of this hypothesis.
+
+Step 6 Carry out the experiment you have designed and record the data on your data sheet. Make notes of any questions or problems as you are working.
+
+Step 7 Repeat Steps 1 through 6 for the sense of vision.
+
+Step 8 When you are finished, clean up your materials as directed by your teacher.
+
+Step 9 Complete the Activity Report.
+
+Did You Know?
+
+Brain tissue itself has no pain sensors. A surgeon can operate on the brain using only a local anesthetic for the tissues surrounding the brain.
+
+
+
+How Do Sensory Nerves Work?
+
+Imagine sitting at NASA's Mission Control. You pick up a ringing phone. A voice says, “The space shuttle is now over Sydney, Australia.” With this information, you can plan the future orbit of the space shuttle. In this case, the phone line works like a sensory nerve. The sensor is the phone in Sydney. It codes the speaker's words into electrical pulses. The phone in your hand translates these pulses back into speech you can understand. The pulses move through the phone line as electricity, not as words. Your sensory nerves work in a similar way.
+
+
+
+Figure 5.1 The right side of your brain controls the left side of your body.
+
+Remember that your sensors can only send one kind of message-nerve impulses. So how would you know (without looking) whether a creature standing on your foot is a mouse or an elephant? You can figure out the answers to these questions based on things you have already learned. First, if the stimulus comes into contact with a larger area of your body, more sensors will send nerve impulses to the cerebral cortex. Remember the map of the body surface on the cerebral cortex? More of that map will receive messages when more of the body is stimulated. The elephant's footprint on the cortex map will be larger than the mouse's footprint! How hard the stimulus is pressing on your foot is coded by how fast each sensor produces nerve impulses. Think of how you might let a performer know how much you enjoyed the performance. If it was just OK, you might clap your hands slowly just to be polite. But if you thought the performance was terrific, you would clap your hands much faster. A single sensor codes the strength of a stimulus by how frequently it sends nerve impulses along the sensory neuron.
+
+Now think again about the map in your cerebral cortex. Remember that parts of your body are represented by maps in your brain. Figure 5.1 shows how the right half of your brain represents the left side of your body. The sensory nerves from one side of your body go to the opposite side of your brain. Similarly, the motor nerves from one side of your brain go to the opposite side of your body.
+
+Messages from sensors pass through sensory pathways all the way to the cerebral cortex. Look back at the cortex map in Figure 2.12. Remember the strip of cortex that receives information from your skin, your joints, and your muscles. This strip contains a map of your body with the head represented on the lower part and the lower part of the body represented on the top. Also remember that the left side of the body is represented on the right side of the cortex, and the right side of the body is represented on the left side of the cortex. Now, recall the areas of the cortex that receive messages from your eyes and ears. The visual area is in the very back, and the hearing areas are on the sides. In the rest of this section you will explore the eyes and ears as examples of how your senses pick up information from the outside world and transmit it to your brain.
+
+Did You Know?
+
+A person who has lost a limb can sometimes still feel pain sensations as if it were still there. This is known as phantom pain. Sensory neurons still go from the missing limb to the spinal cord. At the spinal cord, the sensory neurons connect with interneurons that travel to the cerebral cortex. If something causes the cut sensory neurons to produce nerve impulses, those impulses will travel to the cortex area for the limb. The person will feel the sensations as if they came from sensors in the missing limb. It's the map in the brain that feels the sensations, not the limb itself.
+
+
+
+
+
+Use Your Sensors
+
+Sit quietly and close your eyes for a few minutes. When you close your eyes, you shut down an important sensory “window.” Now you can pay attention to other sensors your body has that send your brain information. Perhaps you hear a quiet sound you didn't hear when your eyes were open. Maybe you notice your shoelaces are too tight. You may realize that you are thirsty. Make a list of all the things you sense without sight or movement.
+
+
+
+
+
+Seeing the World
+
+Your eyes bring you a great deal of information about the world around you. They work constantly while you are awake. People with sight depend heavily on that sense to survive, while those without sight develop their other senses to compensate. How do eyes work? How does your brain handle all the information the eyes provide? Let's start by discussing how the eye works, and the role of the nervous system in vision.
+
+
+
+Figure 5.2 You can see some eye parts by just looking into the mirror at your own eyes. Turn off the lights for a minute. Then turn them on while looking into the mirror. Can you see your iris close to protect the retina from too much light?
+
+
+
+
+
+Activity 5-2: Designing and Building a Model of the Eye
+
+
+Introduction
+
+What are the parts of the human eye? How do these different parts work? What can happen if some parts of the eye are not working properly? What can you do to help keep your eyes healthy and safe? In this activity you design and build your own model of the human eye to answer these questions.
+
+Materials
+
+Resource
+
+Construction materials (as requested by students)
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Within your group, discuss the structure of the human eye and how it functions. Use the Resource and Figure 5.3 as a guide.
+
+Step 2 Do the following tasks to prepare to build a three-dimensional model of the human eye that is both accurate and realistic.
+
+Brainstorm ideas for how you could design a three-dimensional model of the eye.
+
+Draw a sketch of your design.
+
+Prepare a preliminary list of materials you will need.
+
+Decide who will do what.
+
+
+
+Step 3 Present your design to the rest of the class. Ask for suggestions on how to improve your model. Add these changes to your plans.
+
+Step 4 Create a final list of materials you will need to build your model eye. Check with your teacher for approval of the list before continuing.
+
+Step 5 Follow your teacher's directions to obtain the materials you need.
+
+Step 6 When you have finished your model eye, use it to discuss the following questions with your lab partners.
+
+What are the functions of the eye?
+
+What are the important parts of the eye?
+
+How does the eye work to help us see?
+
+How is your model eye similar to and different from a real human eye?
+
+
+
+
+
+Pupils in a Different light
+
+How do your eyes control the amount of light entering the eye to help you see? Complete the steps below to answer this question.
+
+First look into the eyes of a classmate, a friend, or a family member to locate the pupil. The pupil is the small black circle surrounded by the colored iris. Note the size of the pupil and use a ruler to estimate its diameter. Under which conditions are the pupils the largest? Under which conditions are the pupils the smallest?
+
+
+
+
+
+Figure 5.3 You can see more parts of the eye by looking at its cross section.
+
+Parts of the Eye
+
+Figures 5.2 and 5.3 show the parts of the eye. The eyeball has a hole in the front to let in light. The hole is the dark spot in the center of the eye, called the pupil. The cornea (KOR-nee-uh) is a clear protective sheath that covers the iris and pupil. The iris is the colored ring around the pupil. Light passes through the cornea and the pupil to get inside the eyeball. Depending on the amount of light around you, the iris opens or closes the pupil. In bright light, the pupil is small. In the dark, it is bigger. Just behind the iris is the lens. The lens is an elastic, naturally curved tissue controlled by tiny muscles (ciliary muscles). When you look at something far away, these muscles relax and the lens has only a slight curve. When you look at a nearby object, the muscles contract, causing the lens to curve out more.
+
+Did You Know?
+
+Humans have two eyes on the front of their heads in order to have good depth perception. But this eye position means that humans have a limited field of view. Some animals, such as rabbits, have their eyes positioned on the sides of their heads, giving them a huge field of view, but limited depth perception. A large field of view strengthens an animal's ability to protect itself. Better depth perception strengthens an animal's ability to hunt.
+
+
+
+Together, the cornea and the lens focus light on the back inside part of the eye, the retina (RET-ihn-uh). Figure 5.3 shows a cross section of the eye and Figure 5.4 shows a cross section of the retina. Sensor cells sensitive to light line the retina and capture the light energy that falls on them. These sensor cells are specialized neurons called rods and cones. You have about 120 million rod cells and 7 million cone cells. When stimulated, these cells send impulses to your cortex. Other neurons in the retina process the information collected by the rods and cones before sending nerve impulses to the brain. All of the axons taking these nerve impulses to the brain leave the back of the eyeball at the same place, making up the optic nerve. Have you ever heard of someone having a blind spot? As a matter of fact, you have one blind spot on each retina. The blind spot is an area on the retina where the optic nerve begins. There are so many axons where the optic nerve begins that there is no room for rods and cones. So it is a blind spot.
+
+
+
+Figure 5.4 (a) The retina is layers of neurons that line the inside rear of the eye. Cone cells are the optic nerve sensors. (b) The position of the blind spot is on the retina where the optic nerve begins.
+
+
+
+
+
+What Are the Advantages of Two Eyes?
+
+Find a partner to play catch with. Before playing, have each person cover one eye with a piece of paper taped over the eye. Toss a ball back and forth. What happens? Find something smaller to play catch with, such as a table tennis ball. Can you do it? What is difficult? What can two eyes provide that one cannot?
+
+
+
+
+
+How does your cerebral cortex distinguish light, dark, and color? At night you see with your rods. They work in dim light, allowing you to see light and dark areas. However, rods are not sensitive to color. In brighter light you see with your cones. Cones enable you to see color. Cones also help you see sharply focused images such as the letters on this page. Have you ever tried to read in dim light? It is difficult because you can only use your rods. Cones need much more light to work than rods.
+
+You experience a shift between seeing with your cones and seeing with your rods at various times. For example, at sunset and at sunrise or when the lights are dimmed in a movie theater before the movie comes on, you shift from seeing with your cones to seeing with your rods. The next time you watch a sunset, notice that as the sky gets darker, the colors of objects nearby seem to become less vivid and then fade out completely. In dim light, you can't tell a blue book or car from a red one or a green one. You can only say one is lighter or darker than the other. As the light dims, it gets too low to stimulate your cone cells. Finally, at a specific level of light, you can no longer see color. But you can still see, because your rod cells are more sensitive to light than are cone cells. Instead of color, though, you can only see a world of different shades of gray-no colors. The reverse happens, of course at sunrise or when the bright picture of the movie comes on the theater screen.
+
+
+
+
+
+Eye Dominance
+
+Just as you are right- or left-handed, you are also right- or left-eyed. Make a circle with your finger and your thumb. Hold the circle at arm's length in front of your face. Look through the circle and focus on a distant object, such as a clock. Now, close your right eye. What do you see? Close your left eye. What do you see? The eye which sees the object best is the dominant eye.
+
+
+
+
+
+Most people have three types of cones that detect color. One type of cone is sensitive to red light, another to blue light, and another to green light. All three types of cones are needed for normal color vision. Most people can distinguish between 150 and 200 colors. A person born with only one or two types of cones cannot see certain colors, a condition known as color blindness. In humans, color blindness is a genetic condition that is inherited from a parent. Many animals, especially those animals that are active at night, are completely color-blind.
+
+Did You Know?
+
+The eyelids, which protect, moisten, and clean your eye, blink in of a second.
+
+Your tear glands constantly produce tears to cleanse and moisten the eye. When you cry, your nervous system tells your tear glands to produce more tears. Some of the tears run down your face, but most drain into your nose and throat. That's why you often get a runny nose when you cry.
+
+
+
+
+
+Owls are completely color-blind. What does this imply about the structure of the eyes of owls?
+
+
+
+
+
+Did You Know?
+
+If the lens in your eye doesn't work just right, you might need glasses. If your lens doesn't bend light so that you can see objects up close, you are farsighted. If you can't see faraway objects because your lens bends light too much or in the wrong way, you're nearsighted.
+
+
+
+Your eye works a little like a camera. The lens turns the image of the world upside down and makes it small so that it comes into focus on your retina. In one central area of your retina, called the fovea (FOH-vee-uh), there is a high concentration of cones. The fovea lines up with the lens so a focused image of the world in front of you falls on this part of the retina. The picture from your retina is turned into nerve impulses that pass through sensory nerves. The nerve impulses go from the retina to the cortex of the occipital lobes of the cerebrum, called the visual cortex. Your visual cortex interprets the nerve impulses and tells you what you are seeing.
+
+
+
+
+
+If you can read all the letters in the smallest line of letters on an eye chart at a distance of 20 feet, you have vision. What does vision mean?
+
+
+
+
+
+Activity 5-3: Exploring a Mammalian Eye
+
+
+Introduction
+
+What does an eye look like? How does it work? How could you find out? Biologists often study the organs, processes, and behaviors of other animals to increase their knowledge of humans. In this activity you design a procedure to examine and dissect an eye specimen. You describe the procedure you will use and list the materials needed. Finally, you carry out your dissection and record your work with drawings, labels, and written comments.
+
+Materials
+
+Sheep or cow eye
+
+Paper towels
+
+Dissection pan
+
+Scalpel (single-edged cutting tool)
+
+Forceps
+
+Scissors
+
+Needle or metal probe
+
+Resource
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 With your partners, discuss the structure and function of the human eye. Use your text and other references to make sure you are familiar with each part of the eye and what it does. Consider the following questions.
+
+How would you examine the structure of an eye?
+
+Which questions would you want to ask?
+
+Where could you go for more resources?
+
+
+
+Step 2 With your partners, design a procedure that describes where you will obtain an eye specimen and how you will dissect it. Include a list of the materials needed and indicate which person is responsible for each task involved in the dissection.
+
+Step 3 Show the procedure to your teacher and ask for additional comments, suggestions, and approval.
+
+Step 4 Complete the eye dissection as indicated in your procedure. Be sure to include written statements and drawings as you work. Also, add any suggested changes to improve the procedures.
+
+Step 5 When you have finished this activity, turn in your lab report and follow your teacher's directions for cleanup.
+
+
+
+Figure 5.5 Diagram of the eye
+
+Hearing the World
+
+What do your ears do? Ears convert sounds into nerve impulses. The converted nerve impulses travel to the temporal lobes where they stimulate the areas that are responsible for hearing. These areas of the cerebral cortex are called the auditory cortex.
+
+A noise or sound starts when an object vibrates (moves back and forth). The vibrating makes pressure waves in the air. Have you ever felt a guitar string vibrate? Have you ever placed your finger on a ringing bell or on a piano while someone plays it? Have you ever gently touched the speaker of a stereo while music was playing? If you have done any of these things, you felt the vibrations that create pressure waves in the air. Those pressure waves are sound waves.
+
+Did You Know?
+
+Most species of animals do not make or hear sounds.
+
+
+
+Have you ever tossed a stone into water? Sound waves are somewhat like the ripples a stone causes when thrown in water. The ripples move out from where the stone made the original splash. In a similar way, sound waves move out from a vibrating source. A toy spring can also help you think about sound waves. Hold one end of the spring with the other end on the ground. If you wiggle the end in your hand, waves move down the spring as it is compressed and stretched. Like the waves in the spring, sound waves are compression waves. Air molecules tend to be evenly spaced. But they can be pushed back and forth by something such as a vibrating stereo speaker. As the vibrating speaker moves back and forth, it pushes air molecules together and then pulls them farther apart. This push and pull of the air molecules creates a compression wave in the air.
+
+Did You Know?
+
+Your outer ear canal is about 2.5 centimeters (1 inch) long.
+
+
+
+Parts of the Ear
+
+Look at the parts of the ear shown in Figure 5.6. The only part of your ear that you can see from the outside is the flap (auricle) or pinna. The pinna is the part that surrounds the hole that goes into your skull. The pinna collects sound waves and funnels them into the ear hole, which is the beginning of the ear canal. At the end of each ear canal is the eardrum. The eardrum is a thin piece of skin stretched across the ear canal. Sounds traveling through the ear canal make the eardrum vibrate.
+
+
+
+Figure 5.6 The pinna and ear canal are parts of the outer ear.
+
+
+
+Figure 5.7 Sound waves move through the outer and middle ear to the inner ear, where they cause tiny hairs to wave back and forth. These tiny hairs attach to sensors, which send nerve impulses to the brain.
+
+Behind the eardrum is a space filled with air. This space is called the middle ear. The air that fills the space comes from the back of your throat, up, and through your Eustachian (yoo-STAY-shun) tube. Three tiny bones called the hammer, anvil, and stirrup cross the middle ear from the back of the eardrum. These tiny bones move whenever the eardrum moves. The bones carry vibrations from the eardrum to two tiny “windows” that lead into the inner ear, which is called the cochlea (KOH-klee-uh). The inner ear is a coiled tube filled with fluid. A membrane lined with tiny hairs that are attached to sensors runs down the center of the fluid-filled tube.
+
+
+
+
+
+Why do deer and rabbits have such oversized ear flaps? Why do you cup your hands behind your ears when you want to hear better?
+
+
+
+
+
+How Does Hearing Happen?
+
+Here are the steps in the hearing process.
+
+Sound waves come into the ear, pass through the ear canal, and strike the eardrum. The eardrum vibrates in response to the sound waves. In fact, it vibrates differently depending on the kind of sound. For example, high-pitched sounds, such as a scream, cause the eardrum to vibrate very quickly. Low-pitched sounds, such as a drum, cause the eardrum to vibrate very slowly.
+
+The vibrations of the eardrum cause the hammer, anvil, and stirrup to move.
+
+The stirrup attaches to a membrane-covered window leading to the inner ear. When the stirrup moves, it causes the membrane over the window to move in and out.
+
+Movements of the window cause the fluid of the inner ear to move. The cochlea is a long, curving tube. Down the center of the tube is a flexible membrane lined with hairs attached to sensors. When fluid in the cochlea moves, it causes the membrane to flex, which bends the sensor hairs. The sensors are sensitive to how much the hairs bend. Loud sounds bend them more than soft sounds.
+
+Sounds of different frequencies cause different sensors to bend. Some sensors code high-pitched sounds. Other sensors code the low-pitched sounds. When the window to the cochlea moves in and out very fast, the membrane in the cochlea tube flexes close to the window. This flexing causes sensors in the region to bend. When sound has a lower pitch, the cochlear window moves in and out slower. The sensors farthest from the window flex when the window moves in and out slowly. The sensors close to the window flex when the window moves faster. So the sensors close to the window code high-pitched sounds (treble). And the sensors farthest from the window code low-pitched sounds (bass).
+
+These sensors send impulses to the brain, where your auditory cortex interprets them as sound. Sensors stimulated by high-pitched sounds (located close to the windows) send their nerve impulses to one area of the hearing map in the auditory cortex. Sensors stimulated by low-pitched sounds send their nerve impulses to another part of the hearing map on the auditory cortex.
+
+
+
+
+
+How do you think the loudness of a sound is communicated to the auditory cortex?
+
+
+
+
+
+Your two ears hear sounds coming from one direction at slightly different times. One ear hears the sound about of a second sooner than the other ear does. Your brain interprets this difference as position. Another clue your brain can use is a difference in the loudness of the sound arriving at your two ears. When a sound comes from the side, your head acts as a sound barrier for the ear on the opposite side.
+
+How Can loud Sounds Damage Your Ears?
+
+Now we can explain how loud sounds, such as amplified music, can damage your ears. Do you remember the flexible membrane running down the center of the fluid-filled cochlea? Do you remember also that depending on the pitch of a sound, this membrane vibrates at different places along its length? At each place, tiny hairs move and send nerve impulses to the brain. These sensor hairs are very fragile and can be damaged. Exposure to loud sound (more than 100 decibels) for long periods of time can damage hairs at specific places along the membrane, causing deafness to specific frequencies of sound. Study the decibel scale on this page to compare the loudness of different sounds.
+
+
+
+Figure 5.8 The sound of a particular frequency causes the cochlear membrane to flex at a specific point, which bends sensory hairs.
+
+Decibels Sound Source
+
+130 40 kw siren (30 meters away)
+
+125 Amplified music
+
+120 Jet takeoff (80 meters away)
+
+110 Riveting machine, large circular saw
+
+100 Subway train (7 meters away)
+
+90 Low aircraft flying over
+
+80 Pneumatic drill (15 meters away)
+
+70 Vacuum cleaner (3 meters away)
+
+60 Freeway traffic
+
+50 Light traffic (30 meters away), in-home noise, urban industrial area
+
+40 In-home noise, urban residential area
+
+30 In-home noise, quiet suburb
+
+20
+
+10
+
+0
+
+Threshold of hearing
+
+Figure 5.9 Decibel scale for selected sources.
+
+Protecting Your Hearing
+
+Your hearing is very important to you. Put earplugs in your ears for a while and try to imagine what it would be like to have to live all of the time with greatly reduced hearing. It would be difficult, and it would be dangerous. Sometimes you may be able to hear danger coming before you can see it. We know how important our hearing is. Even so, sometimes we don't take very good care of it.
+
+Sticky ear wax and tiny hairs protect your ears from dust and other particles that enter the outer ear. Your eardrum, the tiny bones in your middle ear, and the sensor cells in your inner ear are all very delicate and can be damaged easily. Poking things in your ear can damage your eardrum. Infections that come up your Eustachian tube from your throat can damage your middle ear. Swimmers sometimes have trouble with middle ear infections because dirty water gets into their mouths and up their Eustachian tubes.
+
+Loud sounds can damage the middle ear bones and the sensors in the inner ear. People who work near jet engines at the airport wear ear protectors because loud sounds made by the engines can cause ear damage. Rock music can be as loud as jet engines. Many rock performers have damaged their hearing permanently. If you damage the sensor cells in your inner ears, they are gone forever. It is a good idea to protect your ears from very loud sounds.
+
+What Do You Think?
+
+What is noise pollution? Give some examples of noise pollution in your environment, and rank them according to how much they affect you. Are all sources of noise pollution the same for everyone? What can be done in your community to reduce noise pollution?
+
+
+
+Did You Know?
+
+Your brain can “filter out” sounds so that you can concentrate on what you want to hear. Suppose you are at a party surrounded by people talking, loud music, and other sounds. Suddenly you hear your name. You can focus on just that conversation so you hear only what they say about you and not much else. What happened? Your brain filters what your ears are hearing. Your brain can switch your attention from all the party noises to the talk about you. Amazingly, your brain filters most sensory messages without your knowing it's happening.
+
+
+
+A Balancing Act
+
+Did you ever wonder how you manage to stand, walk, and run upright on just two feet? After all, a chair with two legs would fall over. Well, it's a part of your ear that helps you maintain your balance. Two organs that are built into your ear, next to the cochlea, help you to keep your balance. One organ senses sudden changes in movement. This organ is made of two little chambers. Lining the chambers are some sensory hairs that are embedded in thick stuff inside the chamber. When your head moves suddenly, the thick stuff moves and bends the hairs. These sensors send messages to the brain. The brain interprets these messages as movement. The other organ is called the semicircular canals. The semicircular canals detect changes in the position of your head and spine. These three looping canals are filled with fluid and lined with motion-sensitive hairs. Since each loop has a different orientation, the movement of fluids in them changes when the head changes position.
+
+
+
+
+
+If you spin around in circles, you feel dizzy when you stop. Why?
+
+What is motion sickness? How does it relate to your ears?
+
+
+
+
+
+When talking about the senses we typically think of the five senses. They are taste, smell, sight, hearing, and touch. Expand your thinking a little and see how many other senses you can think of. Do library research to find examples of animals that use different senses than we do. Write about how animals use different sources of information about the environment than we do.
+
+
+
+
+
+Review Questions
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+What role do sensors play in experiencing sensations?
+
+How do you know what type of sensation you're feeling?
+
+What is the difference between rods and cones? What do they do?
+
+In what ways does your eye work like a camera?
+
+How does your ear capture sound?
+
+
+
+
+
+Moving Muscles - Student Edition (Human Biology)
+
+
+
+
+
+Moving Muscles
+
+
+
+
+What makes your muscles move?
+
+You have learned about reflexes and how messages are sent through the body's nervous system. You also learned about visual and auditory senses. In this section you will explore the relationship between your brain and the muscles in your body.
+
+Imagine that you've burned yourself on a hot grill. Your reflexes pulled your hand back before you felt pain. Sensors in your skin continue to send pain messages to your cortex. Now you look at your hand, remember what to do for burns, and decide to go into the house to treat the injury. How does your brain communicate this decision to the rest of your body? Does your brain send messages to your muscles in the same way your sensors send messages to your brain? First we will learn a few facts about muscles, and then we will study how they are controlled by the brain.
+
+Muscle Types
+
+Any movement of your body requires the use of at least one muscle. Most movements, in fact, use many muscles. For example, think about throwing a baseball. As you wind up and raise your arm, muscles in your neck, shoulder, and back work together. Other muscles in your legs and back adjust your posture so you keep your balance. You are not aware of all the adjustments your muscles are making. As you throw, you only think about where you want the ball to go. The rest happens without thinking. How does your body manage such a complex motion, requiring coordination, speed, and strength?
+
+Your body has three types of muscles. Compare the three types in Figure 6.1. Your heart contains cardiac (KAR-dee-ak) muscle that pumps your blood through your body 24 hours a day. Lining your blood vessels and digestive tract are smooth muscles . Muscles called skeletal (SKELL-ih-tuhl) muscles move your bones. Skeletal muscle fibers look striped, or striated (STRI-ayt-ed).
+
+
+
+Figure 6.1 You have three types of muscle fibers in your body: cardiac, smooth, and skeletal (striated), each with a different arrangement of muscle fibers.
+
+Your cortex and spinal cord control your voluntary (VAHL-un-tayr-ee) muscles. These are the striated muscles you can move when and how you want to run, dance, play the violin, and talk. Parts of the brain stem, such as the pons and medulla, and the spinal cord control your involuntary (IN-vol-un-tayr-ee) muscles. Examples of involuntary muscles include the smooth muscles that squeeze your intestines and the cardiac muscle that pumps your blood. Involuntary muscles are not under your conscious control. They move automatically to help maintain your body. Although you can't control your involuntary muscles, you can control factors that affect them, such as stress, drugs, and alcohol. You will learn more about some of these factors in the next section.
+
+How Your Brain and Spinal Cord Move Muscles
+
+Think back to the example of the neuron as big as a bedroom in Figure 3.2. Remember that the neurons of your nervous system are divided into three groups. The sensory neurons bring information into the nervous system. Interneurons send messages between different parts of your nervous system. Motor neurons send information from the nervous system to all of the muscles of the body.
+
+This section focuses on how motor neurons work. You may remember that a message moves from the axon of a neuron to the dendrites of another neuron at a synapse. A motor neuron may have hundreds of dendrites and thousands of synapses on its dendrites that bring in messages from other neurons. Some of these neurons carry messages from the cortex and other parts of the brain, others from the spinal cord.
+
+Motor neurons in your spinal cord receive messages from the motor area of your cerebral cortex and cerebellum as well as direct input from sensors and spinal interneurons involved in reflexes. To reach your motor neurons, messages from your cerebral cortex travel down through your brain stem and spinal cord. These messages can tell your muscles to move or to retain just the right amount of tension to keep you from falling over.
+
+You may remember that your cerebrum is divided into two hemispheres, the right and the left. The motor cortex on the left cerebral hemisphere controls the right side of your body. The motor cortex of the right cerebral hemisphere controls the left side of your body. For example, if a neurosurgeon operating on your brain touched the part of your left motor cortex that controls foot movement, you'd move your right foot. Messages coming into and going out of your brain cross over from the left side to the right side in your medulla.
+
+When you made the “Big Brain on a Stick” model in Activity 2-1, you may have noticed that the sensory and motor areas occur where two lobes of the cerebrum meet. The sensory and motor areas lie on either side of a deep crevice. Each area has sections that correspond to body parts. On the “motor” side of the crevice, nerve impulses control movement. On the “sensory” side of this crevice, nerve impulses deliver sensory information from body parts.
+
+Motor neurons reach from the map in your motor cortex all the way down your brain stem and spinal cord. Figure 4.3 shows how one motor neuron from your cortex connects with the motor neurons used in the knee jerk reflex. There are thousands of other motor neurons coming down from the cortex. Also, each muscle is stimulated by many motor neurons from the spinal cord.
+
+
+
+
+
+Activity 6-1: Connecting Your Brain and Muscles
+
+
+Introduction
+
+How does information from your brain connect with your fingers and toes so that you can move them? You know that your brain has to send nerve impulses to muscles in your fingers and toes. In this activity you explore how the brain, nerves, and muscles connect. You work with a group of students to make a full-size map of the nervous system.
+
+Materials
+
+Colored marking pens (black, yellow, green, and brown)
+
+Butcher paper
+
+“Big Brain on a Stick” Model (from Activity 2-1)
+
+Transparent tape
+
+Colored yarn or string (green and yellow)
+
+Meter stick
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Select one group member as the model to trace.
+
+Step 2 Place the butcher paper on the floor and have the student lie down on the paper with arms and legs extended. It is important that all parts of the body remain on the paper.
+
+Step 3 While the student remains motionless, use the black marking pen to draw an outline of the body on the paper. Be careful not to mark any skin or clothing.
+
+Step 4 Have the student move carefully off of the paper, to avoid tearing it.
+
+Step 5 With the black marking pen, draw in an outline of the brain and spinal cord. You can use your “Big Brain on a Stick” model from Activity 2-1 as a pattern.
+
+Step 6 Use a yellow marking pen to color in the sensory areas of the brain responsible for walking and writing. You can review Section 2 of the text if you need help locating these areas.
+
+Step 7 Use a green pen to color in the motor areas of the brain responsible for walking and writing.
+
+Step 8 Use a piece of yarn to measure the length of the spinal cord of the student. Cut five pieces of yellow yarn and five pieces of green yarn the length of the spinal cord.
+
+Step 9 Position the yarn on the paper in the spinal cord area. Tape the yarn firmly to the paper using transparent tape.
+
+Step 10 Measure the distance from the spinal cord to the tip of a finger on your drawing. Use Figure 1.2 to find out where the nerves enter and leave the spinal cord.
+
+Step 11 Cut two pieces of yarn, one green and one yellow, to represent the nerves connecting the spinal cord with the fingers.
+
+Step 12 Position pieces of yellow and green yarn on the paper, connecting a finger to the spinal cord. Tape the yarn firmly to the paper.
+
+Step 13 Repeat Steps 10-12 to show the nerves connecting the spinal cord and one of the toes.
+
+Step 14 Use a brown marking pen to color the tip of the toe and finger to represent the muscle.
+
+Step 15 Follow your teacher's directions for cleanup and storage or display of your nervous system map.
+
+Walking
+
+When you walk, your brain sends messages to direct your steps. When you step forward with your right foot, you turn on the neuron that controls the quadriceps muscle on the front of your thigh. At the same time, you turn off the neuron that controls the biceps muscle on the back of your thigh. These messages let you swing your right foot forward. As you bring your left foot forward and place it on the ground, you turn on the biceps muscle and turn off the quadriceps muscle in your right leg. These messages let you pull your right leg back to get ready for your next step.
+
+
+
+
+
+Activity 6-2: Moving Muscles
+
+
+Introduction
+
+You can use your “Thinking Cap” from Activity 2-2 to show how your brain tells your muscles to move. Work with a lab partner and follow the steps below:
+
+Materials
+
+“Thinking Cap” from Activity 2-2
+
+Yellow and green yarn
+
+Scissors
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Remember the sensory and motor divisions of your nervous system. Let yellow yarn represent a sensory pathway, and use green yarn to represent a motor pathway. Cut four pieces of yarn of each color: two pieces 1 meter in length and two pieces 1.5 meters in length.
+
+Step 2 Have your lab partner put on the “Thinking Cap.”
+
+Step 3 Tape one long and one short piece of green yarn and one long and one short piece of yellow yarn to the right places on the right and left cerebral hemisphere.
+
+Step 4 Take the ends of the short pieces of green and yellow yarn from each side. Attach them to your partner's arms. Which arms did you attach them to? If you attached the yarn from the right side of the “Thinking Cap” to the left arm, you did so correctly.
+
+Step 5 Repeat Step 4, attaching the longer pieces to your partner's legs.
+
+Step 6 Touch the yellow yarn on one of the arms or legs. Your lab partner should tell you which side of the “Thinking Cap” would receive the information about the touch. On your Activity Report, explain why this happens. Which direction does the nerve impulse travel in the pathways represented by the yellow yarn? The green yarn?
+
+Step 7 How does information get from the sensory pathway to the motor pathway? Describe where synapses occur in the pathways you created with yarn. Write your responses on the Activity Report.
+
+
+
+Figure 6.2 With practice, your brain learns to control your body efficiently.
+
+How Do You Learn to Move Efficiently?
+
+Have you tried to learn to play a musical instrument or ride a bike? Have you watched a baby learning to walk? You know that moving muscles gently, smoothly, and in rhythm takes practice. What happens when you practice moving?
+
+Did You Know?
+
+You have some muscles that contract more slowly, but tire less easily. These muscles are called slow-twitch muscles. You also have fast-twitch muscles. They work more quickly, but tire more easily. Endurance sports, such as swimming, develop slow-twitch muscles. Track sprinters develop their fast-twitch muscles. Individuals better at one kind of sport than another may naturally have more fast-twitch or slow-twitch muscles.
+
+
+
+Why does practice help you move better? What happens in your cerebellum and your cerebral cortex? Your brain learns to inhibit or stop unwanted movements. It turns on neurons that inhibit unwanted movements, so that only the wanted movements happen. It takes time and practice for your cerebral cortex and brain stem to learn to move your body efficiently. Learning new things makes the neurons in your brain establish new connections with other neurons. As you learn more, the connections between your neurons form a complex web.
+
+What Part of the Brain Coordinates Your Movements?
+
+Have you ever seen a drunken person moving? People who are drunk stumble, fall, and slur their words. What's happening in their brains? Alcohol can pass through the blood-brain barrier between the blood vessels and the neurons in the brain. Alcohol slows down all neurons, and therefore impairs thinking, decision making, and judgment. The effect of alcohol on the cerebellum is particularly noticeable, however.
+
+The cerebellum helps the brain coordinate muscle movements. The cerebellum is sort of like the conductor of an orchestra. The conductor sees the music as it is written and hears the music as it is played. When there is a mismatch, the conductor tries to fix it by getting some of the musicians to play louder or softer or faster or slower. The cerebellum gets information from the motor cortex and from sensors in the joints and muscles. It can compare these two kinds of information and modify the commands to the muscles. When the cerebellum isn't working right, such as when a person is drunk, the person can't coordinate muscles. As a result, the person stumbles, staggers, and cannot walk or drive in a straight line.
+
+
+
+
+
+How would drinking alcohol affect your performance in the following activities? What are some things that might happen if you drank alcohol and tried to do these activities?
+
+taking a math test
+
+riding a bike
+
+playing baseball
+
+
+
+
+
+How Does Muscle Control Differ in Your Feet and Hands?
+
+Many motor neurons control each of your muscles. Small muscles in the fingers and eyes have finer control than leg and foot muscles. Each motor neuron connected to your finger muscles controls just a small part of each finger muscle. It would be much harder to learn to write with your feet because each motor neuron connected to a foot muscle controls a larger part of that muscle. Therefore, control of movement in your feet is not as fine as the control of movement in your hands.
+
+Many things can affect your nervous system and your movements. Some examples include drugs, alcohol, injury, illness, or even what you eat.
+
+
+
+
+
+Activity 6-3: The Nervous System and Muscles Working Together
+
+
+Introduction
+
+What is the role of the nervous system when you use your muscles for walking or writing? Can you write better with your hand or your foot? In this activity you explore how your nervous system is responsible for muscle action.
+
+Materials
+
+Writing paper
+
+Tape
+
+Marking pens
+
+Activity Report
+
+
+
+Procedure
+
+Part A. Walking Muscles
+
+Step 1 Walk forward slowly, one step at a time. Think about the thigh muscles you are using.
+
+Step 2 Now, take a step with your right foot. Bend over to feel the quadriceps and biceps muscles in your thigh as you take a step. Describe your observations to your lab partner.
+
+Step 3 With your weight on your right foot, feel the quadriceps and biceps muscles in your left thigh as you move it forward to Take a step. Describe your observations to your lab partner.
+
+Step 4 What is the difference between the muscles of a walking leg that is taking a step, and a walking leg that is just finishing a step?
+
+Step 5 Complete section A in the Activity Report.
+
+Part B. Writing Muscles
+
+Step 1 Tape a piece of paper onto the wall.
+
+Step 2 Hold a marking pen in your hand and write your name on the paper on the wall.
+
+Step 3 Remove your shoe. Secure a marking pen between your toes.
+
+Step 4 Lie on your back or sit in a chair near the wall, so you can reach the paper with your “writing foot.” Write your name on the paper on the wall.
+
+Step 5 Complete section B of the Activity Report.
+
+
+
+
+
+What activities are you really good at? Are you good because you have natural talent or because you've worked hard to make the connections between neurons that you need to be successful?
+
+
+
+
+
+Review Questions
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+What causes muscles to contract?
+
+How do we learn new movements, such as dance steps or a new piece on the piano?
+
+What role does the cerebellum play in moving muscles?
+
+Do all muscles have the same number of motor neurons? Explain.
+
+
+
+
+
+Maintaining a Healthy Nervous System - Student Edition (Human Biology)
+
+
+
+
+
+Maintaining a Healthy Nervous System
+
+
+
+
+What can you do to keep your nervous system healthy?
+
+By now you should realize that the nervous system controls just about everything your body does. We introduced the nervous system by discussing how NASA's Mission Control keeps track of everything involved in a space shuttle flight, detects errors, corrects them, and sends out instructions for all aspects of the flight plan. In a similar way, the nervous system is constantly gathering information about conditions inside and outside the body, evaluating this information, and sending commands to our organs, glands, and muscles. In addition, the nervous system enables us to learn, understand, remember, plan for the future, and behave in productive, creative ways. As you can imagine, there can be serious consequences both in terms of health of the body and in terms of behavior if the nervous system does not work properly. In this section you will learn what some of those consequences are and how to stay healthy.
+
+Let's first review what we have learned about the nervous system. Then we will consider some problems that occur when the nervous system is sick, damaged, or not working well. It is important to realize that we are really just beginning to understand the brain. There is a lot we do not know. But it is important to use what we do know to keep our nervous systems as healthy as possible.
+
+In this unit you have learned a lot about how the nervous system works. For example, you learned
+
+the nervous system is made up of billions of neurons that receive and send information.
+
+what the various parts of the cerebral cortex are and how they interpret information and send out nerve impulse messages.
+
+your brain receives information from sensory neurons and sends instructions back out through motor neurons.
+
+reflexes are the simplest type of circuit in the nervous system, and they exist to help the body function and protect it from immediate danger.
+
+how the eyes and ears code sights and sounds into nerve impulses that travel to the brain. It is in the brain that you experience sight and sound.
+
+how the brain coordinates movement.
+
+
+
+
+
+Activity 7-1: Cortical Experiences
+
+
+Introduction
+
+Many difficult tasks are accomplished by your brain. In this activity you review important functions of the brain and locate the parts of the brain responsible for those functions.
+
+Materials
+
+Brain models such as “Big Brain on a Stick” and “Thinking Cap”
+
+Plastic wrap
+
+Washable markers (various colors)
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Obtain a model of the brain, such as “Big Brain on a Stick,” described in Activity 2-1 and “Thinking Cap,” described in Activity 2-2. Cover your model with a layer of plastic wrap.
+
+Step 2 Find the parts of the cortex responsible for each of the five senses: hearing, sight, smell, taste, and touch.
+
+Step 3 Use a washable marking pen to label your model. Indicate the name of each region of the cerebral cortex and its function.
+
+Step 4 Using your labeled model as a guide, complete the questions on the Activity Report.
+
+Now that you learned about how your nervous system functions, let's investigate some of the problems that can affect your nervous system. What diseases and disorders disrupt the nervous system? How can you take good care of your nervous system and make its job easier?
+
+Diseases and Disorders of the Nervous System
+
+Think about the billions of cells in the nervous system and the complex structure of the brain. With all the information the nervous system handles every day, it's not surprising that sometimes things go wrong. Here are some of those things that can and do go wrong.
+
+Headaches
+
+Many people suffer from headaches. The most common causes of headaches include infections and allergies in the eyes, ears, nose, or sinuses. Infections and allergies cause swelling and excess secretions, which put pressure on facial nerves and cause pain. Other causes of headaches include drinking too much alcohol, tumors, structural problems with blood vessels, or meningitis (inflammation of the meninges). Stress can cause headaches by making the muscles in the neck and back of the head tense. Remember that there are no pain sensors in brain tissue itself. There are pain sensors in the meninges however. Also, pain sensors are associated with the blood vessels going through the brain (see Figure 7.1.)
+
+
+
+Figure 7.1 A migraine headache is a debilitating disorder of the nervous system.
+
+Alzheimer's Disease
+
+Alzheimer's disease affects about four million people in the United States each year. Most of the victims are people over 65 years of age. The disease causes a huge loss of neurons in the brain. It also causes abnormal neuron structure that disrupts synapses and abnormal mineral deposits. The result is a gradual loss of brain function beginning with mild memory loss. When a person with Alzheimer's disease has trouble remembering things or moving around, the symptoms are sometimes dismissed as just a part of “getting old.” Eventually, people with Alzheimer's disease become unable to function at all. At the present time, there is no treatment for this disease.
+
+Did You Know?
+
+The National Institute of Aging estimates that hundreds of thousands of new cases of Alzheimer's disease may develop each year. This table shows the percentage of people in each age group that will develop the disease each year.
+
+
+
+Age Group Percentage Developing Alzheimer's Each Year
+
+65-69 0.6%
+
+70-74 1.0%
+
+75-79 2.0%
+
+80-84 3.3%
+
+85+ 8.4%
+
+Go to your library and find out how many people in the United States belong to each age group. With this information, calculate the number of people affected by Alzheimer's disease each year.
+
+Mental Health Disorders
+
+Many people suffer from disorders of the nervous system that dramatically influence or impair their behavior. These mental health disorders can appear in a variety of ways. Some mental health disorders are behavioral changes that are not very far from what would be considered normal. But others can make it impossible for a person to function in society. For example, we all feel sad, bored, or just down at times. But serious episodes of depression go beyond the normal ups and downs of everyday life. Persistent sadness and inability to take an interest in or enjoy normal activities can be a sign of serious or clinical depression. Depressed individuals may have frequent physical complaints such as headaches and stomach aches. They may also avoid normal situations such as school or work. Some people cycle between a state of depression and a state of mania characterized by abnormally high energy levels. In the manic state a person may go days without sleep. Manic depressive illness may be due to biochemical imbalances in the nervous system, and often can be treated with prescription drugs.
+
+Another type of mental health disorder is anxiety. All of us feel nervous and anxious from time to time. It is entirely normal to feel that way before giving a presentation to your class or before a major athletic event. But sometimes anxieties can get so severe that they interfere with daily activities. Some people feel anxious in open spaces or in crowds. As a result, they cannot leave their homes and interact with other people. An abnormal fear and anxiety caused by a specific item or situation is called a phobia. Fear of open or public places is agoraphobia. There was a movie several years ago called Arachnophobia . Do you know what that means? A psychiatrist or clinical psychologist can help someone overcome anxieties and phobias.
+
+Eating disorders are also mental conditions that can be helped by consultation with a specialist. Anorexia nervosa is characterized by an irrational fear of being fat. Consequently, the anorexic person develops a type of self-imposed starvation. Bulimia is another type of eating disorder. Bulimia is characterized by periods of excessive eating, called bingeing, which are followed by vomiting. Unfortunately, the number of cases of both anorexia nervosa and bulimia are increasing among teenage girls and young women in the United States. These eating disorders can be so severe that they cause serious malnutrition and even death. If you suspect one of your friends is tending toward one of these disorders, suggest that he or she seek help from a counselor or doctor who specializes in adolescent medicine.
+
+Learning disabilities are another type of mental health disorder. Learning disabilities can be caused by nervous system problems with receiving, processing, or communicating information. Some learning disabled children are also hyperactive and have very short attention spans. Many people with learning disabilities, however, are extremely bright and may try very hard to follow instructions, concentrate, and do assigned tasks. But they simply may be incapable of keeping up. Learning disabilities affect as many as 15% of otherwise normal school children, and frequently with special help they can be overcome.
+
+Mental disorders that are so severe that an individual cannot function in society are called psychoses. A person with a psychosis is not able to distinguish fact from fantasy. He or she may hear voices or hallucinate. A hallucination is seeing or hearing something that isn't there. It is caused by abnormal brain activity in parts of the brain that would normally receive the sensations that are being imagined.
+
+Severe manic-depressive illness can be a psychosis. The most common psychosis among young people is schizophrenia. In initial stages, schizophrenia makes a person have strange thoughts, feelings, and behaviors. For example, a person may wash his or her hands time and time again or hear voices that aren't there. Paranoid schizophrenia is a condition in which the person thinks he or she is being followed, listened to, and spied upon. He or she is constantly afraid and knows that there are enemies everywhere. Try to imagine what it would be like to think that enemies are spying on everything you say or do and are constantly surrounding you. Schizophrenics can be cured, and can lead normal lives. People with the worst cases of psychoses, however, must be kept in appropriate medical facilities.
+
+
+
+Figure 7.2 (Left) PET image of a healthy brain shows normal activity. (Right) PET image of a schizophrenic brain shows reduced activity, particularly in the frontal lobes regions involved in complex though processes.
+
+Brain Tumors/Cancer
+
+Brain tumors and cancer are abnormal cell growths in the brain. A tumor is a mass of abnormal cells. The growth of a tumor creates swelling and pressure in the brain. The swelling and pressure can destroy healthy brain cells or prevent them from functioning effectively. Brain tumors or cancer can cause a wide range of problems but can be treated if discovered early enough.
+
+
+
+Figure 7.3 MRI image of a brain-tumor patient reveals a tumor in the upper-right region of the brain.
+
+Strokes
+
+Two types of strokes affect the brain. In one type of stroke, too little blood reaches a region of the brain. Another type of stroke is caused by a ruptured blood vessel, which bleeds into a brain area. Both kinds of stroke can destroy surrounding brain tissue. Brain damage from strokes can cause inability to move a body part and difficulty seeing, speaking, and communicating. For example, a person who has suffered a stroke may be unable to move one side of the face, while the other side remains normal. Because each side of the brain controls the opposite side of the body, a stroke on the left side of the brain affects the right side of the body.
+
+
+
+Figure 7.4 In this cross section of a stroke patient's brain, a massive hemorrhage has caused swelling of the right hemisphere.
+
+Brain Trauma/Spinal Cord Injuries
+
+Some types of cells in your body do a good job of healing, such as your skin cells. But brain and spinal cord tissues are not so quick to heal. In fact, damage to neurons is usually permanent. In peripheral neurons, some regrowth of axons can occur. If the sensory nerves in your finger are damaged, they can regrow over a period of months, so that feeling in the finger returns. If part of the spinal cord is severed however, the connections between neurons are permanently destroyed. Messages cannot get past the severed area. As a result, a person with a spinal cord injury loses sensation and becomes paralyzed in the area below the spinal cord damage.
+
+
+
+
+
+Learning More about Nervous System Disorders
+
+Select one of the following nervous system disorders and do library research on it. Write a report to share your findings with the class.
+
+Tourette's Syndrome
+
+Attention Deficit
+
+Schizophrenia
+
+Aphasia
+
+Fetal Alcohol Syndrome
+
+Parkinson's Disease
+
+Epilepsy
+
+Dyslexia
+
+Depression/Syndrome Mania
+
+Psychosis
+
+Autism
+
+Down Syndrome
+
+Another topic approved by your teacher
+
+
+
+
+
+Damage to brain cells is permanent. Since each lobe of the brain has different functions, the effects of brain damage depend on the area damaged. Although brain and spinal cord neurons do not heal, other parts of the brain and spinal cord can work to compensate for lost functions. Just as people without the use of their legs may more fully develop their arms and upper body, other brain regions can learn to take over some functions lost by brain damage. For example, someone who suffers speech loss because of damage to the left cerebral hemisphere can recover speech as the right hemisphere takes over.
+
+Drug and Alcohol Addiction
+
+Think back to the discussion about neurotransmitters. Remember that neurotransmitters are the chemicals that carry messages across the synapse, from one neuron to the next. Drugs, or any chemical, can affect your body by interfering with the neurotransmitters. Some illegal drugs, such as LSD, block receptors and prevent messages from crossing synapses. Others act like neurotransmitters or alter the actions of normal neurotransmitters.
+
+Your brain helps you seek out the things that give you pleasure or make you feel good. For example, your brain makes you want to eat a good meal, get a good night's sleep, or exercise. When you succeed at a task such as playing a piece of music perfectly, hitting a home run, or getting an A on your science test, your brain makes you feel good. This desire to seek good feelings leads some people into drug addiction. A person might try drugs, enjoy the experience, and try it again. However, after a while, the brain begins to need the drugs. When that happens, living becomes very difficult without the drug. At the same time, the drugs can cause parts of the nervous system to work abnormally.
+
+Cocaine is an example of one drug that causes addiction while damaging the brain. Cocaine causes a feeling of high energy or a “rush” because it blocks the re-uptake of a certain neurotransmitter called dopamine. The blocked re-uptake means that the transmitter stays in the synapse longer and stimulates the target cell more. The nervous system gradually readjusts itself so it releases less and less dopamine with each nerve impulse. Because less dopamine is being released, it takes more and more cocaine to get the same effect that a small dose had originally. Each time the drug wears off, the person feels worse because of abnormally low dopamine levels. Thus, the person craves more of the drug. Meanwhile, the drug is causing bad things to happen elsewhere in the brain. Cocaine causes decreased blood flow to the cerebral cortex for example. With repeated loss of its blood supply, cells in the cortex die and are lost forever. Cocaine users lose more and more brain capacity!
+
+Each person's nervous system responds somewhat differently to drugs and alcohol. For example, one drink may not affect a person at all, but may make another person half-drunk. One dose of a drug may barely affect a person, but kill another. Keep in mind that in addition to being addictive, drugs can permanently damage your brain. Drugs can destroy brain cells or the connections between them. The blood-brain barrier does not protect the brain from chemical damage-only your behavior can.
+
+Alcohol changes the chemistry of every cell in your body. You are particularly sensitive to changes in the cerebellum. Drinking can make you lose your coordination and balance. Some people become louder and more aggressive when drinking. Others tend to become more quiet and moody. People who drink frequently over long periods of time can become alcoholics. Alcoholics are addicted to alcohol in much the same way as many drug users are addicted to drugs. In addition to destroying brain cells, alcohol destroys other vital organs, such as the liver.
+
+Drug and alcohol use by pregnant women can cause serious problems for the unborn child. If a pregnant woman uses drugs, her child may be born addicted or brain damaged. Children born to alcoholic mothers have smaller cortexes. Their neurons and connections between parts of the brain are poorly developed. As a result, these children have a range of problems known as fetal alcohol syndrome. Children with fetal alcohol syndrome may be physically deformed and/or mentally retarded.
+
+Cerebral Palsy
+
+Cerebral palsy is caused by damage to the motor area of the brain during pregnancy, childbirth, or infancy. Damage to the motor area of the brain causes poor muscle control and lack of coordination. People with cerebral palsy sometimes also have poor hearing and communication skills. Many people with cerebral palsy have no other mental disabilities, attend regular schools, and are very smart. Computers can help people with cerebral palsy overcome difficulties of communication. Cerebral palsy cannot get worse over time, and in some cases surgery can help lessen the effects of poor muscle control.
+
+Staying Healthy
+
+Every person's nervous system is unique-like a fingerprint. Your nervous system may be better at some things than another person's. The challenge lies in finding those things you're naturally good at and developing those talents. A big part of developing your natural abilities is learning to take care of yourself. Since your nervous system takes part in everything you do, your actions and behavior can directly affect its functions. Learning to take care of your body will enable you to get your body to perform at its best. Let's review some of the basics in caring for your nervous system.
+
+Did You Know?
+
+Your brain has a biological clock in the hypothalamus that tells you when it is time to sleep and time to wake up. If the cells that make up this clock are damaged in an animal, that animal will be just as likely to sleep, wake, eat, and drink at any time of day. It will have no daily rhythms. When people take plane trips across many time zones, the brain's clock is still running on home time. This can cause a problem called jet lag until the brain clock can be reset to local time.
+
+
+
+
+
+Figure 7.5 What would you make of the daily rhythms of these teens?
+
+Did You Know?
+
+There are two kinds of sleep: REM sleep and non-REM sleep. REM stands for rapid eye movements. During REM sleep you have vivid dreams and your eyes dart back and forth under your eyelids as if you are watching the events in your dream. Your body doesn't move to act out the dream because your brain inhibits the motor neurons in your spinal cord. During REM sleep your EEG looks like your brain is awake! During non-REM sleep the EEG is different; the brain is quieter and you do not have vivid dreams. When you first go to sleep, you are in deep non-REM sleep. Only about 20% of sleep is REM sleep.
+
+
+
+Sleep
+
+Sleep directly affects how your nervous system functions. Chemical substances in the brain cause you to feel sleepy and to wake up. When you don't get enough sleep, you may feel drowsy, uncoordinated, and forgetful. You can't think properly. If you read something, you forget it. Why? Sleep not only provides time for your muscles to rest, it provides essential restoration for your brain. When you do not get enough sleep, you accumulate a sleep debt that must eventually be paid back. It may cause you to fall asleep at times when you shouldn't, such as in class and at a movie. Falling asleep while driving is one of the biggest causes of traffic fatalities.
+
+No one knows for sure what the function of sleep is, or how it affects our behavior. Some people need more sleep; others need less. The brain, heart, lungs, and even muscles continue to function during sleep. The brain, in fact, goes through cycles of activity and inactivity during sleep. While you sleep, you have periods of deep, dreamless sleep and periods of light, dream-filled sleep. Some scientists think that sleep provides time for the brain to process information from the day. The brain can make new connections between neurons based on important information, and throw out unimportant information. Other scientists think that sleep restores the energy reserves of the brain.
+
+
+
+
+
+How Much Sleep Do You Need?
+
+For two weeks, keep track of how much sleep you get by recording the times you fall asleep and wake up. Make a note each day of your physical and mental energy levels. After two weeks, study your notes and see if there are any correlations between sleep and performance. Where could you go to find more information about this topic?
+
+
+
+
+
+Did You Know?
+
+Some scientists think that more than half of what we learn during our whole lives happens in the first six to seven years.
+
+
+
+What Do You Think?
+
+Is the mind the same thing as the brain? Explain.
+
+What preparation would you recommend to a friend who is taking a test, giving a presentation, or writing a paper? You want to help her keep her mind sharp. What should she do the night before and the day before?
+
+
+
+
+
+“What is mind? No matter. What is matter? Never mind.”
+
+-Thomas Hewitt Key
+
+
+
+Learning
+
+You may have heard the phrase “use it or lose it.” For example, you have to use your muscles to keep good muscle tone. The same thing applies to your brain. When you use your brain, you stimulate electrical activity. When you learn new things, your brain develops new connections. The more you use your brain, the more connections your neurons keep making. If you don't use your brain, these connections can weaken or disappear. You gradually lose neurons as you age. Some scientists think that if you keep your brain active, you stay more mentally alert. Since you lose brain cells every day, you might as well put them to use while you have them!
+
+Memory is another function of your cortex. Memory and learning are closely related. To learn, you need to be able to remember, but too much memory could make it hard to learn. Suppose you remembered everything you ever read or did. Some people can. Some people, called savants, have special memory abilities for very limited topics. For example, they may remember all of the numbers in a phone book or all of the baseball scores from games played over many years.
+
+
+
+
+
+Activity 7-2: Improving Your Memory
+
+
+Introduction
+
+How is it possible to improve memory? Since a good memory makes learning easier, it is helpful to discover how you can improve your memory. In this activity you investigate some ways to improve your memory.
+
+Materials
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 One way to improve your memory is to make connections between the things you have to remember or between what you want to remember and what you already know. Some ways of making connections include creating stories, pictures, songs, or mnemonic (nee-MAHN-ik) devices. Remember that making connections is important as you read the list of words below.
+
+computer
+
+magazine
+
+hamburger
+
+hospital
+
+trucks
+
+television
+
+window
+
+swimming pool
+
+flowers
+
+
+
+Step 2 Think about how you could connect or relate these words so they would be easier to remember. Discuss these methods with your lab partners and create a team list of suggestions for making connections. Record this list on the Activity Report.
+
+Step 3 Select the method that you prefer and record it on the Activity Report.
+
+Step 4 Using your preferred memory method, look again at the list and concentrate on remembering the items on the list.
+
+Step 5 Cover up the list and use the space provided on the Activity Report to write down the words from memory. When you have finished, check the original list to see how many words you remembered correctly. Write down your score by the list.
+
+Step 6 Think about this memory method and how well it worked for you. Was it effective? Could it have been more effective? How? Record your comments and complete the remaining items on the Activity Report.
+
+You Are Unique
+
+Why can . . .
+
+some people have perfect pitch and sing any song but not have good balance?
+
+some people play trombone but not play basketball?
+
+some people do math in their heads and play chess but can't write a story or paint a picture?
+
+
+
+Your nervous system is amazing. It is made up of billions of neurons and many kilometers of axons and dendrites. Enough electricity moves through your nervous system to light a 10-watt bulb. Your brain weighs 1.4 kilograms (a little more than 3 pounds) and is responsible for making you who you are. No one else's brain or nervous system works quite like yours.
+
+Although people have been studying the brain for thousands of years, many questions remain. The National Science Foundation named the 1990s the Decade of the Brain. In the 1990s, scientists have learned more about the brain than in all previous years combined. But the brain is such a complex organ that it seems we have only scratched the surface in what we understand.
+
+
+
+
+
+Activity 7-3: Your Nervous System in Action
+
+
+Introduction
+
+Are you aware of the many difficult tasks your brain accomplishes? In this activity you have the opportunity to explore some of the important actions of your nervous system. Then you apply what you have learned to some situations in daily life.
+
+Materials
+
+Text
+
+Models of the brain (“Brain on a Stick” and “Thinking Cap”)
+
+Activity Report
+
+
+
+Procedure
+
+Step 1 Place your text, the “Brain on a Stick” model, and the “Thinking Cap” in front of you.
+
+Step 2 Discuss each question on the Activity Report with a lab partner. Use the text, including Figure 1.2, and your models as references.
+
+Step 3 Complete the Activity Report.
+
+As you study, walk, or bike at school today, think about the electrical impulses running up and down your body. Think about the sensory neurons sending messages to your brain and the motor neurons firing to keep you moving. While you're at it, consider all the nervous system functions you're not even aware of. Your brain is a wondrous part of your incredible nervous system. Enjoy it and take good care of it!
+
+
+
+
+
+Review Questions
+
+
+Sample answers to these questions will be provided upon request. Please send an email to teachers-requests@ck12.org to request sample answers.
+
+
+
+Name and describe three brain/nervous system disorders.
+
+Name three ways drugs or alcohol can affect the nervous system.
+
+Why is drug use of such concern?
+
+Describe four ways you can take care of your nervous system.
+
+List three “fun facts” you've learned about the brain and nervous system that you didn't know before you read this unit.
+
+
+
+
+
+Nervous system Glossary - Student Edition (Human Biology)
+
+
+
+
+
+Glossary
+
+
+anorexia nervosa
+
+an eating disorder characterized by an irrational fear of being fat.
+
+
+
+astrocytes (AS-trow-sites)
+
+star-shaped cells that play a role in the blood-brain barrier. Parts of these cells wrap around and cover the brain's small blood vessels to help control which substances enter the brain.
+
+
+
+axon
+
+a process of a neuron that carries a message away from the cell body.
+
+
+
+blood-brain barrier
+
+a mechanism that prevents the passage of germs and some chemicals from the blood to the brain, keeping germs and some chemicals from entering the brain.
+
+
+
+brain
+
+the structure located inside the skull that coordinates almost everything the body does.
+
+
+
+brain stem
+
+the structure at the end of the spinal cord leading to the brain from the spinal cord. The brain stem includes the medulla (meh-DOOL-Iuh), pons (PAHNS), and midbrain.
+
+
+
+bulimia
+
+an eating disorder characterized by periods of excessive eating, called bingeing, that are followed by vomiting.
+
+
+
+cardiac (KAR-dee-ak) muscle
+
+the type of muscle that makes up the heart.
+
+
+
+cell body
+
+the part of the neuron, which contains its nucleus and other important cell parts.
+
+
+
+cerebellum
+
+the part of the brain located at the back of the brain stem below the bump at the back of your head that controls movement.
+
+
+
+cerebral cortex
+
+a thin layer of grayish-beige material that covers the cerebrum.
+
+
+
+cerebrum
+
+the dorsal anterior portion of the forebrain. Lobes in the cerebrum are responsible for motion, speech, judgment, personality, some memory, hearing, understanding speech, touch, pressure, pain, vision, and awareness of language, reading, and the body.
+
+
+
+cerebral hemispheres (ser-REE-bruhl HEM-i-sfeers)
+
+the two sections that make up the cerebrum.
+
+
+
+cerebrospinal (ser-REE-broh-spi-nul) fluid
+
+a fluid found between the skull and the membranes covering the brain that works like a water bed to cushion the brain.
+
+
+
+cochlea (KOH-klee-uh)
+
+a winding, cone-shaped tube containing a fluid and forming a portion of the inner ear.
+
+
+
+cornea (KOR-nee-uh)
+
+a clear protective sheath that covers the iris and pupil of the eye.
+
+
+
+dendrite
+
+a process of a neuron that carries messages toward the cell body of the neuron.
+
+
+
+eardrum
+
+a thin piece of skin stretched across the ear canal. Sounds traveling through the ear canal make the eardrum vibrate.
+
+
+
+electroencephalogram (ee-LEK-troh-en-CEF-Ioh-gram), or EEG,
+
+a record of electrical activity measurements of huge numbers of neurons measured by electrodes attached to the skull.
+
+
+
+electrodes (ee-LEK-trohdes)
+
+very fine wires that are used to record the nerve impulse sent by neurons.
+
+
+
+frontal lobe
+
+the anterior part of the cerebrum.
+
+
+
+glial (GLEE-uhl) cells
+
+cells such as astrocytes that help neurons do their jobs.
+
+
+
+hammer, anvil, and stirrup
+
+three tiny bones that cross the middle ear from the back of the eardrum. These tiny bones move whenever the eardrum moves.
+
+
+
+homeostasis (hoh-mee-oh-STAY-sis)
+
+the state of internal balance by which the body keeps conditions about the same, even if conditions in the environment change.
+
+
+
+hypothalamus (hypo means below)
+
+a structure in the brain below the thalamus that regulates body temperature, eating, drinking, and sexual functions. The hypothalamus is located at the center of the cerebral hemispheres and, with the thalamus, joins the cerebrum to the brain stem.
+
+
+
+iris
+
+the circular, pigmented, muscular membrane around the pupil and behind the cornea.
+
+
+
+lens
+
+an elastic, naturally curved tissue controlled by tiny muscles called ciliary muscles.
+
+
+
+meninges (meh-NIN-jeez)
+
+membranes that look like a thin sheet of plastic and cover and protect the brain.
+
+
+
+nerve fibers
+
+structures that run throughout all parts of the body and transmit information between all tissues and the nervous system.
+
+
+
+neurobiologists (NUR-oh-bi-AHL-uh-jists)
+
+scientists who study the brain and nervous system.
+
+
+
+neurons
+
+nerve cells, which are the building blocks of the nervous system.
+
+
+
+neurotransmitters (NUR-oh-trans-MIT-urs)
+
+chemicals released at the synapse from the end of an axon of one neuron. The neurotransmitters travel across the synapse to the dendrites of the next neuron to be converted to an electrical signal and carry on the nerve impulse.
+
+
+
+occipital lobe
+
+the part of the brain that controls vision.
+
+
+
+parietal lobe
+
+the part of the cerebral cortex that receives information about touch, pressure, and pain. The parietal lobe also acts as a language, reading, and body awareness center.
+
+
+
+pinna
+
+the part of the ear that surrounds the hole that goes into the skull.
+
+
+
+pupil
+
+the hole that is the dark spot in the center of the eye.
+
+
+
+reflex
+
+an automatic reaction to a stimulus.
+
+
+
+retina (RET-ihn-uh)
+
+a structure of the eye made of cells that capture the light energy that falls on them and converts the light patterns into nerve impulses that go to the brain.
+
+
+
+skeletal (SKELL-ih-tuhl) muscle
+
+the type of muscle that moves the bones of the body.
+
+
+
+smooth muscle
+
+the type of muscle that lines the blood vessels and digestive tract and many other organs in the body.
+
+
+
+spinal cord
+
+a freeway of thousands of information tracks going to and from the brain. The spinal cord runs down the center of the backbone and joins the brain at the base of the skull.
+
+
+
+stimulus
+
+anything that causes an action or response.
+
+
+
+synapse
+
+a space or gap between neurons.
+
+
+
+temporal lobe
+
+a section of the brain located along the sides of the head, just above the ears that is responsible for hearing and understanding speech.
+
+
+
+thalamus
+
+a structure in the brain that works like a switchboard. It receives messages from sensory nerves and passes them on to the correct part of the cortex maps. The thalamus is located at the center of the cerebral hemispheres and, with the hypothalamus, joins the cerebrum to the brain stem.
+
+
+
+
+

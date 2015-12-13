@@ -27,7 +27,12 @@ correct_h = {}
 correct_count = 0.0
 total = 0.0
 truth_set.each do |id, correct_letter|
-  correct_bool = correct_letter.downcase == predictions[id].downcase
+  begin
+    correct_bool = correct_letter.downcase == predictions[id].downcase
+  rescue
+    binding.pry
+  end
+  
   correct_h[id] = correct_bool
 
   total += 1
